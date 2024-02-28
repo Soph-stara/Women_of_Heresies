@@ -7,4 +7,6 @@ In the magazine, many of the articles published reference notable feminist write
 With a total of 27 issues, there is a large network of feminist authors and artists that contributed to the magazine and shaped the New York City feminist scene of the late Seventies to early Nineties. 
 Luckily, this network can be retraced as all issues have been archived and made available online.
 
+We have worked with Neo4j.
+
 Find the online archive here: http://heresiesfilmproject.org/archive/#1156 
