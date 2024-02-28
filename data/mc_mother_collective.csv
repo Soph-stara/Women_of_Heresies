@@ -1,0 +1,426 @@
+﻿row;mc;mc_id;mc_member;mc_member_id
+1;Feminism, Art and Politics;50000;Beckert, Patsy;80000
+2;Feminism, Art and Politics;50000;Braderman, Joan;80001
+3;Feminism, Art and Politics;50000;Edelson, Mary Beth;80002
+4;Feminism, Art and Politics;50000;Hammond, Harmony;80003
+5;Feminism, Art and Politics;50000;Hess, Elizabeth;80004
+6;Feminism, Art and Politics;50000;Kozloff, Joyce;80005
+7;Feminism, Art and Politics;50000;Ladden, Arlene;80006
+8;Feminism, Art and Politics;50000;Lippard, Lucy R.;80007
+9;Feminism, Art and Politics;50000;Miss, Mary;80008
+10;Feminism, Art and Politics;50000;Pottenger, Marty;80009
+11;Feminism, Art and Politics;50000;Schapiro, Miriam;80010
+12;Feminism, Art and Politics;50000;Snyder, Joan;80011
+13;Feminism, Art and Politics;50000;Solomon, Elke;80012
+14;Feminism, Art and Politics;50000;Steir, Pat;80013
+15;Feminism, Art and Politics;50000;Stevens, May;80014
+16;Feminism, Art and Politics;50000;Stuart, Michelle;80015
+17;Feminism, Art and Politics;50000;Torre, Susana;80016
+18;Feminism, Art and Politics;50000;Weatherford, Elizabeth;80017
+19;Feminism, Art and Politics;50000;Webster, Sally;80018
+20;Feminism, Art and Politics;50000;Yankowitz, Nina;80019
+21;Patterns of Communication and Space Among Women;50001;Applebroog, Ida;80020
+22;Patterns of Communication and Space Among Women;50001;Beckert, Patsy;80000
+23;Patterns of Communication and Space Among Women;50001;Braderman, Joan;80001
+24;Patterns of Communication and Space Among Women;50001;Edelson, Mary Beth;80002
+25;Patterns of Communication and Space Among Women;50001;Friedrich, Su;80021
+26;Patterns of Communication and Space Among Women;50001;Froelich, Janet;80022
+27;Patterns of Communication and Space Among Women;50001;Hammond, Harmony;80003
+28;Patterns of Communication and Space Among Women;50001;Heinemann, Sue;80023
+29;Patterns of Communication and Space Among Women;50001;Hess, Elizabeth;80004
+30;Patterns of Communication and Space Among Women;50001;Kozloff, Joyce;80005
+31;Patterns of Communication and Space Among Women;50001;Ladden, Arlene;80006
+32;Patterns of Communication and Space Among Women;50001;Lippard, Lucy R.;80007
+33;Patterns of Communication and Space Among Women;50001;Pottenger, Marty;80009
+34;Patterns of Communication and Space Among Women;50001;Schapiro, Miriam;80010
+35;Patterns of Communication and Space Among Women;50001;Sillman, Amy;80024
+36;Patterns of Communication and Space Among Women;50001;Snyder, Joan;80011
+37;Patterns of Communication and Space Among Women;50001;Solomon, Elke;80012
+38;Patterns of Communication and Space Among Women;50001;Steir, Pat;80013
+39;Patterns of Communication and Space Among Women;50001;Stevens, May;80014
+40;Patterns of Communication and Space Among Women;50001;Torre, Susana;80016
+41;Patterns of Communication and Space Among Women;50001;Weatherford, Elizabeth;80017
+42;Patterns of Communication and Space Among Women;50001;Webster, Sally;80018
+43;Patterns of Communication and Space Among Women;50001;Yankowitz, Nina;80019
+44;Lesbian Art and Artists;50002;Applebroog, Ida;80020
+45;Lesbian Art and Artists;50002;Beckert, Patsy;80000
+46;Lesbian Art and Artists;50002;Braderman, Joan;80001
+47;Lesbian Art and Artists;50002;Edelson, Mary Beth;80002
+48;Lesbian Art and Artists;50002;Friedrich, Su;80021
+49;Lesbian Art and Artists;50002;Froelich, Janet;80022
+50;Lesbian Art and Artists;50002;Hammond, Harmony;80003
+51;Lesbian Art and Artists;50002;Heinemann, Sue;80023
+52;Lesbian Art and Artists;50002;Hess, Elizabeth;80004
+53;Lesbian Art and Artists;50002;Kozloff, Joyce;80005
+54;Lesbian Art and Artists;50002;Ladden, Arlene;80006
+55;Lesbian Art and Artists;50002;Lippard, Lucy R.;80007
+56;Lesbian Art and Artists;50002;Pottenger, Marty;80009
+57;Lesbian Art and Artists;50002;Schapiro, Miriam;80010
+58;Lesbian Art and Artists;50002;Sillman, Amy;80024
+59;Lesbian Art and Artists;50002;Snyder, Joan;80011
+60;Lesbian Art and Artists;50002;Solomon, Elke;80012
+61;Lesbian Art and Artists;50002;Steir, Pat;80013
+62;Lesbian Art and Artists;50002;Stevens, May;80014
+63;Lesbian Art and Artists;50002;Torre, Susana;80016
+64;Lesbian Art and Artists;50002;Weatherford, Elizabeth;80017
+65;Lesbian Art and Artists;50002;Webster, Sally;80018
+66;Lesbian Art and Artists;50002;Yankowitz, Nina;80019
+67;Women´s Traditional Arts - The Politics of Aesthetics;50003;Applebroog, Ida;80020
+68;Women´s Traditional Arts - The Politics of Aesthetics;50003;Beckert, Patsy;80000
+69;Women´s Traditional Arts - The Politics of Aesthetics;50003;Braderman, Joan;80001
+70;Women´s Traditional Arts - The Politics of Aesthetics;50003;Edelson, Mary Beth;80002
+71;Women´s Traditional Arts - The Politics of Aesthetics;50003;Friedrich, Su;80021
+72;Women´s Traditional Arts - The Politics of Aesthetics;50003;Froelich, Janet;80022
+73;Women´s Traditional Arts - The Politics of Aesthetics;50003;Hammond, Harmony;80003
+74;Women´s Traditional Arts - The Politics of Aesthetics;50003;Heinemann, Sue;80023
+75;Women´s Traditional Arts - The Politics of Aesthetics;50003;Hess, Elizabeth;80004
+76;Women´s Traditional Arts - The Politics of Aesthetics;50003;Kozloff, Joyce;80005
+77;Women´s Traditional Arts - The Politics of Aesthetics;50003;Ladden, Arlene;80006
+78;Women´s Traditional Arts - The Politics of Aesthetics;50003;Lippard, Lucy R.;80007
+79;Women´s Traditional Arts - The Politics of Aesthetics;50003;Pottenger, Marty;80009
+80;Women´s Traditional Arts - The Politics of Aesthetics;50003;Schapiro, Miriam;80010
+81;Women´s Traditional Arts - The Politics of Aesthetics;50003;Sillman, Amy;80024
+82;Women´s Traditional Arts - The Politics of Aesthetics;50003;Snyder, Joan;80011
+83;Women´s Traditional Arts - The Politics of Aesthetics;50003;Solomon, Elke;80012
+84;Women´s Traditional Arts - The Politics of Aesthetics;50003;Steir, Pat;80013
+85;Women´s Traditional Arts - The Politics of Aesthetics;50003;Stevens, May;80014
+86;Women´s Traditional Arts - The Politics of Aesthetics;50003;Weatherford, Elizabeth;80017
+87;Women´s Traditional Arts - The Politics of Aesthetics;50003;Webster, Sally;80018
+88;The Great Goddess;50004;Applebroog, Ida;80020
+89;The Great Goddess;50004;Beckert, Patsy;80000
+90;The Great Goddess;50004;Braderman, Joan;80001
+91;The Great Goddess;50004;Edelson, Mary Beth;80002
+92;The Great Goddess;50004;Friedrich, Su;80021
+93;The Great Goddess;50004;Froelich, Janet;80022
+94;The Great Goddess;50004;Hammond, Harmony;80003
+95;The Great Goddess;50004;Heinemann, Sue;80023
+96;The Great Goddess;50004;Hess, Elizabeth;80004
+97;The Great Goddess;50004;Kozloff, Joyce;80005
+98;The Great Goddess;50004;Ladden, Arlene;80006
+99;The Great Goddess;50004;Lineback, Gail;80025
+100;The Great Goddess;50004;Lippard, Lucy R.;80007
+101;The Great Goddess;50004;Pottenger, Marty;80009
+102;The Great Goddess;50004;Schapiro, Miriam;80010
+103;The Great Goddess;50004;Sillman, Amy;80024
+104;The Great Goddess;50004;Snyder, Joan;80011
+105;The Great Goddess;50004;Solomon, Elke;80012
+106;The Great Goddess;50004;Steir, Pat;80013
+107;The Great Goddess;50004;Stevens, May;80014
+108;The Great Goddess;50004;Weatherford, Elizabeth;80017
+109;The Great Goddess;50004;Webster, Sally;80018
+110;On Women and Violence;50005;Applebroog, Ida;80020
+111;On Women and Violence;50005;Beckert, Patsy;80000
+112;On Women and Violence;50005;Braderman, Joan;80001
+113;On Women and Violence;50005;Edelson, Mary Beth;80002
+114;On Women and Violence;50005;Friedrich, Su;80021
+115;On Women and Violence;50005;Froelich, Janet;80022
+116;On Women and Violence;50005;Hammond, Harmony;80003
+117;On Women and Violence;50005;Heinemann, Sue;80023
+118;On Women and Violence;50005;Hess, Elizabeth;80004
+119;On Women and Violence;50005;Kozloff, Joyce;80005
+120;On Women and Violence;50005;Ladden, Arlene;80006
+121;On Women and Violence;50005;Lineback, Gail;80025
+122;On Women and Violence;50005;Lippard, Lucy R.;80007
+123;On Women and Violence;50005;Meyer, Melissa;80026
+124;On Women and Violence;50005;Pottenger, Marty;80009
+125;On Women and Violence;50005;Rickey, Carrie;80027
+126;On Women and Violence;50005;Sacre, Elizabeth;80028
+127;On Women and Violence;50005;Schapiro, Miriam;80010
+128;On Women and Violence;50005;Sillman, Amy;80024
+129;On Women and Violence;50005;Snyder, Joan;80011
+130;On Women and Violence;50005;Solomon, Elke;80012
+131;On Women and Violence;50005;Steir, Pat;80013
+132;On Women and Violence;50005;Stevens, May;80014
+133;On Women and Violence;50005;Weatherford, Elizabeth;80017
+134;On Women and Violence;50005;Webster, Sally;80018
+135;Women Working Together;50006;Applebroog, Ida;80020
+136;Women Working Together;50006;Beckert, Patsy;80000
+137;Women Working Together;50006;Braderman, Joan;80001
+138;Women Working Together;50006;Friedrich, Su;80021
+139;Women Working Together;50006;Froelich, Janet;80022
+140;Women Working Together;50006;Hammond, Harmony;80003
+141;Women Working Together;50006;Heinemann, Sue;80023
+142;Women Working Together;50006;Hess, Elizabeth;80004
+143;Women Working Together;50006;Ladden, Arlene;80006
+144;Women Working Together;50006;Lineback, Gail;80025
+145;Women Working Together;50006;Lippard, Lucy R.;80007
+146;Women Working Together;50006;Meyer, Melissa;80026
+147;Women Working Together;50006;Pottenger, Marty;80009
+148;Women Working Together;50006;Rickey, Carrie;80027
+149;Women Working Together;50006;Sacre, Elizabeth;80028
+150;Women Working Together;50006;Schapiro, Miriam;80010
+151;Women Working Together;50006;Sillman, Amy;80024
+152;Women Working Together;50006;Solomon, Elke;80012
+153;Women Working Together;50006;Steir, Pat;80013
+154;Women Working Together;50006;Stevens, May;80014
+155;Women Working Together;50006;Weatherford, Elizabeth;80017
+156;Women Working Together;50006;Webster, Sally;80018
+157;Third World Women;50007;Applebroog, Ida;80020
+158;Third World Women;50007;Beckert, Patsy;80000
+159;Third World Women;50007;Braderman, Joan;80001
+160;Third World Women;50007;Friedrich, Su;80021
+161;Third World Women;50007;Froelich, Janet;80022
+162;Third World Women;50007;Hammond, Harmony;80003
+163;Third World Women;50007;Heinemann, Sue;80023
+164;Third World Women;50007;Hess, Elizabeth;80004
+165;Third World Women;50007;Ladden, Arlene;80006
+166;Third World Women;50007;Lippard, Lucy R.;80007
+167;Third World Women;50007;Meyer, Melissa;80026
+168;Third World Women;50007;Pottenger, Marty;80009
+169;Third World Women;50007;Rickey, Carrie;80027
+170;Third World Women;50007;Sacre, Elizabeth;80028
+171;Third World Women;50007;Sillman, Amy;80024
+172;Third World Women;50007;Solomon, Elke;80012
+173;Third World Women;50007;Steir, Pat;80013
+174;Third World Women;50007;Stevens, May;80014
+175;Third World Women;50007;Webster, Sally;80018
+176;Organized Women Divided;50008;Applebroog, Ida;80020
+177;Organized Women Divided;50008;Heinemann, Sue;80023
+178;Organized Women Divided;50008;Hess, Elizabeth;80004
+179;Organized Women Divided;50008;Ladden, Arlene;80006
+180;Organized Women Divided;50008;Lippard, Lucy R.;80007
+181;Organized Women Divided;50008;Meyer, Melissa;80026
+182;Organized Women Divided;50008;Rickey, Carrie;80027
+183;Organized Women Divided;50008;Sacre, Elizabeth;80028
+184;Organized Women Divided;50008;Solomon, Elke;80012
+185;Women and Music;50009;Applebroog, Ida;80020
+186;Women and Music;50009;Heinemann, Sue;80023
+187;Women and Music;50009;Hess, Elizabeth;80004
+188;Women and Music;50009;Ladden, Arlene;80006
+189;Women and Music;50009;Lippard, Lucy R.;80007
+190;Women and Music;50009;Meyer, Melissa;80026
+191;Women and Music;50009;Rickey, Carrie;80027
+192;Women and Music;50009;Sacre, Elizabeth;80028
+193;Women and Music;50009;Solomon, Elke;80012
+194;Making Room - Women and Architecture;50010;Marks, Barbara;80029
+195;Making Room - Women and Architecture;50010;McGroarty, Jane C.;80030
+196;Making Room - Women and Architecture;50010;Nevins, Deborah;80031
+197;Making Room - Women and Architecture;50010;Price, Gail;80032
+198;Making Room - Women and Architecture;50010;Rock, Cynthia;80033
+199;Making Room - Women and Architecture;50010;Torre, Susana;80016
+200;Making Room - Women and Architecture;50010;Kanes Weisman, Leslie;80034
+201;Sex Issue;50011;Applebroog, Ida;80020
+202;Sex Issue;50011;Blumenthal, Lyn;80035
+203;Sex Issue;50011;Rickey, Carrie;80027
+204;Sex Issue;50011;Heinemann, Sue;80023
+205;Sex Issue;50011;Hess, Elizabeth;80004
+206;Sex Issue;50011;Ladden, Arlene;80006
+207;Sex Issue;50011;Lippard, Lucy R.;80007
+208;Sex Issue;50011;Meyer, Melissa;80026
+209;Sex Issue;50011;Rickey, Carrie;80027
+210;Sex Issue;50011;Sacre, Elizabeth;80028
+211;Sex Issue;50011;Solomon, Elke;80012
+212;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Blumenthal, Lyn;80035
+213;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Cajori, Marion;80036
+214;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Carr, Cynthia;80037
+215;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Heinemann, Sue;80023
+216;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Hess, Elizabeth;80004
+217;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Ladden, Arlene;80006
+218;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Lippard, Lucy R.;80007
+219;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Meyer, Melissa;80026
+220;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Rickey, Carrie;80027
+221;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Sacre, Elizabeth;80028
+222;Earthkeeping/Earthshaking: Feminism & Ecology;50012;Solomon, Elke;80012
+223;The Women´s Pages;50013;Blumenthal, Lyn;80035
+224;The Women´s Pages;50013;Cajori, Marion;80036
+225;The Women´s Pages;50013;Carr, Cynthia;80037
+226;The Women´s Pages;50013;De Sando, Sandy;80038
+227;The Women´s Pages;50013;Heinemann, Sue;80023
+228;The Women´s Pages;50013;Hess, Elizabeth;80004
+229;The Women´s Pages;50013;Ladden, Arlene;80006
+230;The Women´s Pages;50013;Lippard, Lucy R.;80007
+231;The Women´s Pages;50013;Rickey, Carrie;80027
+232;Racism is the Issue;50014;Blumenthal, Lyn;80035
+233;Racism is the Issue;50014;Carr, Cynthia;80037
+234;Racism is the Issue;50014;De Sando, Sandra;80038
+235;Racism is the Issue;50014;Vanalyne, Green;80039
+236;Racism is the Issue;50014;Godwin, Michele;80040
+237;Racism is the Issue;50014;Heinemann, Sue;80023
+238;Racism is the Issue;50014;Hess, Elizabeth;80004
+239;Racism is the Issue;50014;Hughes, Lyn;80041
+240;Racism is the Issue;50014;Kenny, Kay;80042
+241;Racism is the Issue;50014;Lippard, Lucy R.;80007
+242;Racism is the Issue;50014;Moore, Sabra;80043
+243;Racism is the Issue;50014;Vicuna, Cecilia;80044
+244;Film / Video / Media;50015;Blumenthal, Lyn;80035
+245;Film / Video / Media;50015;De Sando, Sandra;80038
+246;Film / Video / Media;50015;Green, Vanalyne;80039
+247;Film / Video / Media;50015;Godwin, Michele;80040
+248;Film / Video / Media;50015;Heinemann, Sue;80023
+249;Film / Video / Media;50015;Hess, Elizabeth;80004
+250;Film / Video / Media;50015;Hughes, Lyn;80041
+251;Film / Video / Media;50015;Kenny, Kay;80042
+252;Film / Video / Media;50015;Lindeman, Nicky;80045
+253;Film / Video / Media;50015;Lippard, Lucy R.;80007
+254;Film / Video / Media;50015;Moore, Sabra;80043
+255;Film / Video / Media;50015;Vicuna, Cecilia;80044
+256;Film / Video / Media;50015;Zox, Holly;80046
+257;Acting Up!: Women in Theater and Performance;50016;De Sando, Sandra;80038
+258;Acting Up!: Women in Theater and Performance;50016;Godwin, Michele;80040
+259;Acting Up!: Women in Theater and Performance;50016;Heinemann, Sue;80023
+260;Acting Up!: Women in Theater and Performance;50016;Hughes, Lyn;80041
+261;Acting Up!: Women in Theater and Performance;50016;Kenny, Kay;80042
+262;Acting Up!: Women in Theater and Performance;50016;Jenkins, Sarah;80047
+263;Acting Up!: Women in Theater and Performance;50016;Lanyon, Ellen;80048
+264;Acting Up!: Women in Theater and Performance;50016;Lindeman, Nicky;80045
+265;Acting Up!: Women in Theater and Performance;50016;Lippard, Lucy R.;80007
+266;Acting Up!: Women in Theater and Performance;50016;Moore, Sabra;80043
+267;Acting Up!: Women in Theater and Performance;50016;Zox, Holly;80046
+268;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Amos, Emma;80049
+269;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Brown, Kathie;80050
+270;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Carvalho, Josely;80051
+271;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Champagne, Lenora;80052
+272;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Costan, Chris;80053
+273;Mothers, Mags, and Movie Stars - Feminism and Class;50017;De Sando, Sandra;80038
+274;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Gleeson, Day;80054
+275;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Godwin, Michele;80040
+276;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Goodfriend, Pennelope;80055
+277;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Grove, Kathy;80056
+278;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Kay, Kenny;80042
+279;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Lang, Avis;80057
+280;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Lanyon, Ellen;80048
+281;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Lippard, Lucy R.;80007
+282;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Moore, Sabra;80043
+283;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Moyer, Carrie;80058
+284;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Peer, Carrie;80059
+285;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Suzuki, Liza;80060
+286;Mothers, Mags, and Movie Stars - Feminism and Class;50017;Zox, Holly;80046
+288;Heresies - Activists, Organizers, Progressives;50019;Amos, Emma;80049
+289;Heresies - Activists, Organizers, Progressives;50019;Brown, Kathie;80050
+290;Heresies - Activists, Organizers, Progressives;50019;Carvalho, Josely;80051
+291;Heresies - Activists, Organizers, Progressives;50019;Champagne, Lenora;80052
+292;Heresies - Activists, Organizers, Progressives;50019;Gleeson, Day;80054
+293;Heresies - Activists, Organizers, Progressives;50019;Godwin, Michele;80040
+294;Heresies - Activists, Organizers, Progressives;50019;Goodfriend, Pennelope;80055
+295;Heresies - Activists, Organizers, Progressives;50019;Grove, Kathy;80056
+296;Heresies - Activists, Organizers, Progressives;50019;Kay, Kenny;80042
+297;Heresies - Activists, Organizers, Progressives;50019;Lang, Avis;80057
+298;Heresies - Activists, Organizers, Progressives;50019;Lippard, Lucy R.;80007
+299;Heresies - Activists, Organizers, Progressives;50019;Moore, Sabra;80043
+300;Heresies - Activists, Organizers, Progressives;50019;Moyer, Carrie;80058
+301;Heresies - Activists, Organizers, Progressives;50019;Peer, Carrie;80059
+302;Heresies - Activists, Organizers, Progressives;50019;Suzuki, Liza;80060
+303;Heresies - Activists, Organizers, Progressives;50019;Zox, Holly;80046
+304;Food is a Feminist Issue;50020;Alario, Margaret;80061
+305;Food is a Feminist Issue;50021;Amos, Emma;80049
+306;Food is a Feminist Issue;50022;Bradney, Gail;80062
+307;Food is a Feminist Issue;50023;Brown, Kathie;80050
+308;Food is a Feminist Issue;50024;Carvalho, Josely;80051
+309;Food is a Feminist Issue;50025;Costan, Chris;80053
+310;Food is a Feminist Issue;50026;Fuller, C. Palmer;80063
+311;Food is a Feminist Issue;50027;Gleeson, Day;80054
+312;Food is a Feminist Issue;50028;Godwin, Michele;80040
+313;Food is a Feminist Issue;50029;Goodfriend, Pennelope;80055
+314;Food is a Feminist Issue;50030;Grove, Kathy;80056
+315;Food is a Feminist Issue;50031;Kay, Kenny;80042
+316;Food is a Feminist Issue;50032;Hess, Elizabeth;80004
+317;Food is a Feminist Issue;50033;Lang, Avis;80057
+318;Food is a Feminist Issue;50034;Lippard, Lucy R.;80007
+319;Food is a Feminist Issue;50035;Michals, Robin;80064
+320;Food is a Feminist Issue;50036;Moore, Sabra;80043
+321;Food is a Feminist Issue;50037;Moyer, Carrie;80058
+322;Food is a Feminist Issue;50038;Peer, Carrie;80059
+323;Food is a Feminist Issue;50039;Rumm, Ellen;80065
+324;Food is a Feminist Issue;50040;Sun, Carol;80066
+325;Food is a Feminist Issue;50041;Wilding, Faith;80067
+326;Art in Unestablished Channels;50021;Amos, Emma;80049
+327;Art in Unestablished Channels;50021;Bradney, Gail;80062
+328;Art in Unestablished Channels;50021;Brown, Kathie;80050
+329;Art in Unestablished Channels;50021;Carvalho, Josely;80051
+330;Art in Unestablished Channels;50021;Fuller, C. Palmer;80063
+331;Art in Unestablished Channels;50021;Godwin, Michele;80040
+332;Art in Unestablished Channels;50021;Goodfriend, Pennelope;80055
+333;Art in Unestablished Channels;50021;Grove, Kathy;80056
+334;Art in Unestablished Channels;50021;Kay, Kenny;80042
+335;Art in Unestablished Channels;50021;Hess, Elizabeth;80004
+336;Art in Unestablished Channels;50021;Lang, Avis;80057
+337;Art in Unestablished Channels;50021;Lippard, Lucy R.;80007
+338;Art in Unestablished Channels;50021;Michals, Robin;80064
+339;Art in Unestablished Channels;50021;Moore, Sabra;80043
+340;Art in Unestablished Channels;50021;Moyer, Carrie;80058
+341;Art in Unestablished Channels;50021;Peer, Carrie;80059
+342;Art in Unestablished Channels;50021;Rumm, Ellen;80065
+343;Art in Unestablished Channels;50021;Wilding, Faith;80067
+344;Coming of Age;50022;Amos, Emma;80049
+345;Coming of Age;50022;Bradney, Gail;80062
+346;Coming of Age;50022;Brown, Kathie;80050
+347;Coming of Age;50022;Carvalho, Josely;80051
+348;Coming of Age;50022;Fuller, C. Palmer;80063
+349;Coming of Age;50022;Godwin, Michele;80040
+350;Coming of Age;50022;Goodfriend, Pennelope;80055
+351;Coming of Age;50022;Grove, Kathy;80056
+352;Coming of Age;50022;Kay, Kenny;80042
+353;Coming of Age;50022;Hess, Elizabeth;80004
+354;Coming of Age;50022;Lang, Avis;80057
+355;Coming of Age;50022;Michals, Robin;80064
+356;Coming of Age;50022;Moore, Sabra;80043
+357;Coming of Age;50022;Moyer, Carrie;80058
+358;Coming of Age;50022;Peer, Carrie;80059
+359;Coming of Age;50022;Rumm, Ellen;80065
+360;Coming of Age;50022;Wilding, Faith;80067
+361;12 Years (Anniversary Issue);50023;Lippard, Lucy R.;80007
+362;13 Years (Anniversary Issue);50023;Amos, Emma;80049
+363;14 Years (Anniversary Issue);50023;Brown, Kathie;80050
+364;15 Years (Anniversary Issue);50023;Carvalho, Josely;80051
+365;16 Years (Anniversary Issue);50023;Goodfriend, Pennelope;80055
+366;17 Years (Anniversary Issue);50023;Hess, Elizabeth;80004
+367;18 Years (Anniversary Issue);50023;Lang, Avis;80057
+368;19 Years (Anniversary Issue);50023;Michals, Robin;80064
+369;20 Years (Anniversary Issue);50023;Moore, Sabra;80043
+370;21 Years (Anniversary Issue);50023;Wilding, Faith;80067
+371;The Art of Education;50024;Amos, Emma;80049
+372;The Art of Education;50024;Brown, Kathie;80050
+373;The Art of Education;50024;Carvalho, Josely;80051
+374;The Art of Education;50024;Goodfriend, Pennelope;80055
+375;The Art of Education;50024;Hess, Elizabeth;80004
+376;The Art of Education;50024;Lang, Avis;80057
+377;The Art of Education;50024;Lippard, Lucy R.;80007
+378;The Art of Education;50024;Michals, Robin;80064
+379;The Art of Education;50024;Moore, Sabra;80043
+380;The Art of Education;50024;Wilding, Faith;80067
+381;A Journal of Feminist Post-Totalitarian Criticism;50025;Arat, Zehra F.;80068
+382;A Journal of Feminist Post-Totalitarian Criticism;50025;Amos, Emma;80049
+383;A Journal of Feminist Post-Totalitarian Criticism;50025;Christensen, Julie A.;80069
+384;A Journal of Feminist Post-Totalitarian Criticism;50025;Crowe Spencer, Susan;80070
+385;A Journal of Feminist Post-Totalitarian Criticism;50025;Dau, Mila;80071
+386;A Journal of Feminist Post-Totalitarian Criticism;50025;Rice Dixon, Tennessee;80072
+387;A Journal of Feminist Post-Totalitarian Criticism;50025;Duarte Esgalhado, Barbara;80073
+388;A Journal of Feminist Post-Totalitarian Criticism;50025;Gregory, Carole;80074
+389;A Journal of Feminist Post-Totalitarian Criticism;50025;Henry, Kellie;80075
+390;A Journal of Feminist Post-Totalitarian Criticism;50025;Hoptam, Laura;80076
+391;A Journal of Feminist Post-Totalitarian Criticism;50025;Lang, Avis;80057
+392;A Journal of Feminist Post-Totalitarian Criticism;50025;Leong, Evelyn;80077
+393;A Journal of Feminist Post-Totalitarian Criticism;50025;Lorance, Loretta;80078
+394;A Journal of Feminist Post-Totalitarian Criticism;50025;Xiuyuan, Lü;80079
+395;A Journal of Feminist Post-Totalitarian Criticism;50025;Molland, Judy;80080
+396;A Journal of Feminist Post-Totalitarian Criticism;50025;Morgan, Joey;80081
+397;A Journal of Feminist Post-Totalitarian Criticism;50025;Nemec, Vernita;80082
+398;A Journal of Feminist Post-Totalitarian Criticism;50025;Pasternak, Ann;80083
+399;A Journal of Feminist Post-Totalitarian Criticism;50025;Pasti, Sara;80084
+400;A Journal of Feminist Post-Totalitarian Criticism;50025;Portt, Tavia;80085
+401;A Journal of Feminist Post-Totalitarian Criticism;50025;Townsend, Martha;80086
+402;LATINA - A Journal of Ideas;50026;Arat, Zehra F.;80068
+403;LATINA - A Journal of Ideas;50026;Amos, Emma;80049
+404;LATINA - A Journal of Ideas;50026;Christensen, Julie A.;80069
+405;LATINA - A Journal of Ideas;50026;Crowe Spencer, Susan;80070
+406;LATINA - A Journal of Ideas;50026;Dau, Mila;80071
+407;LATINA - A Journal of Ideas;50026;Rice Dixon, Tennessee;80072
+408;LATINA - A Journal of Ideas;50026;Casella, Jean;80087
+409;LATINA - A Journal of Ideas;50026;Drake, Cathryn;80088
+410;LATINA - A Journal of Ideas;50026;Duarte Esgalhado, Barbara;80073
+411;LATINA - A Journal of Ideas;50026;Fusselman, Amy;80089
+412;LATINA - A Journal of Ideas;50026;Gregory, Carole;80074
+413;LATINA - A Journal of Ideas;50026;Hoptam, Laura;80076
+414;LATINA - A Journal of Ideas;50026;Henry, Kellie;80075
+415;LATINA - A Journal of Ideas;50026;Griffin, Gretchen;80090
+416;LATINA - A Journal of Ideas;50026;Lang, Avis;80057
+417;LATINA - A Journal of Ideas;50026;Leong, Evelyn;80077
+418;LATINA - A Journal of Ideas;50026;Lorance, Loretta;80078
+419;LATINA - A Journal of Ideas;50026;Xiuyuan, Lü;80079
+420;LATINA - A Journal of Ideas;50026;Molland, Judy;80080
+421;LATINA - A Journal of Ideas;50026;Nemec, Vernita;80082
+422;LATINA - A Journal of Ideas;50026;Pasternak, Ann;80083
+423;LATINA - A Journal of Ideas;50026;Pasti, Sara;80084
+424;LATINA - A Journal of Ideas;50026;Rosa, Jacci;80091
+425;LATINA - A Journal of Ideas;50026;Velasco Shaw, Angel;80092
+426;LATINA - A Journal of Ideas;50026;Townsend, Martha;80086
