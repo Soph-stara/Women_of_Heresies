@@ -1,4 +1,4 @@
-# Women_of_Heresies
+# The Women of Heresies
 The Heresies Magazine was a feminist magazine published from 1977 until 1993 in New York City. 
 The authors as well as publishers of Heresies were involved in the art world as well as the political and feminist discourse and formed one of the centers of the feminist scene in NYC at the time. 
 Each issue focuses on a different topic (spirituality, racism, women in theater etc.) and was created by  different groups of volunteers, called “Issue Collectives”, under the guidance of the “Mother Collective”, in which members largely remained constant. 
