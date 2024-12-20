@@ -1,0 +1,3015 @@
+﻿row;work_title;work_id;referenced_author_id;referenced_work_id;referenced_source_id;Traditional/non Traditional boolean
+0;Traditional Status Values of the Village;20000;0;0;0;TRUE
+1;From the First-Issue Collective;20001;0;0;0;TRUE
+2;Toward Socialist Feminism;20002;0;0;0;TRUE
+3;Tijuana Maid;20003;0;0;0;FALSE
+4;Women in the Community Mural Movement;20004;30066;40066;0;TRUE
+5;Black Women;20005;0;0;0;FALSE
+6;I am the People;20006;0;0;0;FALSE
+7;Celebration of Cultures;20007;0;0;0;FALSE
+8;Latinoamerica;20008;0;0;0;FALSE
+9;Women;20009;0;0;0;FALSE
+10;Hollenbeck Park Bandshell;20010;0;0;0;FALSE
+11;Unity Eye;20011;0;0;0;FALSE
+12;Warrensburg;20012;0;0;0;FALSE
+13;Wall of Respect for Women;20013;0;0;0;FALSE
+14;Women and Honor: Some Notes on Lying;20014;0;0;0;TRUE
+15;Adman;20015;0;0;0;FALSE
+16;Zucchini Poem;20016;0;0;0;FALSE
+17;Tribute to Rosa Luxemburg;20018;0;0;0;FALSE
+18;Two Women;20019;0;0;0;FALSE
+19;The Art of Not Bowing: Writing by Women in Prison;20020;0;0;0;TRUE
+20;Songs from a Free Space;20021;0;0;0;FALSE
+21;Astrology Hype;20022;0;0;0;FALSE
+22;Ten Ways of Looking at Prison Lunch;20023;0;0;0;FALSE
+23;Alone;20024;0;0;0;FALSE
+24;La Roquette, Women's Prison;20025;0;0;0;TRUE
+56;Fays, Floozies, and Philosphical Flaws;20026;30016;40000;60001;TRUE
+25;Fays, Floozies, and Philosphical Flaws;20026;30018;40001;0;TRUE
+26;Fays, Floozies, and Philosphical Flaws;20026;30019;40001;0;TRUE
+27;Fays, Floozies, and Philosphical Flaws;20026;30017;40007;60003;TRUE
+28;Fays, Floozies, and Philosphical Flaws;20026;30020;40008;0;TRUE
+29;Fays, Floozies, and Philosphical Flaws;20026;30021;40009;60004;TRUE
+30;Fays, Floozies, and Philosphical Flaws;20026;30003;40010;0;TRUE
+31;Fays, Floozies, and Philosphical Flaws;20026;30000;40021;0;TRUE
+32;Fays, Floozies, and Philosphical Flaws;20026;30032;40022;0;TRUE
+33;Fays, Floozies, and Philosphical Flaws;20026;30033;40023;0;TRUE
+34;Fays, Floozies, and Philosphical Flaws;20026;30005;40024;0;TRUE
+35;Fays, Floozies, and Philosphical Flaws;20026;30004;40025;0;TRUE
+36;Fays, Floozies, and Philosphical Flaws;20026;30002;40026;0;TRUE
+37;Fays, Floozies, and Philosphical Flaws;20026;30034;40027;0;TRUE
+38;untitled;21582;0;0;0;FALSE
+39;The Esthetics of Power in Modern Erotic Art;20027;30006;40028;0;TRUE
+40;The Esthetics of Power in Modern Erotic Art;20027;30008;40029;60005;TRUE
+41;The Esthetics of Power in Modern Erotic Art;20027;30009;40030;60006;TRUE
+42;The Esthetics of Power in Modern Erotic Art;20027;30010;40031;0;TRUE
+43;The Esthetics of Power in Modern Erotic Art;20027;30011;40032;60008;TRUE
+44;The Esthetics of Power in Modern Erotic Art;20027;30007;40033;0;TRUE
+45;The Esthetics of Power in Modern Erotic Art;20027;30012;40034;60009;TRUE
+46;The Esthetics of Power in Modern Erotic Art;20027;30013;40035;0;TRUE
+47;The Esthetics of Power in Modern Erotic Art;20027;30035;40036;0;TRUE
+48;Woman in White Stockings;20028;0;0;0;FALSE
+49;Roger and Angelica;20029;0;0;0;FALSE
+50;The Greek Slave;20030;0;0;0;FALSE
+51;Madonna;20031;0;0;0;FALSE
+52;Untitled;20032;0;0;0;FALSE
+53;Woman's Head;20033;0;0;0;FALSE
+54;Seated Bather;20034;0;0;0;FALSE
+55;Bathers;20035;0;0;0;FALSE
+56;Reclining Nude;20036;0;0;0;FALSE
+57;Femme Couteau;20038;0;0;0;FALSE
+58;untitled;21583;0;0;0;FALSE
+59;Making Love to a Man Who Isn't All There;20039;0;0;0;FALSE
+60;Pierre and Lady Holland;20040;0;0;0;FALSE
+61;Mythology and Me;20041;0;0;0;FALSE
+62;The Subway;20042;0;0;0;FALSE
+63;ABCS;20043;0;0;0;FALSE
+64;Do You Think;20044;0;0;0;FALSE
+65;Bomb Shitting;20045;0;0;0;FALSE
+66;Torture in Chile;20046;0;0;0;FALSE
+67;the empress anastasia in new york;20047;0;0;0;FALSE
+68;Dead in Bloody Snow;20048;0;0;0;FALSE
+69;Notes From the First Year (for my sisters, a trilogy of revolution);20049;0;0;0;FALSE
+70;Seagull;20051;0;0;0;FALSE
+71;Little Eagle Spreads Her Wings;20052;0;0;0;FALSE
+72;Spring Plowing;20053;0;0;0;FALSE
+73;Women Hold Up Half the Sky;20054;0;0;0;FALSE
+74;Feminist Abstract Art – A Political Viewpoint;20055;30036;40037;60010;TRUE
+75;Feminist Abstract Art – A Political Viewpoint;20055;30037;40037;0;TRUE
+76;Feminist Abstract Art – A Political Viewpoint;20055;30038;40038;60014;TRUE
+77;Feminist Abstract Art – A Political Viewpoint;20055;30039;40039;60012;TRUE
+78;Feminist Abstract Art – A Political Viewpoint;20055;30040;40040;60013;TRUE
+79;Feminist Abstract Art – A Political Viewpoint;20055;30041;40041;0;TRUE
+80;Feminist Abstract Art – A Political Viewpoint;20055;30042;40042;0;TRUE
+81;Feminist Abstract Art – A Political Viewpoint;20055;30043;40043;0;TRUE
+82;Split Scribble;20056;0;0;0;FALSE
+83;Angry Harmony;20057;0;0;0;FALSE
+84;Small Symphony for Women II;20058;0;0;0;FALSE
+85;"""Female Experience in Art"": The Impact of Women's Art in a Work Environment";20059;30044;40044;0;TRUE
+86;"""Female Experience in Art"": The Impact of Women's Art in a Work Environment";20059;30045;40045;0;TRUE
+87;"""Female Experience in Art"": The Impact of Women's Art in a Work Environment";20059;30046;40064;0;TRUE
+88;Putti;20060;0;0;0;FALSE
+89;"An Homage to Lily Bart, from Edith Wharton's ""House of Mirth""";20061;0;0;0;FALSE
+90;Chrysalis II;20062;0;0;0;FALSE
+91;Rape Is;20063;0;0;0;FALSE
+92;Edge of Night;20064;0;0;0;FALSE
+93;Cracking Up;20065;0;0;0;FALSE
+94;Shattered Dreams;20066;0;0;0;FALSE
+95;Death of Patriarchy/Heresies;20067;0;0;0;FALSE
+96;A Pink Strip;20068;0;0;0;FALSE
+97;The Pink Glass Swan: Upward and Downward Mobility in the Art World;20069;30082;40082;0;TRUE
+98;The Pink Glass Swan: Upward and Downward Mobility in the Art World;20069;30083;40082;0;TRUE
+99;The Pink Glass Swan: Upward and Downward Mobility in the Art World;20069;30047;40047;60018;TRUE
+100;The Pink Glass Swan: Upward and Downward Mobility in the Art World;20069;30048;40048;0;TRUE
+101;The Pink Glass Swan: Upward and Downward Mobility in the Art World;20069;30049;40049;60019;TRUE
+102;The Pink Glass Swan: Upward and Downward Mobility in the Art World;20069;30050;40050;0;TRUE
+103;Chicago Mannequin;20070;0;0;0;FALSE
+104;Juggling Contradictions: Feminism, the Individual and What's Left;20071;30051;40051;60020;TRUE
+105;Juggling Contradictions: Feminism, the Individual and What's Left;20071;30050;40050;0;TRUE
+106;Juggling Contradictions: Feminism, the Individual and What's Left;20071;30052;40052;0;TRUE
+107;Juggling Contradictions: Feminism, the Individual and What's Left;20071;30053;40053;0;TRUE
+108;Juggling Contradictions: Feminism, the Individual and What's Left;20071;30054;40054;60021;TRUE
+109;Juggling Contradictions: Feminism, the Individual and What's Left;20071;30055;40055;0;TRUE
+110;Juggling Contradictions: Feminism, the Individual and What's Left;20071;30056;40056;0;TRUE
+111;from: Union Maids;20072;0;0;0;FALSE
+112;Look Rich;20074;0;0;0;FALSE
+113;"Goal Bosses; Not Workers";20075;0;0;0;FALSE
+114;Sometimes We Do Offend, Girls;20076;0;0;0;FALSE
+115;Moratorium: Front Lawn: 1970;20077;0;0;0;FALSE
+116;Twins and Janet;20079;0;0;0;FALSE
+117;Puerto Rican Day Parade;20078;0;0;0;FALSE
+118;Who Are We? What Do We Want? What Do We Do?;20080;0;0;0;TRUE
+119;On Women's Refusal to Celebrate Male Creativity;20081;0;0;0;TRUE
+120;What is Left?;20082;0;0;0;FALSE
+121;Around Coming Around-- a performance;20083;0;0;0;FALSE
+122;Wages for Housework: The Strategy for Women's Liberation;20084;0;0;0;TRUE
+123;Still Ain't Satisfied;20086;0;0;0;FALSE
+124;Workspaces;20087;0;0;0;FALSE
+125;In Her Image;20088;0;0;0;TRUE
+126;Pink;20089;0;0;0;FALSE
+127;Four Square;20090;0;0;0;FALSE
+128;Papilla Estelar;20091;0;0;0;FALSE
+129;Bittersweet;20092;0;0;0;FALSE
+130;Crazy Quilt;20093;0;0;0;FALSE
+131;Consciousnes-raising Group;20094;0;0;0;FALSE
+132;Las Dos Fridas;20095;0;0;0;FALSE
+133;What is the secret place inside of me that has held a tear for so long?;20096;0;0;0;FALSE
+134;Skin: Shadows;21584;0;0;0;FALSE
+135;Web;20097;0;0;0;FALSE
+136;Delay Delay;20098;0;0;0;FALSE
+137;Inside/Out: A Return to My Body;20099;30058;40058;60022;TRUE
+138;Inside/Out: A Return to My Body;20099;30059;40059;60023;TRUE
+139;Inside/Out: A Return to My Body;20099;30060;40059;;TRUE
+140;Inside/Out: A Return to My Body;20099;30058;40060;60024;TRUE
+141;Inside/Out: A Return to My Body;20099;30061;40062;;TRUE
+142;1st Issue Collective Statement;21585;0;0;;TRUE
+143;2nd Issue Collective Statement;21586;0;0;;TRUE
+144;Inside/Out: A Return to My Body;20099;30084;40083;60025;TRUE
+145;Inside/Out: A Return to My Body;20099;30085;40084;60026;TRUE
+146;Inside/Out: A Return to My Body;20099;30086;40085;0;TRUE
+147;Inside/Out: A Return to My Body;20099;30087;40086;0;TRUE
+148;Feminists and Non-Feminists in Psychotherapy;20100;0;0;0;TRUE
+149;Connection;20101;0;0;0;FALSE
+150;Souvenirs;20102;0;0;0;FALSE
+151;Body, Space, and Personal Ritual;20103;0;0;0;FALSE
+152;3 Short Fictions;20104;0;0;0;FALSE
+153;Letter Utterings;20105;0;0;0;FALSE
+154;Mea Culpa;20106;0;0;0;FALSE
+155;Wooden Shacks on Stilts with Platform;20108;0;0;0;FALSE
+156;Detail of Spotted Bundle Enclosure;20109;0;0;0;FALSE
+157;Ecological Environment;20110;0;0;0;FALSE
+158;The Compulsion Room (wall) and Desire for Death in Silvery World (foreground);20111;0;0;0;FALSE
+159;The House at Night;20112;0;0;0;FALSE
+160;Cicada;20113;0;0;0;FALSE
+161;Cuernavaca;20114;0;0;0;FALSE
+162;Project: Initiation Space No. 1;20115;0;0;0;FALSE
+163;Recreation of My Commuter Routes on the Penn Central R.R.;20116;0;0;0;FALSE
+164;Stephen Long;20117;0;0;0;FALSE
+165;Night Light;20118;0;0;0;FALSE
+166;A View of My New York Apartment;20119;0;0;0;FALSE
+167;Sapping;20120;0;0;0;FALSE
+168;Women's Traditional Architecture;20121;30088;40087;0;TRUE
+169;Women's Traditional Architecture;20121;30089;40088;0;TRUE
+170;Women's Traditional Architecture;20121;30090;40089;60027;TRUE
+171;Women's Traditional Architecture;20121;30091;40090;0;TRUE
+172;Women's Traditional Architecture;20121;30092;40091;60028;TRUE
+173;Women's Traditional Architecture;20121;30093;40092;0;TRUE
+174;Women's Traditional Architecture;20121;30094;40093;60027;TRUE
+175;Women's Traditional Architecture;20121;30095;40094;60029;TRUE
+176;Women's Traditional Architecture;20121;30096;40095;0;TRUE
+177;Women's Traditional Architecture;20121;30097;40096;0;TRUE
+178;Magic Songs;20130;0;0;0;FALSE
+179;A Black American's African Diary;20129;0;0;0;FALSE
+180;Correspondence between Jacki Apple and Martha Wilson: 1973-1974;20131;0;0;0;FALSE
+181;Lament on the Eve of her Daughter's Birthday;20133;0;0;0;FALSE
+182;September Solitaire;20134;0;0;0;FALSE
+183;Patterns of Healing and Rebirth;20136;0;0;0;FALSE
+184;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30007;40033;0;TRUE
+185;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30098;40097;0;TRUE
+186;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30099;40098;0;TRUE
+187;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30050;40099;0;TRUE
+188;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30100;40100;0;TRUE
+189;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30100;40101;0;TRUE
+190;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30125;40118;0;TRUE
+191;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30126;40119;0;TRUE
+192;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30127;40120;0;TRUE
+193;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30128;40121;0;TRUE
+194;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30129;40122;0;TRUE
+195;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30126;40123;0;TRUE
+196;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30127;40124;0;TRUE
+197;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30127;40125;0;TRUE
+198;The Raised Voices of Women in Mid-Nineteenth Century France;20137;30127;40126;0;TRUE
+199;Twenty-Seven Personal Records;20139;0;0;0;FALSE
+200;Women and Anarchy;20140;30050;40050;0;TRUE
+201;Women and Anarchy;20140;30130;40127;0;TRUE
+202;Women and Anarchy;20140;30131;40128;0;TRUE
+203;Women and Anarchy;20140;30132;40129;0;TRUE
+204;Women and Anarchy;20140;30053;40053;0;TRUE
+205;Women and Anarchy;20140;30133;40130;0;TRUE
+206;Women and Anarchy;20140;30050;40099;0;TRUE
+207;Women and Anarchy;20140;30134;40131;0;TRUE
+208;Women and Anarchy;20140;30134;40132;60035;TRUE
+209;Women and Anarchy;20140;30135;40133;0;TRUE
+210;Women and Anarchy;20140;30136;40134;0;TRUE
+211;Women and Anarchy;20140;30137;40135;60036;TRUE
+212;Women and Anarchy;20140;30138;40136;0;TRUE
+213;Women and Anarchy;20140;30139;40137;0;TRUE
+214;Women and Anarchy;20140;30140;40138;60037;TRUE
+215;Women and Anarchy;20140;30141;40139;60038;TRUE
+216;Women and Anarchy;20140;30142;40140;0;TRUE
+217;Ways of Change Reconsidered: An Outline and Commentary on Women and Peace in Northern Ireland;20147;30143;40141;60039;TRUE
+218;Ways of Change Reconsidered: An Outline and Commentary on Women and Peace in Northern Ireland;20147;30144;40142;0;TRUE
+219;Ways of Change Reconsidered: An Outline and Commentary on Women and Peace in Northern Ireland;20147;30145;40143;0;TRUE
+220;Ways of Change Reconsidered: An Outline and Commentary on Women and Peace in Northern Ireland;20147;30146;40144;60040;TRUE
+221;Ways of Change Reconsidered: An Outline and Commentary on Women and Peace in Northern Ireland;20147;30147;40145;0;TRUE
+222;Ways of Change Reconsidered: An Outline and Commentary on Women and Peace in Northern Ireland;20147;30148;40146;0;TRUE
+223;Prose Poems for Old Women;20149;0;0;0;FALSE
+224;Homeless Women;20150;0;0;0;TRUE
+225;She Sees Herself A New Woman Everyday;20151;0;0;0;FALSE
+226;Compartments;20152;0;0;0;FALSE
+227;From the Pink and Yellow Books;20153;0;0;0;FALSE
+228;Locus Up One;21616;0;0;0;FALSE
+229;Two From Short Stories and Love Songs;20154;0;0;0;FALSE
+230;Birthday Party;20156;0;0;0;FALSE
+231;Pat Smith and Friend;20157;0;0;0;FALSE
+232;Spring;20158;0;0;0;FALSE
+233;Bloomingdale's;20159;0;0;0;FALSE
+234;Interactional Shitwork;20160;30149;40147;60041;TRUE
+235;Interactional Shitwork;20160;30150;40147;60041;TRUE
+236;Interactional Shitwork;20160;30151;40147;60041;TRUE
+237;Interactional Shitwork;20160;30149;40148;60042;TRUE
+238;Needle;20161;0;0;0;FALSE
+239;Archway;21617;0;0;0;FALSE
+240;Hewing the Wood and Drawing the Water: Women and Film in Colonized Canada;20162;0;0;0;TRUE
+241;Les Echelles 1975;20164;0;0;0;TRUE
+242;A Feminist Monument (For Marion Mahony);20165;0;0;0;TRUE
+243;Skyscraper Seduction Skyscraper Rape;20166;30152;40149;60043;TRUE
+244;Skyscraper Seduction Skyscraper Rape;20166;30153;40150;60044;TRUE
+245;Skyscraper Seduction Skyscraper Rape;20166;30154;40151;60045;TRUE
+246;Skyscraper Seduction Skyscraper Rape;20166;30155;40152;60046;TRUE
+247;Skyscraper Seduction Skyscraper Rape;20166;30156;40152;60046;TRUE
+248;Skyscraper Seduction Skyscraper Rape;20166;30157;40153;60047;TRUE
+249;Skyscraper Seduction Skyscraper Rape;20166;30158;40154;0;TRUE
+250;Skyscraper Seduction Skyscraper Rape;20166;30159;40155;60048;TRUE
+251;Skyscraper Seduction Skyscraper Rape;20166;30160;40156;60049;TRUE
+252;Skyscraper Seduction Skyscraper Rape;20166;30161;40157;0;TRUE
+253;Skyscraper Seduction Skyscraper Rape;20166;30162;40158;0;TRUE
+254;Skyscraper Seduction Skyscraper Rape;20166;30163;40159;60050;TRUE
+255;Skyscraper Seduction Skyscraper Rape;20166;30164;40160;60051;TRUE
+256;Skyscraper Seduction Skyscraper Rape;20166;30166;40162;0;TRUE
+257;Skyscraper Seduction Skyscraper Rape;20166;30167;40162;0;TRUE
+258;Skyscraper Seduction Skyscraper Rape;20166;30165;40161;0;TRUE
+259;Skyscraper Seduction Skyscraper Rape;20166;30168;40163;60052;TRUE
+260;Skyscraper Seduction Skyscraper Rape;20166;30169;40164;60053;TRUE
+261;Skyscraper Seduction Skyscraper Rape;20166;30170;40165;0;TRUE
+262;Skyscraper Seduction Skyscraper Rape;20166;30171;40167;0;TRUE
+263;Skyscraper Seduction Skyscraper Rape;20166;30172;40168;0;TRUE
+264;Skyscraper Seduction Skyscraper Rape;20166;30173;40168;0;TRUE
+265;Skyscraper Seduction Skyscraper Rape;20166;30174;40169;60055;TRUE
+266;Skyscraper Seduction Skyscraper Rape;20166;30175;40170;60056;TRUE
+267;Skyscraper Seduction Skyscraper Rape;20166;30176;40171;60057;TRUE
+268;Skyscraper Seduction Skyscraper Rape;20166;30177;40172;60058;TRUE
+269;Women's Fantasy Environments: Notes on a Project in Process;20174;0;0;0;TRUE
+270;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30178;40173;60059;TRUE
+271;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30179;40174;0;TRUE
+272;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30180;40175;0;TRUE
+273;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30181;40176;0;TRUE
+274;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30182;40177;0;TRUE
+275;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30183;40177;0;TRUE
+276;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30184;40178;60060;TRUE
+277;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30185;40178;60060;TRUE
+278;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30186;40179;0;TRUE
+279;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30187;40180;60061;TRUE
+280;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30188;40181;0;TRUE
+281;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30189;40182;0;TRUE
+282;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30007;40033;0;TRUE
+283;"The "" 'I am Heathcliffe, says Catherine' "" Syndrome";20175;30190;40183;0;TRUE
+284;Excerpts from performance Americana I Ching Apple Pie;20176;0;0;0;FALSE
+285;untitled;21618;0;0;0;FALSE
+286;Additional Meanings: Forgiveness= 139;20177;0;0;0;FALSE
+287;Opening Night;20178;0;0;0;FALSE
+288;Sleight of Hand Series;20179;0;0;0;FALSE
+289;Galileo Works;20180;0;0;0;FALSE
+290;Recollections of My Life with Diaghilev;20181;0;0;0;FALSE
+291;Political Consciousness (A Dialogue);21619;0;0;0;FALSE
+292;Trickster;20182;0;0;0;FALSE
+293;La Femme et le barbu;20183;0;0;0;FALSE
+294;Negating the Negative;21620;0;0;0;FALSE
+295;Berlin: The Column of Victory;20184;0;0;0;FALSE
+296;untitled;21621;0;0;0;FALSE
+297;Doing the Laundry: The Sorting of the Sox;20186;0;0;0;FALSE
+298;3rd Issue Collective Statement;21622;0;0;0;TRUE
+299;From The Lesbian Issue Collective;20188;0;0;0;TRUE
+300;Queen of the Gypsies at Norwood;20190;0;0;0;FALSE
+301;What we mean to say: Notes Towards Defining the Nature of Lesbian Literature;20189;0;0;0;TRUE
+302;Female Monster with two heads;20191;0;0;0;FALSE
+303;Opera Omnia Monstrorum Historia;20192;0;0;0;FALSE
+304;Wonder Woman;20193;0;0;0;FALSE
+305;The enemies of She Who call her various names;20194;0;0;0;FALSE
+306;7000 Year Old Woman. Performance #2, a street event, fully clothed.;20195;0;0;0;FALSE
+307;The 7000 Year Old Woman;20196;0;0;0;TRUE
+308;7000 Year Old Woman. Performance #2, giving bags away;20197;0;0;0;FALSE
+309;7000 Year Old Woman. Performance #2, end of event;20198;0;0;0;FALSE
+310;they're always curious;20199;0;0;0;FALSE
+311;THE TAPES;20200;30191;40184;60062;FALSE
+312;Eighty year old woman photographer from New Hampshire;21623;0;0;0;FALSE
+313;International Women's Year Conference, Mexico City, 1975;21624;0;0;0;FALSE
+314;Feminist Publishing: An Antiquated Form?;20202;0;0;0;FALSE
+316;Alice Austen's World;20204;0;0;0;TRUE
+317;CLASS NOTES;20211;30192;40185;0;TRUE
+318;CLASS NOTES;20211;11232;40186;60063;TRUE
+319;CLASS NOTES;20211;30193;40187;60064;TRUE
+320;CLASS NOTES;20211;30194;40188;60065;TRUE
+321;CLASS NOTES;20211;30195;40189;0;TRUE
+322;Photograph;20212;0;0;0;FALSE
+323;untitled;21625;0;0;0;TRUE
+324;Gaslight;20214;0;0;0;FALSE
+325;untitled;21626;0;0;0;TRUE
+326;American Beauties;20215;0;0;0;FALSE
+327;untitled;21627;0;0;0;TRUE
+328;Living With Chaos;21628;0;0;0;FALSE
+329;Egg and Dart;20216;0;0;0;FALSE
+330;God Giving Birth;20217;0;0;0;FALSE
+331;Autoerotic Bowl;20218;0;0;0;FALSE
+332;untitled;21629;0;0;0;TRUE
+333;untitled;21630;0;0;0;TRUE
+334;untitled;21631;0;0;0;TRUE
+335;Marty's Cool Blue House;20219;0;0;0;FALSE
+336;untitled;21632;0;0;0;FALSE
+337;Untitled;21633;0;0;0;FALSE
+338;Some Unsaid Things;20222;0;0;0;FALSE
+339;Conditions for Work: The Common World of Women;20223;30196;40190;0;TRUE
+340;Conditions for Work: The Common World of Women;20223;30197;40191;60066;TRUE
+341;Conditions for Work: The Common World of Women;20223;30195;40192;0;TRUE
+342;Conditions for Work: The Common World of Women;20223;30198;40193;0;TRUE
+343;Conditions for Work: The Common World of Women;20223;30199;40194;0;TRUE
+344;Conditions for Work: The Common World of Women;20223;30200;40195;0;TRUE
+345;Conditions for Work: The Common World of Women;20223;30199;40196;0;TRUE
+346;Conditions for Work: The Common World of Women;20223;30195;40197;0;TRUE
+347;Sometimes, as a child;20225;0;0;0;FALSE
+348;Artemis;20226;0;0;0;FALSE
+349;Texts and Photographs from Projects, Films, and Performance;20227;0;0;0;FALSE
+350;untitled;21635;0;0;0;FALSE
+351;Natalie Barney on Renee Vivien;20229;0;0;0;TRUE
+352;It's Good to Have Limits;20230;0;0;0;FALSE
+353;Rest Heap;20231;0;0;0;FALSE
+354;Conch;20232;0;0;0;FALSE
+355;How Do I Do It: Cautionary Advice From A Lesbian Painter;20233;0;0;0;TRUE
+356;Wall Form;20234;0;0;0;FALSE
+357;Anatomy of Bonellia Viridis;20235;0;0;0;FALSE
+358;untitled;21635;0;0;0;FALSE
+359;untitled;21636;0;0;0;FALSE
+360;Architectural Icon: The Shrine, The Votive, The Gesture;20236;0;0;0;TRUE
+361;Ohio Relic Quilt;20237;0;0;0;FALSE
+362;Growing Up A Painter;20238;0;0;0;TRUE
+363;Domestic Scene;20239;0;0;0;FALSE
+364;The Woman's Building;20240;0;0;0;FALSE
+365;Ressurrection – Self-Portrait as the Sacred Heart;20241;0;0;0;FALSE
+366;Paula Becker to Clara Westhoff;20242;0;0;0;FALSE
+367;untitled;21637;0;0;0;FALSE
+368;untitled;21638;0;0;0;FALSE
+369;Use of Time in Women's Cinema;20243;0;0;0;TRUE
+370;Joy Through Strength in the Bardo;20244;0;0;0;FALSE
+371;Definitions;20245;0;0;0;FALSE
+372;Reality/Fantasy – Portrayals;20246;0;0;0;FALSE
+373;Lesbianism as a Liberating Force;20247;0;0;0;TRUE
+374;Design for the City of Women;20249;0;0;0;FALSE
+375;Iris Films: Documenting The Lives of Lesbians;20250;0;0;0;TRUE
+376;A New York City Collective;20252;0;0;0;TRUE
+377;This Makes Me Feel Good;20253;0;0;0;FALSE
+378;Self Portrait #2;20254;0;0;0;FALSE
+379;Dog With Secret Language;20255;0;0;0;FALSE
+380;untitled;21639;0;0;0;FALSE
+381;untitled;21640;0;0;0;FALSE
+382;Lesbian Art and Community;20256;0;0;0;TRUE
+383;Ritual;20257;0;0;0;FALSE
+384;Generation;20258;0;0;0;TRUE
+385;Call For Work;20261;0;0;0;TRUE
+386;From the Editorial Group;20263;0;0;0;TRUE
+387;The Aesthetics of Oppression;20264;30201;40198;0;TRUE
+388;The Aesthetics of Oppression;20264;30202;40199;60067;TRUE
+389;The Aesthetics of Oppression;20264;30203;40200;0;TRUE
+390;The Aesthetics of Oppression;20264;30204;40201;0;TRUE
+391;The Aesthetics of Oppression;20264;30205;40202;0;TRUE
+392;The Aesthetics of Oppression;20264;30206;40203;0;TRUE
+393;The Aesthetics of Oppression;20264;30207;40204;0;TRUE
+394;Is There a feminine Aesthetic?;20265;30208;40205;0;TRUE
+395;Is There a feminine Aesthetic?;20265;30209;40206;0;TRUE
+396;Is There a feminine Aesthetic?;20265;30210;40207;60068;TRUE
+397;Is There a feminine Aesthetic?;20265;30211;40208;0;TRUE
+398;Is There a feminine Aesthetic?;20265;30189;40209;60069;TRUE
+399;Is There a feminine Aesthetic?;20265;30213;40211;0;TRUE
+400;Is There a feminine Aesthetic?;20265;30212;40210;60070;TRUE
+401;Is There a feminine Aesthetic?;20265;30199;40212;60071;TRUE
+402;Is There a feminine Aesthetic?;20265;30214;40213;0;TRUE
+403;untitled;21641;0;0;0;FALSE
+404;Women Talking, Women Thinking;20267;0;0;0;FALSE
+405;The Martyr Arts;20268;30021;40009;0;TRUE
+406;The Martyr Arts;20268;30215;40214;0;TRUE
+407;The Martyr Arts;20268;30018;40001;0;TRUE
+408;The Martyr Arts;20268;30019;40001;0;TRUE
+409;The Martyr Arts;20268;30216;40215;60072;TRUE
+410;The Martyr Arts;20268;30217;40216;0;TRUE
+411;The Martyr Arts;20268;30218;40217;0;TRUE
+412;The Martyr Arts;20268;30219;40218;60073;TRUE
+413;The Martyr Arts;20268;30220;40219;0;TRUE
+414;The Martyr Arts;20268;30221;40220;60074;TRUE
+415;The Martyr Arts;20268;30222;40221;0;TRUE
+416;The Martyr Arts;20268;30223;40222;60075;TRUE
+417;The Martyr Arts;20268;30224;40223;0;TRUE
+418;The Martyr Arts;20268;30225;40224;0;TRUE
+419;The Martyr Arts;20268;30226;40225;0;TRUE
+420;The Martyr Arts;20268;30227;40226;0;TRUE
+421;The Martyr Arts;20268;30228;40226;0;TRUE
+422;The Martyr Arts;20268;30229;40227;0;TRUE
+423;The Martyr Arts;20268;30230;40228;60076;TRUE
+424;The Martyr Arts;20268;30231;40229;60077;TRUE
+425;The Martyr Arts;20268;30232;40230;60078;TRUE
+426;The Straits of Literature and History;20269;30233;40231;0;TRUE
+427;The Straits of Literature and History;20269;30234;40232;0;TRUE
+428;The Straits of Literature and History;20269;30235;40233;0;TRUE
+429;The Straits of Literature and History;20269;30236;40234;0;TRUE
+430;The Straits of Literature and History;20269;30237;40235;60079;TRUE
+431;The Straits of Literature and History;20269;30238;40236;60080;TRUE
+432;The Straits of Literature and History;20269;30239;40237;0;TRUE
+433;The Straits of Literature and History;20269;30237;40238;0;TRUE
+434;The Straits of Literature and History;20269;30240;40239;0;TRUE
+435;untitled;21642;0;0;0;FALSE
+436;The Left Hand of History;20272;30269;40262;0;TRUE
+437;The Left Hand of History;20272;30270;40263;0;TRUE
+438;The Left Hand of History;20272;30271;40264;0;TRUE
+439;The Left Hand of History;20272;30272;40264;0;TRUE
+440;The Left Hand of History;20272;30270;40265;0;TRUE
+441;The Left Hand of History;20272;30270;40266;0;TRUE
+442;The Left Hand of History;20272;30208;40205;0;TRUE
+443;The Left Hand of History;20272;30273;40267;0;TRUE
+444;The Left Hand of History;20272;30274;40268;60095;TRUE
+445;The Left Hand of History;20272;30050;40050;0;TRUE
+446;The Left Hand of History;20272;30139;40137;0;TRUE
+447;The Left Hand of History;20272;30139;40269;0;TRUE
+448;The Left Hand of History;20272;30139;40270;0;TRUE
+449;The Left Hand of History;20272;30273;40271;0;TRUE
+450;The Left Hand of History;20272;30275;40272;0;TRUE
+451;The Left Hand of History;20272;30276;40273;60096;TRUE
+452;The Left Hand of History;20272;30277;40274;0;TRUE
+453;The Left Hand of History;20272;30252;40251;60085;TRUE
+454;The Left Hand of History;20272;30278;40275;60027;TRUE
+455;Weaving;20273;0;0;0;FALSE
+456;Political Fabrications: Women's Textiles in Five Cultures;20274;30290;40296;0;TRUE
+457;Political Fabrications: Women's Textiles in Five Cultures;20274;30291;40297;60108;TRUE
+458;Political Fabrications: Women's Textiles in Five Cultures;20274;30292;40298;0;TRUE
+459;Political Fabrications: Women's Textiles in Five Cultures;20274;30293;40299;60109;TRUE
+460;Political Fabrications: Women's Textiles in Five Cultures;20274;30293;40300;0;TRUE
+461;Political Fabrications: Women's Textiles in Five Cultures;20274;30294;40300;0;TRUE
+462;Political Fabrications: Women's Textiles in Five Cultures;20274;30295;40301;0;TRUE
+463;Political Fabrications: Women's Textiles in Five Cultures;20274;30296;40302;0;TRUE
+464;Political Fabrications: Women's Textiles in Five Cultures;20274;30297;40303;0;TRUE
+465;Political Fabrications: Women's Textiles in Five Cultures;20274;30297;40304;0;TRUE
+466;Political Fabrications: Women's Textiles in Five Cultures;20274;30298;40305;0;TRUE
+467;Political Fabrications: Women's Textiles in Five Cultures;20274;30299;40305;0;TRUE
+468;Political Fabrications: Women's Textiles in Five Cultures;20274;30300;40306;0;TRUE
+469;Political Fabrications: Women's Textiles in Five Cultures;20274;30301;40307;60110;TRUE
+470;Political Fabrications: Women's Textiles in Five Cultures;20274;30302;40308;0;TRUE
+471;Political Fabrications: Women's Textiles in Five Cultures;20274;30303;40309;0;TRUE
+472;Political Fabrications: Women's Textiles in Five Cultures;20274;30304;40310;0;TRUE
+473;Political Fabrications: Women's Textiles in Five Cultures;20274;30305;40311;60111;TRUE
+474;Political Fabrications: Women's Textiles in Five Cultures;20274;30306;40312;0;TRUE
+475;Political Fabrications: Women's Textiles in Five Cultures;20274;30307;40313;0;TRUE
+476;Political Fabrications: Women's Textiles in Five Cultures;20274;30308;40313;0;TRUE
+477;Political Fabrications: Women's Textiles in Five Cultures;20274;30309;40314;0;TRUE
+478;Political Fabrications: Women's Textiles in Five Cultures;20274;30310;40315;0;TRUE
+479;Political Fabrications: Women's Textiles in Five Cultures;20274;30311;40316;0;TRUE
+480;Political Fabrications: Women's Textiles in Five Cultures;20274;30312;40316;0;TRUE
+481;Political Fabrications: Women's Textiles in Five Cultures;20274;30313;40317;0;TRUE
+482;Political Fabrications: Women's Textiles in Five Cultures;20274;30314;40318;0;TRUE
+483;Political Fabrications: Women's Textiles in Five Cultures;20274;30315;40319;0;TRUE
+484;Political Fabrications: Women's Textiles in Five Cultures;20274;30316;40320;60112;TRUE
+485;Political Fabrications: Women's Textiles in Five Cultures;20274;30317;40321;0;TRUE
+486;Political Fabrications: Women's Textiles in Five Cultures;20274;30318;40322;0;TRUE
+487;Political Fabrications: Women's Textiles in Five Cultures;20274;30319;40323;0;TRUE
+488;Political Fabrications: Women's Textiles in Five Cultures;20274;30320;40324;0;TRUE
+489;Political Fabrications: Women's Textiles in Five Cultures;20274;30320;40325;0;TRUE
+490;Political Fabrications: Women's Textiles in Five Cultures;20274;30321;40326;0;TRUE
+491;Political Fabrications: Women's Textiles in Five Cultures;20274;30322;40327;0;TRUE
+492;Political Fabrications: Women's Textiles in Five Cultures;20274;30323;40328;0;TRUE
+493;Political Fabrications: Women's Textiles in Five Cultures;20274;30324;40329;0;TRUE
+494;Political Fabrications: Women's Textiles in Five Cultures;20274;30325;40330;0;TRUE
+495;Art Hysterical Notions of Progress and Culture;20287;0;0;0;TRUE
+496;Excerpts from Women and the Decorative Arts;20288;30307;40313;0;TRUE
+497;Excerpts from Women and the Decorative Arts;20288;30308;40313;0;TRUE
+498;Excerpts from Women and the Decorative Arts;20288;30326;40331;0;TRUE
+499;Excerpts from Women and the Decorative Arts;20288;30327;40332;0;TRUE
+500;Excerpts from Women and the Decorative Arts;20288;30328;40333;0;TRUE
+501;The Woman's Building;21648;30329;40334;0;TRUE
+502;Ten Ways to Look at a Flower;20293;30330;40335;0;FALSE
+503;Ten Ways to Look at a Flower;20293;30331;40336;0;FALSE
+504;Ten Ways to Look at a Flower;20293;30332;40337;0;FALSE
+505;Ten Ways to Look at a Flower;20293;30333;40338;0;FALSE
+506;Ten Ways to Look at a Flower;20293;30334;40339;0;FALSE
+507;Ten Ways to Look at a Flower;20293;30335;40339;0;FALSE
+508;Ten Ways to Look at a Flower;20293;30330;40340;0;FALSE
+509;Sweet Peas;21649;0;0;0;FALSE
+510;Trapped Women: Two Sister Designers, Margaret and Frances MacDonald;20294;30336;40341;0;TRUE
+511;Trapped Women: Two Sister Designers, Margaret and Frances MacDonald;20294;30337;40342;0;TRUE
+512;Trapped Women: Two Sister Designers, Margaret and Frances MacDonald;20294;30338;40343;0;TRUE
+513;Trapped Women: Two Sister Designers, Margaret and Frances MacDonald;20294;30339;40344;0;TRUE
+514;Trapped Women: Two Sister Designers, Margaret and Frances MacDonald;20294;30340;40345;0;TRUE
+515;Trapped Women: Two Sister Designers, Margaret and Frances MacDonald;20294;30341;40346;0;TRUE
+516;Trapped Women: Two Sister Designers, Margaret and Frances MacDonald;20294;30342;40347;0;TRUE
+517;Trapped Women: Two Sister Designers, Margaret and Frances MacDonald;20294;30343;40348;0;TRUE
+518;Adelaide Alsop Robineau: Ceramist from Syracuse;20295;30344;40349;60114;TRUE
+519;Adelaide Alsop Robineau: Ceramist from Syracuse;20295;30345;40350;0;TRUE
+520;Adelaide Alsop Robineau: Ceramist from Syracuse;20295;30346;40351;60115;TRUE
+521;Adelaide Alsop Robineau: Ceramist from Syracuse;20295;30347;40352;0;TRUE
+522;Adelaide Alsop Robineau: Ceramist from Syracuse;20295;30348;40353;60116;TRUE
+523;Adelaide Alsop Robineau: Ceramist from Syracuse;20295;30349;40354;0;TRUE
+524;Adelaide Alsop Robineau: Ceramist from Syracuse;20295;30348;40355;0;TRUE
+525;Poppy Vase;20296;0;0;0;FALSE
+526;Scarab Vase – Apotheosis of the Toiler;20297;0;0;0;FALSE
+527;Eggshell Coupe;20298;0;0;0;FALSE
+528;Women of the Bauhaus;20299;30350;40356;0;TRUE
+529;Women of the Bauhaus;20299;30351;40357;0;TRUE
+530;Women of the Bauhaus;20299;30352;40357;0;TRUE
+531;Women of the Bauhaus;20299;30353;40357;0;TRUE
+532;Women of the Bauhaus;20299;30354;40358;0;TRUE
+533;Women of the Bauhaus;20299;30355;40359;0;TRUE
+534;Women of the Bauhaus;20299;30356;40360;0;TRUE
+535;Women of the Bauhaus;20299;30357;40361;0;TRUE
+536;Knotted rug;20300;0;0;0;FALSE
+537;Spherical Lighting fixture;20301;0;0;0;FALSE
+538;Small pot for tea essence;20302;0;0;0;FALSE
+539;Children's Room Dresser;20303;0;0;0;FALSE
+540;Tapestry;20304;0;0;0;FALSE
+541;Portrait of Frida Kahlo as a Tehuana;20305;30358;40362;60117;TRUE
+542;Feminism: Has it Changed Art History?;20309;30359;40363;60118;TRUE
+543;Feminism: Has it Changed Art History?;20309;30360;40364;0;TRUE
+544;Feminism: Has it Changed Art History?;20309;30361;40365;0;TRUE
+545;Are You a Closet Collector?;20310;0;0;0;FALSE
+546;Making Something from Nothing;20311;30362;40366;0;TRUE
+547;Making Something from Nothing;20311;30363;40366;0;TRUE
+548;Making Something from Nothing;20311;30364;40367;0;TRUE
+549;Making Something from Nothing;20311;30365;40368;0;TRUE
+550;Making Something from Nothing;20311;30366;40369;60062;TRUE
+551;Making Something from Nothing;20311;30366;40370;60119;TRUE
+552;Making Something from Nothing;20311;30367;40371;60120;TRUE
+553;Making Something from Nothing;20311;30048;40048;0;TRUE
+554;Waste Not/Want Not: Femmage;20316;0;0;0;TRUE
+555;Sewing With My Great-Aunt Leonie Amestoy;20317;0;0;0;FALSE
+556;The Apron: Status Symbol or Stitchery Sample?;20318;30368;40372;0;TRUE
+557;The Apron: Status Symbol or Stitchery Sample?;20318;30347;40373;0;TRUE
+558;The Apron: Status Symbol or Stitchery Sample?;20318;30370;40374;0;TRUE
+559;The Apron: Status Symbol or Stitchery Sample?;20318;30371;40375;0;TRUE
+560;The Apron: Status Symbol or Stitchery Sample?;20318;30372;40376;0;TRUE
+561;Conversations and Reminiscences;20319;0;0;0;TRUE
+562;Grandma Sarah Bakes;20346;0;0;0;FALSE
+563;Aran Kitchens, Aran Sweaters;20347;0;0;0;TRUE
+564;Nepal Hill Art and Women's Traditions;20348;30373;40377;0;TRUE
+565;Nepal Hill Art and Women's Traditions;20348;30374;40378;0;TRUE
+566;Nepal Hill Art and Women's Traditions;20348;30375;40379;0;TRUE
+567;Nepal Hill Art and Women's Traditions;20348;30376;40379;0;TRUE
+568;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30377;40380;0;TRUE
+569;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30378;40381;0;TRUE
+570;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30379;40381;0;TRUE
+571;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30377;40381;0;TRUE
+572;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30380;40382;0;TRUE
+573;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30381;40383;60121;TRUE
+574;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30304;40384;0;TRUE
+575;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30382;40385;60110;TRUE
+576;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30383;40386;0;TRUE
+577;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30384;40386;0;TRUE
+578;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30385;40387;60122;TRUE
+579;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30386;40388;0;TRUE
+580;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30295;40301;0;TRUE
+581;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30381;40389;60123;TRUE
+582;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30387;40390;0;TRUE
+583;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30388;40391;0;TRUE
+584;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30389;40392;60121;TRUE
+585;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30390;40393;0;TRUE
+586;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30391;40394;0;TRUE
+587;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30392;40395;60123;TRUE
+588;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30393;40396;60124;TRUE
+589;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30394;40397;60125;TRUE
+590;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30395;40398;60126;TRUE
+591;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30396;40399;0;TRUE
+592;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30397;40400;0;TRUE
+593;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30398;40401;0;TRUE
+594;The Equivocal Role of Women Artists in Non-Literature Cultures;20349;30399;40402;60127;TRUE
+595;Women's Art in Village India;20350;30400;40403;0;TRUE
+596;Women's Art in Village India;20350;30401;40404;60128;TRUE
+597;Women's Art in Village India;20350;30402;40405;0;TRUE
+598;Women's Art in Village India;20350;30403;40405;0;TRUE
+599;Women's Art in Village India;20350;30404;40406;0;TRUE
+600;Women's Art in Village India;20350;30405;40407;0;TRUE
+601;Women's Art in Village India;20350;30406;40408;0;TRUE
+602;Women's Art in Village India;20350;30407;40409;60129;TRUE
+603;Women's Art in Village India;20350;30408;40410;60130;TRUE
+604;Women's Art in Village India;20350;30409;40411;0;TRUE
+605;Women's Art in Village India;20350;30410;40411;0;TRUE
+606;Women's Art in Village India;20350;30411;40412;60130;TRUE
+607;Women's Art in Village India;20350;30412;40412;60130;TRUE
+608;Women's Art in Village India;20350;30413;40413;60130;TRUE
+609;Women's Art in Village India;20350;30414;40414;0;TRUE
+610;Women's Art in Village India;20350;30415;40415;0;TRUE
+611;Women's Art in Village India;20350;30416;40416;60131;TRUE
+612;Pages From an Asian Notebook;20351;0;0;0;FALSE
+613;Quill Art;20352;30417;40417;0;TRUE
+614;Quill Art;20352;30418;40418;0;TRUE
+615;Quill Art;20352;30419;40419;0;TRUE
+616;Quill Art;20352;30420;40420;0;TRUE
+617;Quill Art;20352;30421;40421;0;TRUE
+618;Quill Art;20352;30422;40422;60132;TRUE
+619;Turkmen Women, Weaving and Cultural Change;20353;30423;40423;60133;TRUE
+620;Kongo Pottery: Woman's Art from Zaire;20354;30424;40424;60134;TRUE
+621;Myth and the Sexual Division of Labor;20355;30425;40425;0;TRUE
+622;Myth and the Sexual Division of Labor;20355;30426;40426;60135;TRUE
+623;Myth and the Sexual Division of Labor;20355;30427;40426;60135;TRUE
+624;Myth and the Sexual Division of Labor;20355;30428;40427;0;TRUE
+625;Selections from: Recitation of the Yoruba Bride;20356;0;0;0;FALSE
+626;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30429;40428;0;TRUE
+627;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30430;40429;60136;TRUE
+628;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30430;40430;60137;TRUE
+629;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30430;40431;60138;TRUE
+630;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30431;40432;0;TRUE
+631;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30432;40433;60139;TRUE
+632;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30433;40434;60140;TRUE
+633;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30434;40435;60141;TRUE
+634;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30435;40436;60142;TRUE
+635;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30436;40436;60142;TRUE
+636;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30437;40437;0;TRUE
+637;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30438;40438;0;TRUE
+638;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30439;40438;0;TRUE
+639;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30440;40439;60143;TRUE
+640;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30441;40440;60144;TRUE
+641;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30442;40440;60144;TRUE
+642;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30443;40441;60145;TRUE
+643;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30444;40442;60146;TRUE
+644;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30445;40442;60146;TRUE
+645;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30446;40443;60147;TRUE
+646;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30447;40444;60148;TRUE
+647;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30448;40445;0;TRUE
+648;"""By the Lakeside there is an Echo:"" Towards a History of Women's Traditional Arts";20357;30449;40446;60149;TRUE
+649;The Great Goddess Collective Statement;21650;0;0;0;TRUE
+650;Poem;20358;0;0;0;FALSE
+651;The Three Faces of Goddess Spirituality;20359;0;0;0;TRUE
+652;Mother With the Moon in Your Mouth;20360;0;0;0;FALSE
+653;The Goddess Yakshi with parrot;20361;0;0;0;FALSE
+654;Non sumus qualis eramus;20362;0;0;0;FALSE
+655;White Goddess;20363;0;0;0;FALSE
+656;Why Women Need the Goddess;20364;30007;40033;0;TRUE
+657;Why Women Need the Goddess;20364;30130;40127;0;TRUE
+658;Why Women Need the Goddess;20364;30199;40194;0;TRUE
+659;Why Women Need the Goddess;20364;30449;40446;60149;TRUE
+660;Why Women Need the Goddess;20364;30450;40447;0;TRUE
+661;Why Women Need the Goddess;20364;30451;40448;60150;TRUE
+662;Why Women Need the Goddess;20364;30452;40448;60150;TRUE
+663;Why Women Need the Goddess;20364;30453;40449;60151;TRUE
+664;Why Women Need the Goddess;20364;30454;40450;0;TRUE
+665;Why Women Need the Goddess;20364;30455;40451;0;TRUE
+666;Why Women Need the Goddess;20364;30456;40452;0;TRUE
+667;Why Women Need the Goddess;20364;30457;40453;0;TRUE
+668;Why Women Need the Goddess;20364;30458;40453;0;TRUE
+669;Why Women Need the Goddess;20364;30459;40454;0;TRUE
+670;Why Women Need the Goddess;20364;30460;40455;0;TRUE
+671;Why Women Need the Goddess;20364;30191;40456;0;TRUE
+672;Why Women Need the Goddess;20364;30461;40457;0;TRUE
+673;Why Women Need the Goddess;20364;30462;40458;60153;TRUE
+674;Why Women Need the Goddess;20364;30463;40459;0;TRUE
+675;Why Women Need the Goddess;20364;30464;40460;60154;TRUE
+676;Why Women Need the Goddess;20364;30465;40461;60155;TRUE
+677;Why Women Need the Goddess;20364;30466;40462;0;TRUE
+678;Why Women Need the Goddess;20364;30467;40462;0;TRUE
+679;untitled;21651;0;0;0;FALSE
+680;About the Goddess Kali, for Pamela Oline;20368;0;0;0;FALSE
+681;Small Goddesses;20369;0;0;0;FALSE
+682;Frail Goddess;20370;0;0;0;FALSE
+683;Changing the Hymns to Hers;20371;0;0;0;TRUE
+684;Lady of the Hand;20372;0;0;0;FALSE
+685;Hathor, The Horned One;20373;0;0;0;FALSE
+686;Stork-Woman: The Dryness and the Fullness of One's Existence;20374;0;0;0;FALSE
+687;Contemporary Feminist Rituals;20375;30144;40142;0;TRUE
+688;Contemporary Feminist Rituals;20375;30189;40464;60156;TRUE
+689;Contemporary Feminist Rituals;20375;30469;40465;60157;TRUE
+690;Contemporary Feminist Rituals;20375;30012;40034;60009;TRUE
+691;Contemporary Feminist Rituals;20375;30470;40466;60158;TRUE
+692;Contemporary Feminist Rituals;20375;30471;40467;;TRUE
+693;Contemporary Feminist Rituals;20375;30472;40467;60159;TRUE
+694;Contemporary Feminist Rituals;20375;30473;40468;0;TRUE
+695;Contemporary Feminist Rituals;20375;30474;40469;0;TRUE
+696;Contemporary Feminist Rituals;20375;30455;40470;60160;TRUE
+697;Contemporary Feminist Rituals;20375;30475;40471;0;TRUE
+698;Contemporary Feminist Rituals;20375;30476;40472;0;TRUE
+699;Contemporary Feminist Rituals;20375;30318;40473;60161;TRUE
+700;Contemporary Feminist Rituals;20375;30477;40474;0;TRUE
+701;Contemporary Feminist Rituals;20375;30478;40475;0;TRUE
+702;Song of Black Feather, Song of White Feather;20377;30479;40476;0;FALSE
+703;Stonesprings;20378;0;0;0;FALSE
+704;Temples of the Great Goddess;20379;30480;40477;0;TRUE
+705;Temples of the Great Goddess;20379;30481;40478;0;TRUE
+706;Temples of the Great Goddess;20379;30482;40479;0;TRUE
+707;Temples of the Great Goddess;20379;30483;40480;0;TRUE
+708;Temples of the Great Goddess;20379;30484;40480;0;TRUE
+709;Temples of the Great Goddess;20379;30485;40481;0;TRUE
+710;Temples of the Great Goddess;20379;30486;40482;0;TRUE
+711;Temples of the Great Goddess;20379;30486;40483;0;TRUE
+712;Temples of the Great Goddess;20379;30487;40484;0;TRUE
+713;Temples of the Great Goddess;20379;30488;40485;0;TRUE
+714;Temples of the Great Goddess;20379;30489;40486;0;TRUE
+715;Temples of the Great Goddess;20379;30490;40487;0;TRUE
+716;Temples of the Great Goddess;20379;30491;40488;0;TRUE
+717;Temples of the Great Goddess;20379;30492;40489;0;TRUE
+718;Temples of the Great Goddess;20379;30493;40490;0;TRUE
+719;Temples of the Great Goddess;20379;30494;40491;0;TRUE
+720;Temples of the Great Goddess;20379;30495;40492;0;TRUE
+721;Temples of the Great Goddess;20379;30496;40493;0;TRUE
+722;Temples of the Great Goddess;20379;30497;40494;0;TRUE
+723;Temples of the Great Goddess;20379;30498;40495;0;TRUE
+724;Temples of the Great Goddess;20379;30498;40496;0;TRUE
+725;Temples of the Great Goddess;20379;30499;40497;0;TRUE
+726;Temples of the Great Goddess;20379;30499;40498;0;TRUE
+727;Temples of the Great Goddess;20379;30500;40499;0;TRUE
+728;Temples of the Great Goddess;20379;30501;40500;0;TRUE
+729;Temples of the Great Goddess;20379;30502;40501;0;TRUE
+730;Temples of the Great Goddess;20379;30503;40502;0;TRUE
+731;Temples of the Great Goddess;20379;30504;40503;0;TRUE
+732;Temples of the Great Goddess;20379;30505;40504;0;TRUE
+733;Temples of the Great Goddess;20379;30506;40505;0;TRUE
+734;Temples of the Great Goddess;20379;30507;40506;0;TRUE
+735;Temples of the Great Goddess;20379;30508;40507;0;TRUE
+736;Temples of the Great Goddess;20379;30509;40508;0;TRUE
+737;Isis at the Supermarket;20380;0;0;0;FALSE
+738;My House;20381;0;0;0;FALSE
+739;mersouri makes lub to ther queed ob spades;20382;0;0;0;FALSE
+740;Woman's Primacy in the Coming Reformation;20383;30510;40509;0;TRUE
+741;Woman's Primacy in the Coming Reformation;20383;30511;40510;0;TRUE
+742;Woman's Primacy in the Coming Reformation;20383;30512;40511;0;TRUE
+743;Woman's Primacy in the Coming Reformation;20383;30513;40512;0;TRUE
+744;Woman's Primacy in the Coming Reformation;20383;30506;40505;0;TRUE
+745;Woman's Primacy in the Coming Reformation;20383;30507;40506;0;TRUE
+746;Woman's Primacy in the Coming Reformation;20383;30508;40507;0;TRUE
+747;Woman's Primacy in the Coming Reformation;20383;30509;40508;0;TRUE
+748;Woman's Primacy in the Coming Reformation;20383;30510;40509;0;TRUE
+749;Woman's Primacy in the Coming Reformation;20383;30511;40510;0;TRUE
+750;Woman's Primacy in the Coming Reformation;20383;30512;40511;0;TRUE
+751;Woman's Primacy in the Coming Reformation;20383;30513;40512;0;TRUE
+752;Woman's Primacy in the Coming Reformation;20383;30514;40513;0;TRUE
+753;Woman's Primacy in the Coming Reformation;20383;30515;40514;0;TRUE
+754;Woman's Primacy in the Coming Reformation;20383;30516;40515;0;TRUE
+755;Woman's Primacy in the Coming Reformation;20383;30517;40516;0;TRUE
+756;Woman's Primacy in the Coming Reformation;20383;30518;40517;0;TRUE
+757;Woman's Primacy in the Coming Reformation;20383;30519;40517;0;TRUE
+758;Woman's Primacy in the Coming Reformation;20383;30520;40518;0;TRUE
+759;Woman's Primacy in the Coming Reformation;20383;30503;40519;0;TRUE
+760;Woman's Primacy in the Coming Reformation;20383;30521;40520;0;TRUE
+761;Woman's Primacy in the Coming Reformation;20383;30522;40521;0;TRUE
+762;Woman's Primacy in the Coming Reformation;20383;30523;40522;0;TRUE
+763;Woman's Primacy in the Coming Reformation;20383;30524;40523;0;TRUE
+764;Woman's Primacy in the Coming Reformation;20383;30525;40524;0;TRUE
+765;Woman's Primacy in the Coming Reformation;20383;30523;40525;0;TRUE
+766;Woman's Primacy in the Coming Reformation;20383;30526;40526;0;TRUE
+767;Woman's Primacy in the Coming Reformation;20383;30527;40526;0;TRUE
+768;Woman's Primacy in the Coming Reformation;20383;30528;40527;0;TRUE
+769;Woman's Primacy in the Coming Reformation;20383;30529;40528;0;TRUE
+770;Woman's Primacy in the Coming Reformation;20383;30530;40529;0;TRUE
+771;Relic Manuscript Blood Entries;20387;0;0;0;FALSE
+772;Relic;20388;0;0;0;FALSE
+773;Mikva Dreams – A Performance;20389;0;0;0;FALSE
+774;The Many Paths of Feminist Spirituality;20390;0;0;0;TRUE
+775;Panic in the World of Art;20394;0;0;0;TRUE
+776;Exile III;20395;0;0;0;FALSE
+777;Summer Solstice;20396;0;0;0;FALSE
+778;Spring Equinox;20397;0;0;0;FALSE
+779;Winter Solstice;20398;0;0;0;FALSE
+780;Autumn Equinox & My Birthday;20399;0;0;0;FALSE
+781;The Eternal Weaver;20400;30498;40495;0;TRUE
+782;The Eternal Weaver;20400;30509;40508;0;TRUE
+783;The Eternal Weaver;20400;30493;40490;0;TRUE
+784;The Eternal Weaver;20400;30517;40530;0;TRUE
+785;The Eternal Weaver;20400;30468;40531;0;TRUE
+786;The Eternal Weaver;20400;30468;40532;0;TRUE
+787;The Eternal Weaver;20400;30468;40533;0;TRUE
+788;The Eternal Weaver;20400;30531;40534;0;TRUE
+789;The Eternal Weaver;20400;30532;40535;0;TRUE
+790;The Eternal Weaver;20400;30533;40536;60162;TRUE
+791;The Eternal Weaver;20400;30534;40536;60162;TRUE
+792;The Eternal Weaver;20400;30535;40537;0;TRUE
+793;The Eternal Weaver;20400;30536;40538;0;TRUE
+794;The Eternal Weaver;20400;30537;40539;0;TRUE
+795;The Eternal Weaver;20400;30538;40540;0;TRUE
+796;The Eternal Weaver;20400;30535;40541;0;TRUE
+797;The Eternal Weaver;20400;30537;40542;0;TRUE
+798;The Eternal Weaver;20400;30539;40543;60163;TRUE
+799;The Eternal Weaver;20400;30537;40544;0;TRUE
+800;The Eternal Weaver;20400;30537;40545;0;TRUE
+801;The Eternal Weaver;20400;30540;40546;0;TRUE
+802;The Eternal Weaver;20400;30541;40547;0;TRUE
+803;The Eternal Weaver;20400;30523;40525;0;TRUE
+804;The Eternal Weaver;20400;30523;40522;0;TRUE
+805;The Eternal Weaver;20400;30542;40548;0;TRUE
+806;The Eternal Weaver;20400;30543;40549;0;TRUE
+807;untitled;21652;0;0;0;FALSE
+808;DREAMS;20401;0;0;0;FALSE
+809;Root Hold;20402;0;0;0;FALSE
+810;Trine;20403;0;0;0;FALSE
+811;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30544;40550;0;TRUE
+812;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30545;40551;0;TRUE
+813;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30455;40451;0;TRUE
+814;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30546;40552;60164;TRUE
+815;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30535;40541;0;TRUE
+816;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30542;40548;0;TRUE
+817;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30543;40549;0;TRUE
+818;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30544;40550;0;TRUE
+819;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30545;40551;0;TRUE
+820;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30546;40552;60164;TRUE
+821;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30547;40553;60165;TRUE
+822;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30548;40554;0;TRUE
+823;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30549;40555;60162;TRUE
+824;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30550;40556;60119;TRUE
+825;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30551;40557;60166;TRUE
+826;The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women;20404;30552;40557;60166;TRUE
+827;Section architectural drawing for a Goddess temple;20405;0;0;0;FALSE
+828;Labyrinth/architectural drawing for a Goddess temple;20406;0;0;0;FALSE
+829;THE MUSE WAS SERPANT AND…;20407;0;0;0;FALSE
+830;Sand Costumes/Living with the Bedouins;20408;0;0;0;FALSE
+831;Silveta del Laberinto;20409;0;0;0;FALSE
+832;Lapis;20410;0;0;0;FALSE
+833;Pasiphae;20411;0;0;0;FALSE
+834;Oracle Stone's Grove;20412;0;0;0;FALSE
+835;Vested Relic;20413;0;0;0;FALSE
+836;Voo Doo Lady with Three Dice;20414;0;0;0;FALSE
+837;Goddess Head/Calling Series;20415;0;0;0;FALSE
+838;Spider/ Woman Series;20416;0;0;0;FALSE
+839;Maypole Ritual;20417;0;0;0;FALSE
+840;Ancestors;20418;0;0;0;FALSE
+841;Enclosed;20419;0;0;0;FALSE
+842;The Butterfly Goddess as a Flowering Shrub;20420;0;0;0;FALSE
+843;Liturgy Circa 1976;20421;0;0;0;FALSE
+844;In the Making;20422;0;0;0;FALSE
+845;Heroica, An Archetypal Image Rising: An Expurgated Vision;20423;0;0;0;FALSE
+846;Reconciliation;20424;0;0;0;FALSE
+847;Opposing the Rape of Mother Earth;20425;30479;40476;0;TRUE
+848;Opposing the Rape of Mother Earth;20425;30553;40558;60167;TRUE
+849;Opposing the Rape of Mother Earth;20425;30554;40559;0;TRUE
+850;Opposing the Rape of Mother Earth;20425;30555;40560;0;TRUE
+851;Opposing the Rape of Mother Earth;20425;30556;40561;60168;TRUE
+852;Opposing the Rape of Mother Earth;20425;30557;40562;0;TRUE
+853;Opposing the Rape of Mother Earth;20425;30398;40563;0;TRUE
+854;Opposing the Rape of Mother Earth;20425;30557;40564;0;TRUE
+855;Opposing the Rape of Mother Earth;20425;30558;40565;0;TRUE
+856;Opposing the Rape of Mother Earth;20425;30559;40566;0;TRUE
+857;Opposing the Rape of Mother Earth;20425;30560;40567;0;TRUE
+858;Opposing the Rape of Mother Earth;20425;30560;40568;0;TRUE
+859;Opposing the Rape of Mother Earth;20425;30561;40568;0;TRUE
+860;Opposing the Rape of Mother Earth;20425;30562;40569;0;TRUE
+861;Triangles;20428;0;0;0;FALSE
+862;Ginko;20429;0;0;0;FALSE
+863;Pilgrimage/See for Yourself: A Journey to a Neolithic Goddess Cave, 1977. Grapceva, Hvar Island, Yugoslavia;20430;0;0;0;TRUE
+864;Finding the Goddess: Finding Myself;20431;0;0;0;TRUE
+865;Incantation to the Moon;20432;0;0;0;FALSE
+866;Hills;20433;0;0;0;FALSE
+867;Early Impressions;20434;0;0;0;FALSE
+868;Masks, Powers and Sisterhood in an African Society;20435;30563;40570;60169;TRUE
+869;Masks, Powers and Sisterhood in an African Society;20435;30564;40571;60170;TRUE
+870;Oshun, Yoruba Fertility Gods;20436;0;0;0;TRUE
+871;The Goddess Oshun on the Riverbank;20437;0;0;0;FALSE
+872;Shrine of the Goddess Oshun;20438;0;0;0;FALSE
+873;Earth Mother Goddess;20439;0;0;0;FALSE
+874;She Who Bleeds, Yet Does Not Die;20440;30514;40513;0;TRUE
+875;She Who Bleeds, Yet Does Not Die;20440;30565;40572;0;TRUE
+876;She Who Bleeds, Yet Does Not Die;20440;30566;40573;0;TRUE
+877;She Who Bleeds, Yet Does Not Die;20440;30567;40575;0;TRUE
+878;She Who Bleeds, Yet Does Not Die;20440;30568;40576;0;TRUE
+879;She Who Bleeds, Yet Does Not Die;20440;30569;40577;0;TRUE
+880;She Who Bleeds, Yet Does Not Die;20440;30570;40578;0;TRUE
+881;She Who Bleeds, Yet Does Not Die;20440;30571;40579;0;TRUE
+882;She Who Bleeds, Yet Does Not Die;20440;30572;40580;0;TRUE
+883;She Who Bleeds, Yet Does Not Die;20440;30573;40581;0;TRUE
+884;She Who Bleeds, Yet Does Not Die;20440;30574;40582;0;TRUE
+885;She Who Bleeds, Yet Does Not Die;20440;30536;40538;0;TRUE
+886;She Who Bleeds, Yet Does Not Die;20440;30575;40583;60154;TRUE
+887;She Who Bleeds, Yet Does Not Die;20440;30468;40584;0;TRUE
+888;She Who Bleeds, Yet Does Not Die;20440;30570;40585;0;TRUE
+889;She Who Bleeds, Yet Does Not Die;20440;30496;40493;0;TRUE
+890;She Who Bleeds, Yet Does Not Die;20440;30576;40586;0;TRUE
+891;She Who Bleeds, Yet Does Not Die;20440;30577;40587;0;TRUE
+892;She Who Bleeds, Yet Does Not Die;20440;30578;40588;0;TRUE
+893;She Who Bleeds, Yet Does Not Die;20440;30579;40588;0;TRUE
+894;She Who Bleeds, Yet Does Not Die;20440;30580;40589;0;TRUE
+895;She Who Bleeds, Yet Does Not Die;20440;30581;40590;0;TRUE
+896;She Who Bleeds, Yet Does Not Die;20440;30582;40591;0;TRUE
+897;She Who Bleeds, Yet Does Not Die;20440;30583;40592;0;TRUE
+898;She Who Bleeds, Yet Does Not Die;20440;30584;40593;0;TRUE
+899;She Who Bleeds, Yet Does Not Die;20440;30585;40594;0;TRUE
+900;She Who Bleeds, Yet Does Not Die;20440;30586;40595;0;TRUE
+901;She Who Bleeds, Yet Does Not Die;20440;30587;40596;0;TRUE
+902;She Who Bleeds, Yet Does Not Die;20440;30588;40597;60171;TRUE
+903;She Who Bleeds, Yet Does Not Die;20440;30589;40597;60171;TRUE
+904;She Who Bleeds, Yet Does Not Die;20440;30590;40598;60171;TRUE
+905;She Who Bleeds, Yet Does Not Die;20440;30591;40599;0;TRUE
+906;She Who Bleeds, Yet Does Not Die;20440;30592;40600;0;TRUE
+907;Stills from Super T-Art.;20444;0;0;0;FALSE
+908;The Snail;20445;0;0;0;FALSE
+909;Mirror Piece;20446;0;0;0;FALSE
+910;Marilyn Monroe;20447;0;0;0;FALSE
+911;Body Imperatives;20448;30367;40371;60120;TRUE
+912;Body Imperatives;20448;30514;40513;0;TRUE
+913;Body Imperatives;20448;30566;40573;0;TRUE
+914;Birth Dance or Belly Dance;20449;0;0;0;TRUE
+915;untitled;21653;0;0;0;FALSE
+916;Two Poems by Martha Courtot;20451;0;0;0;FALSE
+917;Transformation;20452;0;0;0;FALSE
+918;9978: Repairing the Time Warp: and other related realities;20453;30463;40459;0;TRUE
+919;untitled;21654;0;0;0;FALSE
+920;Hecate;20454;0;0;0;FALSE
+921;In the Performance INTERIOR SCROLL;20455;0;0;0;FALSE
+922;A Random Thought;20456;0;0;0;FALSE
+923;The 6th Issue Collective Statement (Editorial);20458;0;0;0;TRUE
+924;Pink Victory;20459;0;0;0;TRUE
+925;The Vicki Tapes;20460;0;0;0;TRUE
+926;August 2nd;20461;0;0;0;TRUE
+927;With No Immediate Cause;20462;0;0;0;FALSE
+928;Editorial;20463;0;0;0;TRUE
+929;The Evolution of a Violent Act;20464;0;0;0;TRUE
+930;Politics of Rape in a Primitive Society;20465;0;0;0;TRUE
+931;Dialogue with a Rapist;20467;0;0;0;TRUE
+932;Dialogue with the Author;20468;0;0;0;TRUE
+933;Codex Artaud XVII;20469;0;0;0;FALSE
+934;Happy New Year: An Album of Violence (excerpt);20470;0;0;0;FALSE 
+935;The Pleasure Outing;20471;0;0;0;TRUE
+936;The Violence of Power: The Genital Mutilation of Females;20472;30593;40601;60172;TRUE
+937;The Violence of Power: The Genital Mutilation of Females;20472;30594;40602;60173;TRUE
+938;The Violence of Power: The Genital Mutilation of Females;20472;30595;40603;0;TRUE
+939;The Violence of Power: The Genital Mutilation of Females;20472;30596;40604;60174;TRUE
+940;The Violence of Power: The Genital Mutilation of Females;20472;30597;40605;60175;TRUE
+941;The Violence of Power: The Genital Mutilation of Females;20472;30598;40606;0;TRUE
+942;The Violence of Power: The Genital Mutilation of Females;20472;30599;40607;0;TRUE
+943;The Violence of Power: The Genital Mutilation of Females;20472;30600;40608;60176;TRUE
+944;The Violence of Power: The Genital Mutilation of Females;20472;30601;40609;60177;TRUE
+945;The Violence of Power: The Genital Mutilation of Females;20472;30602;40610;60177;TRUE
+946;The Violence of Power: The Genital Mutilation of Females;20472;30563;40611;60178;TRUE
+947;The Violence of Power: The Genital Mutilation of Females;20472;30563;40570;60169;TRUE
+948;The Violence of Power: The Genital Mutilation of Females;20472;30603;40612;60179;TRUE
+949;The Violence of Power: The Genital Mutilation of Females;20472;30604;40613;60180;TRUE
+950;The Violence of Power: The Genital Mutilation of Females;20472;30563;40614;60181;TRUE
+951;The Violence of Power: The Genital Mutilation of Females;20472;30563;40615;60182;TRUE
+952;The Violence of Power: The Genital Mutilation of Females;20472;30605;40616;Folk, Vol. 14-15;TRUE
+953;The Violence of Power: The Genital Mutilation of Females;20472;30606;40617;American Ethnologist, Vol. 2, No. 4;TRUE
+954;The Violence of Power: The Genital Mutilation of Females;20472;30607;40618;Famille et Developpment;TRUE
+955;Breasts;20474;0;0;0;FALSE
+956;Peignoir and Girdle;20475;0;0;0;TRUE
+957;Wolf Whistles and Warnings;20476;0;0;0;TRUE
+958;Crimes Against Women: New York Tribunal 1976;20477;30608;40619;0;TRUE
+959;Crimes Against Women: New York Tribunal 1977;20477;30609;40619;0;TRUE
+960;Crimes Against Women: New York Tribunal 1978;20477;30278;40275;60027;TRUE
+961;Crimes Against Women: New York Tribunal 1979;20477;30611;40621;60187;TRUE
+962;Crimes Against Women: New York Tribunal 1980;20477;30612;40622;60188;TRUE
+963;Crimes Against Women: New York Tribunal 1981;20477;30613;40623;60189;TRUE
+964;Crimes Against Women: New York Tribunal 1982;20477;30614;40623;60189;TRUE
+965;Crimes Against Women: New York Tribunal 1983;20477;30041;40623;60189;TRUE
+966;Crimes Against Women: New York Tribunal 1984;20477;30615;40624;60187;TRUE
+967;Crimes Against Women: New York Tribunal 1985;20477;30090;40089;60027;TRUE
+968;Why the Women's Movement cannot be Non-violent;20479;0;0;0;TRUE
+969;Biological Superiority: The World's Most Dangerous and Deadly Idea;20480;30620;40628;0;TRUE
+970;Biological Superiority: The World's Most Dangerous and Deadly Idea;20480;30621;40629;0;TRUE
+971;Biological Superiority: The World's Most Dangerous and Deadly Idea;20480;30622;40629;0;TRUE
+972;Biological Superiority: The World's Most Dangerous and Deadly Idea;20480;30623;40630;0;TRUE
+973;Biological Superiority: The World's Most Dangerous and Deadly Idea;20480;30624;40631;0;TRUE
+974;Biological Superiority: The World's Most Dangerous and Deadly Idea;20480;30625;40632;0;TRUE
+975;Biological Superiority: The World's Most Dangerous and Deadly Idea;20480;30199;40194;0;TRUE
+976;In Defense of Fallen Comrades: La Mutualite;20481;0;0;0;TRUE
+977;A Rape Poem for Men;20482;0;0;0;FALSE
+978;Christmas Dinner;20483;0;0;0;FALSE
+979;Men on Women's Day;20484;0;0;0;TRUE
+980;Self-Defense;20485;0;0;0;FALSE
+981;A Social History of Battered Women;20486;30626;40633;0;TRUE
+982;A Social History of Battered Women;20486;30627;40634;0;TRUE
+983;A Social History of Battered Women;20486;30628;40634;0;TRUE
+984;A Social History of Battered Women;20486;30629;40635;0;TRUE
+985;A Social History of Battered Women;20486;30018;40001;0;TRUE
+986;A Social History of Battered Women;20486;30019;40001;0;TRUE
+987;A Social History of Battered Women;20486;30630;40636;0;TRUE
+988;A Social History of Battered Women;20486;30631;40637;0;TRUE
+989;A Social History of Battered Women;20486;30511;40510;0;TRUE
+990;A Social History of Battered Women;20486;30632;40638;0;TRUE
+991;Face to Face with the Far Right: Tradition, Family and Property;20487;30633;40639;60188;TRUE
+992;Face to Face with the Far Right: Tradition, Family and Property;20487;30634;40639;60188;TRUE
+993;Chapter VII: Unusual Prisoners: Section 3 Sex Deviates;20488;0;0;0;FALSE
+994;Women and Children First or How Pop Planning Fucked Over Mom;20489;30635;40640;60066;TRUE
+995;Women and Children First or How Pop Planning Fucked Over Mom;20489;30633;40641;0;TRUE
+996;Women and Children First or How Pop Planning Fucked Over Mom;20489;30636;40642;60189;TRUE
+997;Women and Children First or How Pop Planning Fucked Over Mom;20489;30637;40642;60189;TRUE
+998;Women and Children First or How Pop Planning Fucked Over Mom;20489;30638;40643;60190;TRUE
+999;Women and Children First or How Pop Planning Fucked Over Mom;20489;30639;40644;60191;TRUE
+1000;Women and Children First or How Pop Planning Fucked Over Mom;20489;30640;40644;60191;TRUE
+1001;Women and Children First or How Pop Planning Fucked Over Mom;20489;30641;40645;60192;TRUE
+1002;Women and Children First or How Pop Planning Fucked Over Mom;20489;30642;40646;60193;TRUE
+1003;Women and Children First or How Pop Planning Fucked Over Mom;20489;30643;40647;60194;TRUE
+1004;Women and Children First or How Pop Planning Fucked Over Mom;20489;30644;40648;60195;TRUE
+1005;Women and Children First or How Pop Planning Fucked Over Mom;20489;30645;40649;60196;TRUE
+1006;Women and Children First or How Pop Planning Fucked Over Mom;20489;30646;40650;0;TRUE
+1007;Women and Children First or How Pop Planning Fucked Over Mom;20489;30647;40651;60197;TRUE
+1008;Women and Children First or How Pop Planning Fucked Over Mom;20489;30648;40651;60197;TRUE
+1009;Women and Children First or How Pop Planning Fucked Over Mom;20489;30649;40651;60197;TRUE
+1010;Women and Children First or How Pop Planning Fucked Over Mom;20489;30650;40652;60198;TRUE
+1011;Women and Children First or How Pop Planning Fucked Over Mom;20489;30651;40652;60198;TRUE
+1012;Women and Children First or How Pop Planning Fucked Over Mom;20489;30652;40653;60197;TRUE
+1013;Women and Children First or How Pop Planning Fucked Over Mom;20489;30653;40654;60198;TRUE
+1014;Women and Children First or How Pop Planning Fucked Over Mom;20489;30654;40655;60199;TRUE
+1015;Women and Children First or How Pop Planning Fucked Over Mom;20489;30655;40656;60200;TRUE
+1016;Women and Children First or How Pop Planning Fucked Over Mom;20489;30656;40657;60201;TRUE
+1017;Women and Children First or How Pop Planning Fucked Over Mom;20489;30657;40658;0;TRUE
+1018;Women and Children First or How Pop Planning Fucked Over Mom;20489;30658;40659;60201;TRUE
+1019;Women and Children First or How Pop Planning Fucked Over Mom;20489;30658;40660;60202;TRUE
+1020;Women and Children First or How Pop Planning Fucked Over Mom;20489;30659;40661;0;TRUE
+1021;Women and Children First or How Pop Planning Fucked Over Mom;20489;30660;40662;60203;TRUE
+1022;Women and Children First or How Pop Planning Fucked Over Mom;20489;30661;40663;60204;TRUE
+1023;Women and Children First or How Pop Planning Fucked Over Mom;20489;30662;40664;0;TRUE
+1024;Women and Children First or How Pop Planning Fucked Over Mom;20489;30663;40665;0;TRUE
+1025;Women and Children First or How Pop Planning Fucked Over Mom;20489;30664;40666;60205;TRUE
+1026;Women and Children First or How Pop Planning Fucked Over Mom;20489;30665;40667;0;TRUE
+1027;Women and Children First or How Pop Planning Fucked Over Mom;20489;30666;40667;0;TRUE
+1028;Psychosurgery for Social Control;20490;30667;40668;60206;TRUE
+1029;Psychosurgery for Social Control;20490;30668;40669;60207;TRUE
+1030;Psychosurgery for Social Control;20490;30669;40669;60207;TRUE
+1031;Psychosurgery for Social Control;20490;30670;40669;60207;TRUE
+1032;Psychosurgery for Social Control;20490;30668;40670;0;TRUE
+1033;Psychosurgery for Social Control;20490;30670;40670;0;TRUE
+1034;Psychosurgery for Social Control;20490;30671;40671;60208;TRUE
+1035;Psychosurgery for Social Control;20490;30672;40672;0;TRUE
+1036;Psychosurgery for Social Control;20490;30673;40673;60209;TRUE
+1037;Psychosurgery for Social Control;20490;30674;40674;0;TRUE
+1038;Psychosurgery for Social Control;20490;30675;40675;60210;TRUE
+1039;Psychosurgery for Social Control;20490;30676;40676;60211;TRUE
+1040;The Mind-Fuckers Statement;20491;0;0;0;TRUE
+1041;Homeworkers;20492;0;0;0;TRUE
+1042;Evolution of a Feminist Art: Public Forms and Social Issues;20493;30677;40677;0;TRUE
+1043;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30698;40697;0;TRUE
+1044;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30699;40698;0;TRUE
+1045;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30700;40699;0;TRUE
+1046;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30701;40700;0;TRUE
+1047;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30702;40701;0;TRUE
+1048;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30703;40702;0;TRUE
+1049;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30704;40703;0;TRUE
+1050;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30705;40704;0;TRUE
+1051;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30706;40705;0;TRUE
+1052;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30707;40706;0;TRUE
+1053;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30708;40707;0;TRUE
+1054;The Violence of Ideological Distortion: The Imagery of Laundresses in the 19th Century French Culture;20494;30126;40708;0;TRUE
+1055;La Petite repasseuse repassait (The Little Ironer Ironing);20495;0;0;0;FALSE
+1056;La Repasseuse (The Ironer);20496;0;0;0;FALSE
+1057;Blanchisseuse (Laundress);20497;0;0;0;FALSE
+1058;Steroscopic photographs;20498;0;0;0;FALSE
+1059;The Carrot;20499;0;0;0;FALSE
+1060;The Social Meaning of Violence;20500;30688;40709;0;TRUE
+1061;The Social Meaning of Violence;20500;30233;40710;60221;TRUE
+1062;The Social Meaning of Violence;20500;30709;40711;0;TRUE
+1063;The Social Meaning of Violence;20500;30710;40712;0;TRUE
+1064;The Social Meaning of Violence;20500;30711;40713;0;TRUE
+1065;Hello New York: Let's Settle Scores Compadre--Part 1;20501;0;0;0;TRUE
+1066;Rain;20502;0;0;0;FALSE
+1067;New York City Tonight;20503;0;0;0;FALSE
+1068;Afternoon Stroll;20504;0;0;0;TRUE
+1069;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30712;40714;60222;TRUE
+1070;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30713;40715;60223;TRUE
+1071;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30714;40716;60224;TRUE
+1072;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30715;40717;60225;TRUE
+1073;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30716;40718;60226;TRUE
+1074;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30717;40719;0;TRUE
+1075;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30718;40720;0;TRUE
+1076;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30719;40721;60227;TRUE
+1077;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30720;40722;60228;TRUE
+1078;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30721;40723;0;TRUE
+1079;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30722;40724;60229;TRUE
+1080;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30717;40724;60229;TRUE
+1081;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30723;40725;60230;TRUE
+1082;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30724;40726;60231;TRUE
+1083;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30725;40727;60232;TRUE
+1084;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30726;40728;60233;TRUE
+1085;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30727;40729;0;TRUE
+1086;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30728;40730;0;TRUE
+1087;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30729;40731;0;TRUE
+1088;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;40734;40732;0;TRUE
+1089;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;40735;40732;0;TRUE
+1090;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;40736;40733;0;TRUE
+1091;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30730;40737;0;TRUE
+1092;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30731;40737;0;TRUE
+1093;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30732;40738;0;TRUE
+1094;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30733;40739;0;TRUE
+1095;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30734;40739;0;TRUE
+1096;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30735;40740;0;TRUE
+1097;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30736;40741;0;TRUE
+1098;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30737;40741;0;TRUE
+1099;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30738;40742;0;TRUE
+1100;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30739;40742;0;TRUE
+1101;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30740;40742;0;TRUE
+1102;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30741;40742;0;TRUE
+1103;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30742;40743;60234;TRUE
+1104;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30743;40744;60234;TRUE
+1105;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30744;40744;60234;TRUE
+1106;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30745;40745;0;TRUE
+1107;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30746;40746;0;TRUE
+1108;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30747;40746;0;TRUE
+1109;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30748;40747;60235;TRUE
+1110;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30749;40748;60236;TRUE
+1111;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30750;40749;60237;TRUE
+1112;Representation of Women Who Defend Themselves in Response to Physical or Sexual Assault;20505;30751;40750;0;TRUE
+1113;Rape Case Disposition;20507;0;0;0;FALSE
+1114;On Being Inside: Violence in Women's Prisons;20508;0;0;0;TRUE
+1115;Chains Release Me;20510;0;0;0;FALSE
+1116;Pooah-Pooah Woman;20511;0;0;0;FALSE
+1117;Imogene Knode;20512;0;0;0;FALSE
+1118;Working Under Cover;20513;0;0;0;TRUE
+1119;Illustrations From Covers;20514;0;0;0;TRUE
+1120;Clear Acrylic Food Cover;20515;0;0;0;TRUE
+1121;Women at Work Rebuilding Communities;20516;0;0;0;TRUE
+1122;Beverly, Carol and Leslie at Earthtones Boutique;20517;0;0;0;TRUE
+1123;Lesbian Art Project;20518;30752;40751;0;TRUE
+1124;Lesbian Art Project;20518;30455;40752;0;TRUE
+1125;Lesbian Art Project;20518;30753;40753;60238;TRUE
+1126;Lesbian Art Project;20518;30754;40753;60238;TRUE
+1127;Lesbian Art Project;20518;30755;40753;60238;TRUE
+1128;Lesbian Art Project;20518;30756;40754;0;TRUE
+1129;Lesbian Art Project;20518;30757;40755;0;TRUE
+1130;Lesbian Art Project;20518;30758;40756;0;TRUE
+1131;the new womans broken heart;20521;0;0;0;FALSE
+1132;Lockerroom/Shift;20522;0;0;0;TRUE
+1133;Portrait of an Office;20526;0;0;0;TRUE
+1134;Downtown Saturday Night;20527;0;0;0;FALSE
+1135;Is There Room for Me in the Closet-- Or My Life as the Only Lesbian Professor;20528;0;0;0;TRUE
+1136;Barrier-Grid;20530;0;0;0;TRUE
+1137;"""Oh, Miss!""";20531;0;0;0;TRUE
+1138;Hanging Together: An Interview with Aerialists Donna Farina and Mia Wolff;20532;0;0;0;TRUE
+1139;France;20534;0;0;0;TRUE
+1140;Opposites that Bleed One into the Other or Collide;20535;0;0;0;TRUE
+1141;Snapshot: Minimum Wage;20537;0;0;0;TRUE
+1142;Women Working with Women in the University;20540;0;0;0;TRUE
+1143;The Group (A Mandala);20541;0;0;0;FALSE
+1144;Bloodroot: Four Views of One Women's Business;20542;0;0;0;TRUE
+1145;Rocking the Docks: Women on the Waterfront;20546;0;0;0;TRUE
+1146;Making A.I.R.;20551;0;0;0;TRUE
+1147;Working Together, Growing Together: A Brief History of the Boston Women's Health Collective;20554;0;0;0;TRUE
+1148;"""True Confessions""";20565;0;0;0;TRUE
+1149;(A Brief Chronology);20566;0;0;0;TRUE
+1150;Creating Alternatives: A Survey of Women's Projects;20567;0;0;0;TRUE
+1151;Editorial Statement;20568;0;0;0;TRUE
+1152;Criticism/or/Between the Lines;20569;0;0;0;TRUE
+1153;Yes-No;20570;0;0;0;FALSE
+1154;Untitled;21656;0;0;0;TRUE
+1155;The Dilemma of the Modern Chicana Artist and Critic;20571;30774;40773;0;TRUE
+1156;The Dilemma of the Modern Chicana Artist and Critic;20571;30318;40774;0;TRUE
+1157;The Dilemma of the Modern Chicana Artist and Critic;20571;30775;40775;0;TRUE
+1158;The Dilemma of the Modern Chicana Artist and Critic;20571;30776;40776;0;TRUE
+1159;The Dilemma of the Modern Chicana Artist and Critic;20571;30777;40777;0;TRUE
+1160;The Dilemma of the Modern Chicana Artist and Critic;20571;30778;40778;0;TRUE
+1161;Human Word, Sacred Word;20573;30779;40779;0;TRUE
+1162;Painter's Chant;20576;0;0;0;FALSE
+1163;Wallowa Waterhole Series;20577;0;0;0;FALSE
+1164;A Photo Essay on the People's Republic of China;20578;0;0;0;FALSE
+1165;Power Exchange 1: Chris Choy;20585;0;0;0;TRUE
+1166;Some Reflections on Black Women in Film;20587;0;0;0;TRUE
+1167;On Never Quite Being Good Enough: Legal Institutional Racism, Sexism and Elitism;20589;0;0;0;TRUE
+1168;Zora Neale Hurston;20590;0;0;0;FALSE
+1169;Homophobia: Myths and Realities;20592;0;0;0;TRUE
+1170;Political Self-Portrait #2;20594;0;0;0;TRUE
+1171;Without Consent;20595;0;0;0;TRUE
+1172;So Many Feathers;20596;0;0;0;FALSE
+1173;Power Exchange 2: Barbara Ann Teer;20598;0;0;0;TRUE
+1174;A Note on the Woman's Building and Black Exclusion;20601;30329;40780;0;TRUE
+1175;A Note on the Woman's Building and Black Exclusion;20601;30780;40781;0;TRUE
+1176;Wall Fragment/Ga;20604;0;0;0;FALSE
+1177;Against Granite;20605;0;0;0;TRUE
+1178;Three Views of Black Women--The Myths, the Statistics and a Personal Statement;20606;30781;40782;0;TRUE
+1179;Three Views of Black Women--The Myths, the Statistics and a Personal Statement;20606;30782;40783;0;TRUE
+1180;Three Views of Black Women--The Myths, the Statistics and a Personal Statement;20606;30783;40784;0;TRUE
+1181;Three Views of Black Women--The Myths, the Statistics and a Personal Statement;20606;30784;40785;0;TRUE
+1182;Three Views of Black Women--The Myths, the Statistics and a Personal Statement;20606;30785;40786;0;TRUE
+1183;Canvas with an Unpainted Part;20607;0;0;0;TRUE
+1184;And Black Women Made Music;20608;30786;40787;0;TRUE
+1185;And Black Women Made Music;20608;30787;40788;0;TRUE
+1186;And Black Women Made Music;20608;30788;40789;0;TRUE
+1187;And Black Women Made Music;20608;30789;40790;0;TRUE
+1188;And Black Women Made Music;20608;30790;40791;0;TRUE
+1189;And Black Women Made Music;20608;30791;40792;0;TRUE
+1190;And Black Women Made Music;20608;30792;40793;0;TRUE
+1191;And Black Women Made Music;20608;30793;40793;0;TRUE
+1192;And Black Women Made Music;20608;30794;40794;0;TRUE
+1193;And Black Women Made Music;20608;30795;40794;0;TRUE
+1194;And Black Women Made Music;20608;30796;40794;0;TRUE
+1195;Betty Carter;20609;0;0;0;FALSE
+1196;Ellabelle Davis;20610;0;0;0;FALSE
+1197;Music is My Lover (for Ntozake Shange);20611;0;0;0;TRUE
+1198;Sand Painting;20613;0;0;0;FALSE
+1199;Visual Theorems #170;20614;0;0;0;FALSE
+1200;Ribbons Remembered;20615;0;0;0;FALSE
+1201;Wall;20616;0;0;0;FALSE
+1202;Deflect;20617;0;0;0;FALSE
+1203;Notebook;20618;0;0;0;FALSE
+1204;Black Women and Work: My Experiences;20619;0;0;0;TRUE
+1205;Seamstress on Line;20620;0;0;0;TRUE
+1206;Maria;20621;0;0;0;TRUE
+1207;Remember: Letter to a Young Indian Poet;20622;0;0;0;TRUE
+1208;Power Exchange 3: Suni Paz;20623;0;0;0;TRUE
+1209;Suni Pazi;20624;0;0;0;FALSE
+1210;Three Generations;20625;0;0;0;FALSE
+1211;Patchwork;20626;0;0;0;FALSE
+1212;Inmate Mothers and Their Children;20627;30797;40795;0;TRUE
+1213;Inmate Mothers and Their Children;20627;30798;40795;0;TRUE
+1214;Inmate Mothers and Their Children;20627;30799;40796;0;TRUE
+1215;Inmate Mothers and Their Children;20627;30800;40796;0;TRUE
+1216;Incarceration #2;20628;0;0;0;FALSE
+1217;The Imposter;20629;0;0;0;FALSE
+1218;Silueta Series;20630;0;0;0;FALSE
+1219;Concentration Camps in the U.S.A.;20631;30801;40797;0;TRUE
+1220;Concentration Camps in the U.S.A.;20631;30802;40798;0;TRUE
+1221;Concentration Camps in the U.S.A.;20631;30803;40798;0;TRUE
+1222;Concentration Camps in the U.S.A.;20631;30804;40799;0;TRUE
+1223;Concentration Camps in the U.S.A.;20631;30805;40800;0;TRUE
+1224;Concentration Camps in the U.S.A.;20631;30806;40801;0;TRUE
+1225;Concentration Camps in the U.S.A.;20631;30807;40801;0;TRUE
+1226;Concentration Camps in the U.S.A.;20631;30808;40802;0;TRUE
+1227;Concentration Camps in the U.S.A.;20631;30809;40803;0;TRUE
+1228;Concentration Camps in the U.S.A.;20631;30810;40804;0;TRUE
+1229;Concentration Camps in the U.S.A.;20631;30811;40805;0;TRUE
+1230;Concentration Camps in the U.S.A.;20631;30812;40806;0;TRUE
+1231;Concentration Camps in the U.S.A.;20631;30813;40807;0;TRUE
+1232;Concentration Camps in the U.S.A.;20631;30814;40808;0;TRUE
+1233;Concentration Camps in the U.S.A.;20631;30815;40809;0;TRUE
+1234;Concentration Camps in the U.S.A.;20631;30816;40810;0;TRUE
+1235;Concentration Camps in the U.S.A.;20631;30817;40811;0;TRUE
+1236;The Alien;20632;0;0;0;FALSE
+1237;Black Eyed Blues Connections: From the Inside Out;20633;0;0;0;TRUE
+1238;Four Women in a Storm;20634;0;0;0;FALSE
+1239;Visit to the Dentist: Dilectics;20635;0;0;0;FALSE
+1240;Visual;20636;0;0;0;FALSE
+1241;ACTION AGAINST RACISM IN THE ARTS;20637;0;0;0;TRUE
+1242;Demonstration at Artists Space;20638;0;0;0;FALSE
+1243;Need;20639;0;0;0;TRUE
+1244;Power Exchange 4: Camille Billops;20640;0;0;0;TRUE
+1245;Camille Billops;20641;0;0;0;FALSE
+1246;Women and Census Form;20642;0;0;0;FALSE
+1247;Isabela;20643;0;0;0;FALSE
+1248;Issue 9 Collective Statement;21657;0;0;0;TRUE
+1249;A Funny Thing Happened on the Way to Socialist Feminism*;20646;0;0;0;TRUE
+1250;Myths and Cliches`;20647;0;0;0;FALSE
+1251;Edie and Ruthy;20648;0;0;0;TRUE
+1252;Who Needs Woman Heroes?;20649;30818;40812;0;TRUE
+1253;Who Needs Woman Heroes?;20650;30819;40813;0;TRUE
+1254;Who Needs Woman Heroes?;20651;30820;40814;0;TRUE
+1255;Who Needs Woman Heroes?;20652;30821;40815;0;TRUE
+1256;Who Needs Woman Heroes?;20653;30822;40816;60248;TRUE
+1257;Who Needs Woman Heroes?;20654;30823;40817;0;TRUE
+1258;Who Needs Woman Heroes?;20655;30824;40818;0;TRUE
+1259;Who Needs Woman Heroes?;20656;30825;40819;0;TRUE
+1260;Who Needs Woman Heroes?;20657;30826;40820;0;TRUE
+1261;Who Needs Woman Heroes?;20658;30827;40821;0;TRUE
+1262;Who Needs Woman Heroes?;20659;30050;40050;0;TRUE
+1263;Who Needs Woman Heroes?;20660;30828;40822;0;TRUE
+1264;Who Needs Woman Heroes?;20661;30829;40822;0;TRUE
+1265;Who Needs Woman Heroes?;20662;30830;40823;0;TRUE
+1266;Who Needs Woman Heroes?;20663;30831;40824;0;TRUE
+1267;Black Activists;20650;0;0;0;TRUE
+1268;Women Who Is Not My Sister;20651;0;0;0;FALSE
+1269;From the Brazilian Diaries;20652;0;0;0;TRUE
+1270;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30433;40434;60140;TRUE
+1271;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30832;40825;60249;TRUE
+1272;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30833;40826;60140;TRUE
+1273;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30834;40827;60251;TRUE
+1274;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30835;40828;60250;TRUE
+1275;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30836;40829;0;TRUE
+1276;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30837;40830;0;TRUE
+1277;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30838;40831;60252;TRUE
+1278;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30839;40832;0;TRUE
+1279;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30840;40833;60253;TRUE
+1280;Anti-Colonial Protest in Africa: A Female Strategy Reconsidered;20654;30840;40834;60254;TRUE
+1281;"from ""Female and Male Body Language…""";20655;0;0;0;FALSE
+1282;Developing a Feminist Media Strategy;20656;30841;40835;60255;TRUE
+1283;Developing a Feminist Media Strategy;20656;30842;40835;60255;TRUE
+1284;BACKLASH;20657;0;0;0;TRUE
+1285;Organizing with Music: Blazing Star;20658;0;0;0;TRUE
+1286;Feministo: A Portrait of the Artist as a Young Housewife;20659;0;0;0;FALSE
+1287;Some Propaganda For Propaganda;20660;0;0;0;TRUE
+1288;Taking Art to the Revolution;20661;30843;40836;0;TRUE
+1289;Taking Art to the Revolution;20661;30550;40837;0;TRUE
+1290;Taking Art to the Revolution;20661;30366;40838;0;TRUE
+1291;Taking Art to the Revolution;20661;30844;40839;0;TRUE
+1292;Taking Art to the Revolution;20661;30845;40840;0;TRUE
+1293;Taking Art to the Revolution;20661;30846;40841;0;TRUE
+1294;Taking Art to the Revolution;20661;30847;40842;0;TRUE
+1295;Taking Art to the Revolution;20661;30848;40843;0;TRUE
+1296;Taking Art to the Revolution;20661;30849;40844;0;TRUE
+1297;Taking Art to the Revolution;20661;30850;40845;0;TRUE
+1298;Taking Art to the Revolution;20661;30851;40846;0;TRUE
+1299;Taking Art to the Revolution;20661;30852;40847;0;TRUE
+1300;Taking Art to the Revolution;20661;30853;40848;0;TRUE
+1301;Taking Art to the Revolution;20661;30854;40849;0;TRUE
+1302;Horseblinders;20662;30855;40850;0;TRUE
+1303;Horseblinders;20662;30856;40851;60256;TRUE
+1304;Horseblinders;20662;30857;40852;60257;TRUE
+1305;Horseblinders;20662;30858;40853;0;TRUE
+1306;Horseblinders;20662;30859;40854;0;TRUE
+1307;Horseblinders;20662;30860;40855;0;TRUE
+1308;Horseblinders;20662;30861;40856;0;TRUE
+1309;Horseblinders;20662;30862;40857;0;TRUE
+1310;Horseblinders;20662;30863;40858;0;TRUE
+1311;Journal Entries: Always the ideas Carry Themselves Forward;20663;0;0;0;TRUE
+1312;Women's Work at Celso Maragota;20664;0;0;0;TRUE
+1313;Visiting Day at La Amada;20665;0;0;0;FALSE
+1314;Women in a Tobacco Factory;20666;0;0;0;FALSE
+1315;Cuba/Chicago;20667;0;0;0;FALSE
+1316;Letter to a Young Artist;20668;0;0;0;FALSE
+1317;Roberta Blackgoat marches to save her home…;20669;0;0;0;FALSE
+1318;Women, Work and Politics in the U.S.;20670;0;0;0;TRUE
+1319;Thesis: Antithesis;20671;0;0;0;TRUE
+1320;Lesbian Friends;20672;0;0;0;FALSE
+1321;Sex, Sin, & Abortion;20673;0;0;0;TRUE
+1322;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30039;40039;60012;TRUE
+1323;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30875;40859;60258;TRUE
+1324;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30875;40860;60259;TRUE
+1325;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30876;40861;60260;TRUE
+1326;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30864;40862;0;TRUE
+1327;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30865;40863;0;TRUE
+1328;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30866;40863;0;TRUE
+1329;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30867;40864;0;TRUE
+1330;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30868;40864;0;TRUE
+1331;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30867;40865;0;TRUE
+1332;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30868;40866;60261;TRUE
+1333;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30869;40867;60262;TRUE
+1334;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30870;40868;60255;TRUE
+1335;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30871;40869;0;TRUE
+1336;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30872;40870;0;TRUE
+1337;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30873;40871;0;TRUE
+1338;The Chador of Women's Liberation: Cultural Feminism and the Movement Press;20674;30874;40872;60263;TRUE
+1339;In the Name of Feminist Film Criticism;20675;30130;40127;0;TRUE
+1340;In the Name of Feminist Film Criticism;20675;30455;40451;0;TRUE
+1341;In the Name of Feminist Film Criticism;20675;30191;40873;60264;TRUE
+1342;In the Name of Feminist Film Criticism;20675;30191;40874;60265;TRUE
+1343;In the Name of Feminist Film Criticism;20675;30249;40875;60267;TRUE
+1344;In the Name of Feminist Film Criticism;20675;30877;40876;60266;TRUE
+1345;In the Name of Feminist Film Criticism;20675;30189;40877;60267;TRUE
+1346;In the Name of Feminist Film Criticism;20675;30878;40878;60267;TRUE
+1347;In the Name of Feminist Film Criticism;20675;30879;40879;60268;TRUE
+1348;In the Name of Feminist Film Criticism;20675;30880;40880;60269;TRUE
+1349;In the Name of Feminist Film Criticism;20675;30881;40881;0;TRUE
+1350;In the Name of Feminist Film Criticism;20675;30882;40882;60270;TRUE
+1351;From Yvonne Rainer's Film about a Woman Who…;20676;0;0;0;FALSE
+1352;I Just Sent in a Job Application to a Right-wing Magazine;20677;0;0;0;TRUE
+1353;Sisterhood is Powerful;20678;0;0;0;FALSE
+1354;Who's Holding the Baby?;20679;0;0;0;FALSE
+1355;Culture and Anarchy;20680;0;0;0;TRUE
+1356;Media Photos II by Lyn Hughes;20681;0;0;0;FALSE
+1357;Centipede;20683;0;0;0;FALSE
+1358;A Critical Approach to the History of Women in Music;20684;30199;40194;0;TRUE
+1359;A Critical Approach to the History of Women in Music;20684;30732;40883;60271;TRUE
+1360;A Critical Approach to the History of Women in Music;20684;30883;40884;0;TRUE
+1361;A Critical Approach to the History of Women in Music;20684;30308;40885;60272;TRUE
+1362;A Critical Approach to the History of Women in Music;20684;30884;40886;60271;TRUE
+1363;A Critical Approach to the History of Women in Music;20684;30885;40887;60273;TRUE
+1364;A Critical Approach to the History of Women in Music;20684;30460;40888;0;TRUE
+1365;A Critical Approach to the History of Women in Music;20684;30886;40889;0;TRUE
+1366;A Critical Approach to the History of Women in Music;20684;30887;40890;60271;TRUE
+1367;A Critical Approach to the History of Women in Music;20684;30888;40890;60271;TRUE
+1368;A Critical Approach to the History of Women in Music;20684;30889;40890;60271;TRUE
+1369;The Unquestioned Answer;20685;0;0;0;FALSE
+1370;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30890;40891;0;TRUE
+1371;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30891;40892;60274;TRUE
+1372;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30892;40893;0;TRUE
+1373;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30893;40894;60275;TRUE
+1374;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30894;40895;60276;TRUE
+1375;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30895;40896;60277;TRUE
+1376;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30895;40897;0;TRUE
+1377;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30896;40898;0;TRUE
+1378;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30897;40899;0;TRUE
+1379;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30898;40900;0;TRUE
+1380;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30899;40901;0;TRUE
+1381;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30900;40901;0;TRUE
+1382;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30901;40901;0;TRUE
+1383;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30902;40902;60278;TRUE
+1384;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30903;40903;0;TRUE
+1385;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30904;40904;0;TRUE
+1386;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30899;40905;60279;TRUE
+1387;An Interview with Sybil of the Rhine: Hildegard von Bingen (1098-1179);20686;30901;40906;60280;TRUE
+1388;Music and Healing;20687;30892;40893;0;TRUE
+1389;Music and Healing;20687;30941;40942;;TRUE
+1390;Music and Healing;20687;30942;40943;60289;TRUE
+1391;Music and Healing;20687;30943;40944;0;TRUE
+1392;Music and Healing;20687;30943;40945;0;TRUE
+1393;Music and Healing;20687;30944;40946;0;TRUE
+1394;Music and Healing;20687;30945;40947;0;TRUE
+1395;Partbe;20688;0;0;0;FALSE
+1396;A Woman Remembers Her Music;20689;0;0;0;TRUE
+1397;Everything Changes and Grows;20690;0;0;0;TRUE
+1398;"Examples from the ""inherent nature"" of some fragments";20691;0;0;0;FALSE
+1399;Is There a Feminist Aesthetic in Music?;20692;30946;40948;0;TRUE
+1400;Is There a Feminist Aesthetic in Music?;20692;30947;40949;60290;TRUE
+1401;Is There a Feminist Aesthetic in Music?;20692;30948;40950;60291;TRUE
+1402;Is There a Feminist Aesthetic in Music?;20692;30948;40951;60291;TRUE
+1403;Biafran War Refugees Sing Hymns at Dawn at Food Relief;20693;0;0;0;FALSE
+1404;Atlantic Rising;20694;0;0;0;FALSE
+1405;Critics/Performers/Composers;20695;0;0;0;TRUE
+1406;Frazyna Bacewicz (1909-1969);20696;30949;40952;60292;TRUE
+1407;Frazyna Bacewicz (1909-1969);20696;30950;40953;60293;TRUE
+1408;Frazyna Bacewicz (1909-1969);20696;30950;40954;60294;TRUE
+1409;Frazyna Bacewicz (1909-1969);20696;30951;40955;60295;TRUE
+1410;Frazyna Bacewicz (1909-1969);20696;30952;40956;60296;TRUE
+1411;Frazyna Bacewicz (1909-1969);20696;30953;40957;60297;TRUE
+1412;Frazyna Bacewicz (1909-1969);20696;30954;40958;0;TRUE
+1413;Florence B. Price;20697;0;0;0;TRUE
+1414;Once More, With Feeling;20698;0;0;0;FALSE
+1415;Letters from a Composer;20699;0;0;0;TRUE
+1416;My Personal Approach to Music;20700;0;0;0;TRUE
+1417;Ruth Crawford Seeger: A Study in Mixed Accents;20701;30955;40959;0;TRUE
+1418;Ruth Crawford Seeger: A Study in Mixed Accents;20701;30956;40960;0;TRUE
+1419;Ruth Crawford Seeger: A Study in Mixed Accents;20701;30957;40961;0;TRUE
+1420;Ruth Crawford Seeger: A Study in Mixed Accents;20701;30958;40962;60298;TRUE
+1421;Ruth Crawford Seeger: A Study in Mixed Accents;20701;30959;40963;60299;TRUE
+1422;Ruth Crawford Seeger: A Study in Mixed Accents;20701;30960;40964;0;TRUE
+1423;Ruth Crawford Seeger: Preserving American Folk Music;20702;30955;40959;0;TRUE
+1424;Ruth Crawford Seeger: Preserving American Folk Music;20702;30983;40984;0;TRUE
+1425;Ruth Crawford Seeger: Preserving American Folk Music;20702;30984;40985;0;TRUE
+1426;Ruth Crawford Seeger: Preserving American Folk Music;20702;30438;40985;0;TRUE
+1427;Ruth Crawford Seeger: Preserving American Folk Music;20702;30986;40986;0;TRUE
+1428;Ruth Crawford Seeger: Preserving American Folk Music;20702;30984;40987;0;TRUE
+1429;Ruth Crawford Seeger: Preserving American Folk Music;20702;30987;40988;0;TRUE
+1430;Ruth Crawford Seeger: Preserving American Folk Music;20702;30984;40989;0;TRUE
+1431;Ruth Crawford Seeger: Preserving American Folk Music;20702;30438;40989;0;TRUE
+1432;Ruth Crawford Seeger: Preserving American Folk Music;20702;30988;40990;0;TRUE
+1433;Ruth Crawford Seeger: Preserving American Folk Music;20702;30989;40991;0;TRUE
+1434;Ruth Crawford Seeger: Preserving American Folk Music;20702;30990;40992;0;TRUE
+1435;Ruth Crawford Seeger: Preserving American Folk Music;20702;30990;40993;0;TRUE
+1436;Ruth Crawford Seeger: Preserving American Folk Music;20702;30990;40994;0;TRUE
+1437;Whistle Music: A Sonic Exorcism;20703;0;0;0;TRUE
+1438;Women in Folk Song;20704;30991;40995;0;TRUE
+1439;Women in Folk Song;20704;30992;40996;0;TRUE
+1440;Women in Folk Song;20704;30993;40997;0;TRUE
+1441;Women in Folk Song;20704;30994;40997;0;TRUE
+1442;Women in Folk Song;20704;30984;40998;0;TRUE
+1443;Women in Folk Song;20704;30438;40998;0;TRUE
+1444;Women in Folk Song;20704;30995;40999;0;TRUE
+1445;Women in Folk Song;20704;30996;41000;0;TRUE
+1446;Women in Folk Song;20704;30997;41000;0;TRUE
+1447;Women in Folk Song;20704;30998;41000;0;TRUE
+1448;Women in Folk Song;20704;30999;41001;0;TRUE
+1449;Silent Sound;20705;0;0;0;FALSE
+1450;Banjo Women;20706;0;0;0;FALSE
+1451;Meet the Women Composers of Rags;20707;31000;41002;0;TRUE
+1452;Meet the Women Composers of Rags;20707;31001;41002;0;TRUE
+1453;Meet the Women Composers of Rags;20707;31002;41003;0;TRUE
+1454;Meet the Women Composers of Rags;20707;31002;41004;0;TRUE
+1455;Meet the Women Composers of Rags;20707;31003;41005;0;TRUE
+1456;Meet the Women Composers of Rags;20707;31004;41005;0;TRUE
+1457;Slave Codes and Liner Notes;20708;0;0;0;TRUE
+1458;Mean Mothers: Independent Women's Blues;20709;0;0;0;TRUE
+1459;Singing Praises: Women in Gospel Music;20710;0;0;0;TRUE
+1460;jazzwomen: they're mostly singers and piano players, only a horn player or two, hardly any drummers;20711;0;0;0;TRUE
+1461;Bebop Womantones;20712;0;0;0;TRUE
+1462;Blowing on the Changes: Reflections of a Jazz Woman;20713;0;0;0;TRUE
+1463;Women and World Music: Straining Our Ears to the Silence;20714;30012;40034;60009;TRUE
+1464;Women and World Music: Straining Our Ears to the Silence;20714;30892;40893;0;TRUE
+1465;Women and World Music: Straining Our Ears to the Silence;20714;30084;41006;0;TRUE
+1466;Women and World Music: Straining Our Ears to the Silence;20714;31005;41007;0;TRUE
+1467;Women and World Music: Straining Our Ears to the Silence;20714;31006;41008;60303;TRUE
+1468;Women and World Music: Straining Our Ears to the Silence;20714;31007;41009;60304;TRUE
+1469;Women and World Music: Straining Our Ears to the Silence;20714;31008;41010;0;TRUE
+1470;Women and World Music: Straining Our Ears to the Silence;20714;31009;41011;0;TRUE
+1471;Women and World Music: Straining Our Ears to the Silence;20714;31010;41011;0;TRUE
+1472;Women and World Music: Straining Our Ears to the Silence;20714;31011;41012;60305;TRUE
+1473;Women and World Music: Straining Our Ears to the Silence;20714;30144;41013;60288;TRUE
+1474;Women and World Music: Straining Our Ears to the Silence;20714;31012;41014;0;TRUE
+1475;Women and World Music: Straining Our Ears to the Silence;20714;31013;41015;60272;TRUE
+1476;Women and World Music: Straining Our Ears to the Silence;20714;31014;41016;60288;TRUE
+1477;Women and World Music: Straining Our Ears to the Silence;20714;30051;41017;0;TRUE
+1478;Women and World Music: Straining Our Ears to the Silence;20714;30438;41018;0;TRUE
+1479;Women and World Music: Straining Our Ears to the Silence;20714;31015;41019;0;TRUE
+1480;Women and World Music: Straining Our Ears to the Silence;20714;30438;41020;0;TRUE
+1481;Women and World Music: Straining Our Ears to the Silence;20714;31016;41021;60304;TRUE
+1482;Women and World Music: Straining Our Ears to the Silence;20714;31017;41022;60288;TRUE
+1483;On The Trail of Red Sky Lady and Other Scholars;20718;31018;41023;0;TRUE
+1484;On The Trail of Red Sky Lady and Other Scholars;20718;31019;41024;0;TRUE
+1485;On The Trail of Red Sky Lady and Other Scholars;20718;31020;41025;0;TRUE
+1486;On The Trail of Red Sky Lady and Other Scholars;20718;31021;41026;0;TRUE
+1487;On The Trail of Red Sky Lady and Other Scholars;20718;31022;41027;0;TRUE
+1488;On The Trail of Red Sky Lady and Other Scholars;20718;31023;41028;0;TRUE
+1489;On The Trail of Red Sky Lady and Other Scholars;20718;31024;41029;0;TRUE
+1490;On The Trail of Red Sky Lady and Other Scholars;20718;31025;41030;0;TRUE
+1491;On The Trail of Red Sky Lady and Other Scholars;20718;31026;41031;0;TRUE
+1492;On The Trail of Red Sky Lady and Other Scholars;20718;31027;41032;0;TRUE
+1493;On The Trail of Red Sky Lady and Other Scholars;20718;31028;41033;0;TRUE
+1494;COPYRITE;20719;0;0;0;FALSE
+1495;Look What You've Done to My Song;20720;31018;41023;0;TRUE
+1496;Look What You've Done to My Song;20720;31026;41034;60306;TRUE
+1497;Look What You've Done to My Song;20720;31026;41035;60307;TRUE
+1498;Look What You've Done to My Song;20720;31026;41036;60308;TRUE
+1499;Look What You've Done to My Song;20720;31029;41037;0;TRUE
+1500;Look What You've Done to My Song;20720;31030;41038;0;TRUE
+1501;Look What You've Done to My Song;20720;31030;41039;0;TRUE
+1502;Look What You've Done to My Song;20720;31031;41040;0;TRUE
+1503;Look What You've Done to My Song;20720;31031;41041;0;TRUE
+1504;Look What You've Done to My Song;20720;31032;41042;60309;TRUE
+1505;Look What You've Done to My Song;20720;31033;41043;60310;TRUE
+1506;Look What You've Done to My Song;20720;31033;41044;60311;TRUE
+1507;Look What You've Done to My Song;20720;30441;41045;60312;TRUE
+1508;Look What You've Done to My Song;20720;31034;41046;60313;TRUE
+1509;Open Notes But No Closing Cord: ON MALVINA REYNOLDS;20721;0;0;0;TRUE
+1510;Malvina Reynolds;20722;0;0;0;FALSE
+1511;Women-Identified Music: Moving On;20723;0;0;0;TRUE
+1512;Mary Watkins;20724;0;0;0;FALSE
+1513;Carolyn Brandy;20725;0;0;0;FALSE
+1514;Kay Gardner;20726;0;0;0;FALSE
+1515;Robin Flower;20727;0;0;0;FALSE
+1516;Casse Culver;20728;0;0;0;FALSE
+1517;Women Musicians Collective;20729;0;0;0;TRUE
+1518;Uni;20730;0;0;0;FALSE
+1519;Reports Grom Europe;20731;0;0;0;TRUE
+1520;Statement;20735;0;0;0;TRUE
+1521;Architecture and Social Change;20736;31051;41058;0;TRUE
+1522;Architecture and Social Change;20736;31052;41059;0;TRUE
+1523;Architecture and Social Change;20736;31053;41059;0;TRUE
+1524;Architecture and Social Change;20736;31054;41060;60317;TRUE
+1525;Architecture and Social Change;20736;31055;41061;60318;TRUE
+1526;Women's Environmental Rights: A Manifesto;20737;0;0;0;TRUE
+1527;Street Museum;20738;0;0;0;FALSE
+1528;"""Where Do You Live?"": Women in the Landscape of Poverty";20739;0;0;0;TRUE
+1529;Seven Hypotheses on Female and Male Principles in Architecture;20740;0;0;0;TRUE
+1530;Funeral Chapel Schwarzach St. Veit;20741;0;0;0;FALSE
+1531;Women House Themselves;20742;0;0;0;TRUE
+1532;Women renovating a woman's house…;20743;0;0;0;FALSE
+1533;Women's Design Collective;20744;0;0;0;TRUE
+1534;Sweat Equity and the Women of St. Columba's;20745;0;0;0;TRUE
+1535;The abandoned townhouse purchased by El Club del Barrio;20746;0;0;0;FALSE
+1536;Women's Development Corporation;20747;0;0;0;TRUE
+1537;Architects' Community Design Center: A Conversation with Toni Harris;20748;0;0;0;TRUE
+1538;Resource List;20749;0;0;0;TRUE
+1539;Carpet Housing;21698;0;0;0;FALSE
+1540;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31057;41068;60319;TRUE
+1541;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31058;41069;60320;TRUE
+1542;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31059;41070;60321;TRUE
+1543;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;30694;41071;0;TRUE
+1544;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31060;41072;0;TRUE
+1545;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31061;41073;60322;TRUE
+1546;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31062;41074;60323;TRUE
+1547;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31063;41075;60324;TRUE
+1548;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31064;41076;0;TRUE
+1549;The Woman's Commonwealth: A Nineteenth-Century Experiment;20750;31065;41077;0;TRUE
+1550;Herspace;20754;0;0;0;FALSE
+1551;Domestic Interiors in Northern New Mexico;20755;30859;41078;60325;TRUE
+1552;Domestic Interiors in Northern New Mexico;20755;31066;41078;60325;TRUE
+1553;Domestic Interiors in Northern New Mexico;20755;30041;41079;60120;TRUE
+1554;Domestic Interiors in Northern New Mexico;20755;31067;41080;0;TRUE
+1555;Domestic Interiors in Northern New Mexico;20755;31068;41080;0;TRUE
+1556;Domestic Interiors in Northern New Mexico;20755;31069;41080;0;TRUE
+1557;Domestic Interiors in Northern New Mexico;20755;31070;41081;0;TRUE
+1558;Domestic Interiors in Northern New Mexico;20755;31071;41081;0;TRUE
+1559;Domestic Interiors in Northern New Mexico;20755;31072;41082;60326;TRUE
+1560;Domestic Interiors in Northern New Mexico;20755;31073;41083;60325;TRUE
+1561;Domestic Interiors in Northern New Mexico;20755;30189;41084;60325;TRUE
+1562;Domestic Interiors in Northern New Mexico;20755;31074;41085;60327;TRUE
+1563;Domestic Interiors in Northern New Mexico;20755;30089;41086;0;TRUE
+1564;Domestic Interiors in Northern New Mexico;20755;31075;41087;60328;TRUE
+1565;Domestic Interiors in Northern New Mexico;20755;31076;41088;0;TRUE
+1566;Women on the Inside: Divisions of Space in Imperial China;20756;31077;41089;0;TRUE
+1567;Women on the Inside: Divisions of Space in Imperial China;20756;31078;41090;0;TRUE
+1568;Women on the Inside: Divisions of Space in Imperial China;20756;31079;41089;0;TRUE
+1569;Women on the Inside: Divisions of Space in Imperial China;20756;31080;41091;0;TRUE
+1570;Women on the Inside: Divisions of Space in Imperial China;20756;31082;41092;0;TRUE
+1571;Women on the Inside: Divisions of Space in Imperial China;20756;31083;41093;60329;TRUE
+1572;Women on the Inside: Divisions of Space in Imperial China;20756;31084;41094;0;TRUE
+1573;Women on the Inside: Divisions of Space in Imperial China;20756;31085;41095;0;TRUE
+1574;Liberty;20759;0;0;0;FALSE
+1575;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31078;41090;0;TRUE
+1576;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31079;41089;0;TRUE
+1577;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31080;41091;0;TRUE
+1578;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31082;41092;0;TRUE
+1579;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31083;41093;60329;TRUE
+1580;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31084;41094;0;TRUE
+1581;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31085;41095;0;TRUE
+1582;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31086;41096;0;TRUE
+1583;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31086;41097;60027;TRUE
+1584;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31086;41098;60330;TRUE
+1585;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31087;41098;60330;TRUE
+1586;Housing Histories: A Way of Understanding the Social and Personal Meaning of the Domestic Environment;20760;31088;41099;0;TRUE
+1587;Kitchen Dreams;20761;30041;41079;60120;TRUE
+1588;Kitchen Dreams;20761;30097;40096;0;TRUE
+1589;Kitchen Dreams;20761;31089;41100;60331;TRUE
+1590;Kitchen Dreams;20761;31090;41101;60332;TRUE
+1591;Kitchen Dreams;20761;31091;41102;60333;TRUE
+1592;Kitchen Dreams;20761;31092;41103;60334;TRUE
+1593;Kitchen Dreams;20761;31093;41104;60335;TRUE
+1594;Kitchen Dreams;20761;31094;41105;60336;TRUE
+1595;Kitchen Dreams;20761;30578;41106;0;TRUE
+1596;Kitchen Dreams;20761;30579;41106;0;TRUE
+1597;Kitchen Dreams;20761;31095;41107;60337;TRUE
+1598;Kitchen Dreams;20761;30694;41108;60066;TRUE
+1599;Kitchen Dreams;20761;31092;41108;60066;TRUE
+1600;Kitchen Dreams;20761;31096;41109;0;TRUE
+1601;Kitchen Dreams;20761;31097;41110;0;TRUE
+1602;Kitchen Dreams;20761;31098;41110;0;TRUE
+1603;Kitchen Dreams;20761;31099;41111;0;TRUE
+1604;Kitchen Dreams;20761;31100;41112;60338;TRUE
+1605;Kitchen Dreams;20761;30189;41113;60339;TRUE
+1606;Kitchen Dreams;20761;30097;41114;60339;TRUE
+1607;Kitchen Dreams;20761;31101;41115;0;TRUE
+1608;Kitchen Dreams;20761;31102;41116;60340;TRUE
+1609;Kitchen Dreams;20761;31103;41117;60341;TRUE
+1610;Kitchen Dreams;20761;31107;41118;60342;TRUE
+1611;Kitchen Dreams;20761;31108;41119;60343;TRUE
+1612;Kitchen Dreams;20761;31109;41120;0;TRUE
+1613;Kitchen Dreams;20761;31112;41121;60348;TRUE
+1614;Kitchen Dreams;20761;31110;41127;60345;TRUE
+1615;Kitchen Dreams;20761;31111;41128;60346;TRUE
+1616;Kitchen Dreams;20761;31112;41129;0;TRUE
+1617;Kitchen Dreams;20761;31112;41130;60347;TRUE
+1618;Kitchen Dreams;20761;31112;41131;60348;TRUE
+1619;Kitchen Dreams;20761;31113;41132;0;TRUE
+1620;Kitchen Dreams;20761;31111;41133;60349;TRUE
+1621;Kitchen Dreams;20761;31114;41134;60120;TRUE
+1622;Kitchen Dreams;20761;31089;41136;60350;TRUE
+1623;Kitchen Dreams;20761;31115;41135;0;TRUE
+1624;Kitchen Dreams;20761;31112;41137;60348;TRUE
+1625;Kitchen Dreams;20761;30199;41138;60351;TRUE
+1626;Kitchen Dreams;20761;31116;41139;60352;TRUE
+1627;Kitchen Dreams;20761;31117;41140;60353;TRUE
+1628;Cubes in the Sahara;20765;0;0;0;TRUE
+1629;A Place of Birth: The Changing Structure of Obstetrical Care;20766;0;0;0;TRUE
+1630;Space as Matrix;20767;0;0;0;TRUE
+1631;untitled;21699;0;0;0;FALSE
+1632;The Passing of the Home in Great American Cities;20768;0;0;0;TRUE
+1633;The Feminist Paradise Palace;20769;0;0;0;TRUE
+1634;Kitchen Culture/Kitchen Dialectic;20770;30578;41106;0;TRUE
+1635;Kitchen Culture/Kitchen Dialectic;20770;30579;41106;0;TRUE
+1636;Kitchen Culture/Kitchen Dialectic;20770;31118;41141;0;TRUE
+1637;Kitchen Culture/Kitchen Dialectic;20770;31119;41142;0;TRUE
+1638;Kitchen Culture/Kitchen Dialectic;20770;31120;41143;0;TRUE
+1639;Electricity Is Her Servant;20771;31121;41144;0;TRUE
+1640;Electricity Is Her Servant;20771;31122;41145;0;TRUE
+1641;Electricity Is Her Servant;20771;31123;41146;0;TRUE
+1642;Electricity Is Her Servant;20771;30694;41147;0;TRUE
+1643;Electricity Is Her Servant;20771;30694;41148;60339;TRUE
+1644;Electricity Is Her Servant;20771;31122;41149;0;TRUE
+1645;Environment As Memory: An Interview with Eileen Gray by Jean Badovici;20772;0;0;0;TRUE
+1646;Two Stories with Porch;20773;0;0;0;FALSE
+1647;Installation View;20774;0;0;0;FALSE
+1648;Column A;20775;0;0;0;FALSE
+1649;The Bessie Smith Memorial Dance Hall located somewhere in Harlem;20776;0;0;0;TRUE
+1650;Eileen Gray;20777;31124;41150;0;TRUE
+1651;Eileen Gray;20777;31125;41150;0;TRUE
+1652;From Electicism to Doubt: An Interview with Eileen Gray by Jean Badovici;20778;0;0;0;TRUE
+1653;Lilly Reich;20779;31126;41151;0;TRUE
+1654;Lilly Reich;20779;31127;41152;0;TRUE
+1655;Lilly Reich;20779;31128;41153;0;TRUE
+1656;Lilly Reich;20779;31129;41154;0;TRUE
+1657;Lilly Reich;20779;31130;41155;60354;TRUE
+1658;Lilly Reich;20779;31130;41156;0;TRUE
+1659;Lilly Reich;20779;31131;41156;0;TRUE
+1660;The Sharon Building: The Transformation of Women's Recreational Needs in the Late Nineteenth-Century City;20780;31132;41157;60355;TRUE
+1661;The Sharon Building: The Transformation of Women's Recreational Needs in the Late Nineteenth-Century City;20780;31132;41158;60356;TRUE
+1662;The Sharon Building: The Transformation of Women's Recreational Needs in the Late Nineteenth-Century City;20780;31133;41159;0;TRUE
+1663;The Sharon Building: The Transformation of Women's Recreational Needs in the Late Nineteenth-Century City;20780;31134;41160;0;TRUE
+1664;The Sharon Building: The Transformation of Women's Recreational Needs in the Late Nineteenth-Century City;20780;31135;41160;0;TRUE
+1665;The Sharon Building: The Transformation of Women's Recreational Needs in the Late Nineteenth-Century City;20780;31136;41161;0;TRUE
+1666;Vignettes in Architectural Education: A Letter from the Ivory Tower;20782;0;0;0;TRUE
+1667;The City Within the Landscape;20783;0;0;0;FALSE
+1668;Beatrix Farrand at Dumbarton Oaks;20784;31137;41162;0;TRUE
+1669;Beatrix Farrand at Dumbarton Oaks;20784;31138;41163;0;TRUE
+1670;Beatrix Farrand at Dumbarton Oaks;20784;31139;41164;60357;TRUE
+1671;Beatrix Farrand at Dumbarton Oaks;20784;31140;41165;0;TRUE
+1672;Beatrix Farrand at Dumbarton Oaks;20784;31141;41166;60358;TRUE
+1673;Building The Women's Club in Nineteenth-Century America;20785;31142;41167;0;TRUE
+1674;Building The Women's Club in Nineteenth-Century America;20785;31143;41168;0;TRUE
+1675;Building The Women's Club in Nineteenth-Century America;20785;31144;41169;0;TRUE
+1676;Building The Women's Club in Nineteenth-Century America;20785;31145;41170;60359;TRUE
+1677;Building The Women's Club in Nineteenth-Century America;20785;30732;41171;0;TRUE
+1678;Building The Women's Club in Nineteenth-Century America;20785;31146;41172;0;TRUE
+1679;Women's Networks: Julia Morgan and Her Clients;20787;0;0;0;TRUE
+1680;Collective Statement;21700;0;0;0;TRUE
+1681;Typical Week and a Half;20789;0;0;0;TRUE
+1682;The Dilemma of the One Who Wants Both and Neither…;20790;0;0;0;TRUE
+1683;The Mother-Daughter Relationship and Sexual Ambivalence;20791;31147;41173;0;TRUE
+1684;The Mother-Daughter Relationship and Sexual Ambivalence;20791;31148;41173;0;TRUE
+1685;The Mother-Daughter Relationship and Sexual Ambivalence;20791;31149;41174;0;TRUE
+1686;The Mother-Daughter Relationship and Sexual Ambivalence;20791;31150;41175;60360;TRUE
+1687;Ann's Dream I and II;20792;0;0;0;FALSE
+1688;The Book of Love…;20793;0;0;0;FALSE
+1689;Anatomies and Destinies (Fragments);20794;0;0;0;TRUE
+1690;Vini;20795;0;0;0;FALSE
+1691;The Babyman;20796;0;0;0;TRUE
+1692;Post-Partum Document;20797;0;0;0;FALSE
+1693;Interviews with Five Faghagging Women;20798;0;0;0;TRUE
+1694;intro & 10 takes;20799;0;0;0;TRUE
+1695;yo daddy!-- an 80s version of the dozens;20800;0;0;0;TRUE
+1696;Photos;20801;0;0;0;FALSE
+1697;Simple Truths;20802;0;0;0;TRUE
+1698;Study for a Book of Lesbian Erotic Images;20803;0;0;0;FALSE
+1699;Buth-Fem Relationships: Sexual Courage in the 1950's;20804;30062;41176;0;TRUE
+1700;Buth-Fem Relationships: Sexual Courage in the 1950's;20804;31151;41177;0;TRUE
+1701;Buth-Fem Relationships: Sexual Courage in the 1950's;20804;31152;41178;60361;TRUE
+1702;Buth-Fem Relationships: Sexual Courage in the 1950's;20804;31153;41178;60361;TRUE
+1703;Impersonals;20805;0;0;0;TRUE
+1704;Editorial;21701;0;0;0;TRUE
+1705;The Celibacy Letters;20806;0;0;0;TRUE
+1706;Editorial;21702;0;0;0;TRUE
+1707;Susan and Nancy;20807;0;0;0;FALSE
+1708;untitled;21703;0;0;0;FALSE
+1709;Feminism and Sadomasochism;20808;0;0;0;TRUE
+1710;Jersey Shore Women's Wrestling Club;20809;0;0;0;FALSE
+1711;Venus;20810;0;0;0;TRUE
+1712;The Stripper;20811;0;0;0;TRUE
+1713;Editorial;21704;0;0;0;FALSE
+1714;The Male Nude in Women's Art: Dialectics of a Feminist Iconography;20812;0;0;0;TRUE
+1715;Joe Gould;20813;0;0;0;FALSE
+1716;Eros Kalos;20814;0;0;0;FALSE
+1717;Rape #2;20815;0;0;0;FALSE
+1718;A Sense of Touch;20816;30189;40464;60156;TRUE
+1719;A Sense of Touch;20816;31154;41179;60362;TRUE
+1720;A Sense of Touch;20816;31155;41180;0;TRUE
+1721;A Sense of Touch;20816;31156;41181;60363;TRUE
+1722;A Sense of Touch;20816;31157;41182;60364;TRUE
+1723;A Sense of Touch;20816;31158;41183;60119;TRUE
+1724;Rope Pool;20817;0;0;0;FALSE
+1725;untitled;21705;0;0;0;FALSE
+1726;Hand Down;20818;0;0;0;FALSE
+1727;3 Sisters;20819;0;0;0;FALSE
+1728;Island Cabin;20820;0;0;0;TRUE
+1729;Gently Stalking Solitude;20821;0;0;0;FALSE
+1730;Pornography and Pleasure;20822;30579;41184;60365;TRUE
+1731;Pornography and Pleasure;20822;31159;41185;0;TRUE
+1732;Pornography and Pleasure;20822;30241;41186;0;TRUE
+1733;Tits and Clits Comix;20823;0;0;0;FALSE
+1734;From Purity pink and everything neat;20824;0;0;0;FALSE
+1735;Mustang Ranch;20825;0;0;0;TRUE
+1736;Oh Yes Come In;20826;0;0;0;TRUE
+1737;True Life Novelette;20827;0;0;0;FALSE
+1738;A Father's Influence on the Sexuality of a Young Woman;20828;0;0;0;TRUE
+1739;Editorial;21706;0;0;0;TRUE
+1740;What We're Rollin Around in Bed With…;20829;0;0;0;TRUE
+1741;A Herstorical Look at Some Aspects of Black Sexuality;20830;31160;41187;60366;TRUE
+1742;A Herstorical Look at Some Aspects of Black Sexuality;20830;31161;41188;0;TRUE
+1743;Variety is the Spice of Life.;20831;30278;40275;60027;TRUE
+1744;Variety is the Spice of Life.;20831;31162;41189;0;TRUE
+1745;Variety is the Spice of Life.;20831;31163;41189;0;TRUE
+1746;Variety is the Spice of Life.;20831;31164;41190;0;TRUE
+1747;Variety is the Spice of Life.;20831;31165;41190;0;TRUE
+1748;Variety is the Spice of Life.;20831;31166;41191;0;TRUE
+1749;Variety is the Spice of Life.;20831;31167;41192;60367;TRUE
+1750;Variety is the Spice of Life.;20831;31168;41192;60367;TRUE
+1751;Variety is the Spice of Life.;20831;31169;41193;60368;TRUE
+1752;Variety is the Spice of Life.;20831;31170;41193;60368;TRUE
+1753;Variety is the Spice of Life.;20831;31171;41194;0;TRUE
+1754;Variety is the Spice of Life.;20831;31172;41195;0;TRUE
+1755;Variety is the Spice of Life.;20831;31173;41196;0;TRUE
+1756;Variety is the Spice of Life.;20831;31013;41197;0;TRUE
+1757;SSSexuality;20832;0;0;0;FALSE
+1758;Odalisque;20833;0;0;0;FALSE
+1759;untitled;21707;0;0;0;FALSE
+1760;The Kiss;20834;0;0;0;FALSE
+1761;Sexual Imperialism: The Case of Indian Women in Britain;20835;31174;41198;0;TRUE
+1762;Mannequin in Bridal Dress;20836;0;0;0;FALSE
+1763;Bride's Feet;20837;0;0;0;FALSE
+1764;Anti-dowry demonstration organized by NFIW;20838;0;0;0;FALSE
+1765;I Hear Voices But See No Faces;20839;31156;41199;60369;TRUE
+1766;I Hear Voices But See No Faces;20839;31175;41200;0;TRUE
+1767;I Hear Voices But See No Faces;20839;31176;41201;60370;TRUE
+1768;I Hear Voices But See No Faces;20839;31177;41202;60371;TRUE
+1769;I Hear Voices But See No Faces;20839;31178;41203;60372;TRUE
+1770;I Hear Voices But See No Faces;20839;31179;41204;60373;TRUE
+1771;I Hear Voices But See No Faces;20839;30050;41205;0;TRUE
+1772;I Hear Voices But See No Faces;20839;30121;41206;60374;TRUE
+1773;I Hear Voices But See No Faces;20839;31180;41207;60375;TRUE
+1774;I Hear Voices But See No Faces;20839;31181;41208;60376;TRUE
+1775;I Hear Voices But See No Faces;20839;30121;41209;60377;TRUE
+1776;I Hear Voices But See No Faces;20839;30122;41209;60377;TRUE
+1777;I Hear Voices But See No Faces;20839;31182;41210;0;TRUE
+1778;I Hear Voices But See No Faces;20839;31183;41210;0;TRUE
+1779;I Hear Voices But See No Faces;20839;30068;41211;0;TRUE
+1780;I Hear Voices But See No Faces;20839;30068;40068;0;TRUE
+1781;I Hear Voices But See No Faces;20839;31184;41212;0;TRUE
+1782;I Hear Voices But See No Faces;20839;31184;41213;0;TRUE
+1783;I Hear Voices But See No Faces;20839;30067;41214;0;TRUE
+1784;I Hear Voices But See No Faces;20839;30071;41215;0;TRUE
+1785;I Hear Voices But See No Faces;20839;30071;41216;60378;TRUE
+1786;I Hear Voices But See No Faces;20839;31185;41217;60379;TRUE
+1787;I Met a Woman;20841;0;0;0;TRUE
+1788;Lust is Just A Four-Letter Word;20842;0;0;0;TRUE
+1789;Lovenotes II and IV;20843;0;0;0;TRUE
+1790;Making Art/Making Love;20844;0;0;0;TRUE
+1791;Confessions of a Quiltest;20845;0;0;0;TRUE
+1792;Counterpoint;20846;0;0;0;TRUE
+1793;Leg over Cactus;20847;0;0;0;FALSE
+1794;Narcissism, Feminism, and Video Art;20848;30007;40033;0;TRUE
+1795;Narcissism, Feminism, and Video Art;20849;30189;40182;0;TRUE
+1796;Narcissism, Feminism, and Video Art;20850;31186;41218;60380;TRUE
+1797;Narcissism, Feminism, and Video Art;20851;31186;41219;60381;TRUE
+1798;Narcissism, Feminism, and Video Art;20852;31187;41220;60380;TRUE
+1799;Narcissism, Feminism, and Video Art;20853;31188;41221;60382;TRUE
+1800;Narcissism, Feminism, and Video Art;20854;31189;41222;0;TRUE
+1801;Narcissism, Feminism, and Video Art;20855;31190;41223;0;TRUE
+1802;Narcissism, Feminism, and Video Art;20856;31191;41224;0;TRUE
+1803;Narcissism, Feminism, and Video Art;20857;31192;41225;0;TRUE
+1804;Narcissism, Feminism, and Video Art;20858;31193;41226;60383;TRUE
+1805;Narcissism, Feminism, and Video Art;20859;31194;41227;60384;TRUE
+1806;Narcissism, Feminism, and Video Art;20860;31195;41228;0;TRUE
+1807;Narcissism, Feminism, and Video Art;20861;31196;41229;0;TRUE
+1808;Narcissism, Feminism, and Video Art;20862;31197;41230;0;TRUE
+1809;Narcissism, Feminism, and Video Art;20863;31198;41231;60385;TRUE
+1810;Narcissism, Feminism, and Video Art;20864;31199;41232;60386;TRUE
+1811;Narcissism, Feminism, and Video Art;20865;31200;41233;0;TRUE
+1812;Narcissism, Feminism, and Video Art;20866;31201;41234;60387;TRUE
+1813;Narcissism, Feminism, and Video Art;20867;31202;41235;0;TRUE
+1814;Narcissism, Feminism, and Video Art;20868;31203;41236;60388;TRUE
+1815;Narcissism, Feminism, and Video Art;20869;31188;41237;0;TRUE
+1816;Narcissism, Feminism, and Video Art;20870;30283;40286;60389;TRUE
+1817;Vertical Roll;20849;0;0;0;FALSE
+1818;Document;20850;0;0;0;FALSE
+1819;Things Have Changes over the Years;20851;0;0;0;FALSE
+1820;Vital Statistics of a Citizen, Simply Obtained;20852;0;0;0;FALSE
+1821;The Nun and the Deviant;20853;0;0;0;FALSE
+1822;Editorial;21707;0;0;0;TRUE
+1823;Perfect;20854;0;0;0;FALSE
+1824;News Flash: People Organize to Protest Recent NOW Resolution on Lesbian and Gay Rights;20855;0;0;0;TRUE
+1825;Burnout;20856;0;0;0;TRUE
+1826;Editorial;21708;0;0;0;FALSE
+1827;Editorial Statement 13;21709;0;0;0;TRUE
+1828;Women's Pentagon Action;20857;0;0;0;FALSE
+1829;Dedication: Rachel Carson: A Corrective Memoir;20859;0;0;0;TRUE
+1830;Dedication: Karen Silkwood: Laundered News;20860;0;0;0;TRUE
+1831;On Healing the Nature/History Split in Feminist Thought;20861;30510;40509;0;TRUE
+1832;On Healing the Nature/History Split in Feminist Thought;20861;30455;40451;0;TRUE
+1833;On Healing the Nature/History Split in Feminist Thought;20861;30007;40033;0;TRUE
+1834;On Healing the Nature/History Split in Feminist Thought;20861;30208;40205;0;TRUE
+1835;On Healing the Nature/History Split in Feminist Thought;20861;30012;40034;60009;TRUE
+1836;On Healing the Nature/History Split in Feminist Thought;20861;30456;40452;0;TRUE
+1837;On Healing the Nature/History Split in Feminist Thought;20861;31204;41238;0;TRUE
+1838;On Healing the Nature/History Split in Feminist Thought;20861;30082;41239;60390;TRUE
+1839;On Healing the Nature/History Split in Feminist Thought;20861;31205;41240;60391;TRUE
+1840;On Healing the Nature/History Split in Feminist Thought;20861;31206;41241;0;TRUE
+1841;On Healing the Nature/History Split in Feminist Thought;20861;31207;41242;0;TRUE
+1842;On Healing the Nature/History Split in Feminist Thought;20861;31208;41243;0;TRUE
+1843;On Healing the Nature/History Split in Feminist Thought;20861;31209;41244;60392;TRUE
+1844;On Healing the Nature/History Split in Feminist Thought;20861;31210;41245;0;TRUE
+1845;On Healing the Nature/History Split in Feminist Thought;20861;31211;41246;60393;TRUE
+1846;On Healing the Nature/History Split in Feminist Thought;20861;30456;41247;60394;TRUE
+1847;On Healing the Nature/History Split in Feminist Thought;20861;31212;41248;0;TRUE
+1848;Growth;20862;0;0;0;FALSE
+1849;Chant For Peace;20863;0;0;0;FALSE
+1850;Feminism and the Revolt of Nature;20864;30455;40752;0;TRUE
+1851;Feminism and the Revolt of Nature;20864;31208;41243;0;TRUE
+1852;Feminism and the Revolt of Nature;20864;30820;40814;0;TRUE
+1853;Feminism and the Revolt of Nature;20864;30831;40824;0;TRUE
+1854;Feminism and the Revolt of Nature;20864;30278;40275;60027;TRUE
+1855;Feminism and the Revolt of Nature;20864;30578;41106;0;TRUE
+1856;Feminism and the Revolt of Nature;20864;30579;41106;0;TRUE
+1857;Feminism and the Revolt of Nature;20864;30007;40033;0;TRUE
+1858;Feminism and the Revolt of Nature;20864;30189;40464;60156;TRUE
+1859;Feminism and the Revolt of Nature;20864;30241;41249;0;TRUE
+1860;Feminism and the Revolt of Nature;20864;31120;41250;60395;TRUE
+1861;Feminism and the Revolt of Nature;20864;31213;41251;0;TRUE
+1862;Feminism and the Revolt of Nature;20864;30012;41252;60288;TRUE
+1863;Feminism and the Revolt of Nature;20864;31214;41253;0;TRUE
+1864;Feminism and the Revolt of Nature;20864;31215;41254;0;TRUE
+1865;Transformations II (Endangered);20865;0;0;0;FALSE
+1866;Prairie Judas;20866;0;0;0;TRUE
+1867;Trying Oats (As If It Were Children's Hair);20867;0;0;0;FALSE
+1868;Listening to Native American Women;20868;0;0;0;TRUE
+1869;The Long Walk arrives in NYC;20869;0;0;0;FALSE
+1870;La Venus Negra;20870;0;0;0;TRUE
+1871;Silueta Series;20630;0;0;0;FALSE
+1872;Seed Work;20871;0;0;0;TRUE
+1873;Performances with My Life;20872;0;0;0;TRUE
+1874;Singing My Mother to Sleep;20873;0;0;0;FALSE
+1875;Gypsy Women and the Land;20874;31216;41256;0;TRUE
+1876;Gypsy Women and the Land;20874;31217;41257;0;TRUE
+1877;Crossroads Community (The Farm) Is an Alternative to Art Spaces;20875;0;0;0;TRUE
+1878;Hattie Carthan: Roots Grow in Brooklyn;20876;0;0;0;TRUE
+1879;"""Leave the World More Beautiful Than You Found It""";20877;0;0;0;TRUE
+1880;Energy Modes: Towards a Harmony of the Biosphere;20878;0;0;0;TRUE
+1881;Unclear World I;20879;0;0;0;FALSE
+1882;Working Women and Issues of Health and Safety;20880;0;0;0;TRUE
+1883;Land of the Gypsies;20881;0;0;0;TRUE
+1884;untitled;21710;0;0;0;FALSE
+1885;Rebel and Black Lung;20882;0;0;0;TRUE
+1886;Action from Tragedy: Women at Love Canal and Three Mile Island;20883;0;0;0;TRUE
+1887;Windows (from Secrets of Three Mile Island…);20884;0;0;0;FALSE
+1888;We All Live in a Tomic Submarine;20885;0;0;0;TRUE
+1889;Interviews: Art and Science;20886;0;0;0;TRUE
+1890;Deviations;20887;0;0;0;FALSE
+1891;Waves;20888;0;0;0;FALSE
+1892;Ecotage!;20889;31218;41258;0;TRUE
+1893;Ecotage!;20889;31219;41258;0;TRUE
+1894;Ecotage!;20889;31220;41259;0;TRUE
+1895;Ecotage!;20889;31221;41260;0;TRUE
+1896;Ecotage!;20889;31222;41261;0;TRUE
+1897;Home Economics;20890;0;0;0;TRUE
+1898;Drought: God-Sent or Man-Made Disaster?;20891;0;0;0;TRUE
+1899;The Chipko Movement;20892;0;0;0;TRUE
+1900;America the Beautiful;20893;0;0;0;FALSE
+1901;Where Should Land Art Go?;20894;30492;40489;0;TRUE
+1902;Where Should Land Art Go?;20894;30498;40495;0;TRUE
+1903;Where Should Land Art Go?;20894;31229;41266;0;TRUE
+1904;Where Should Land Art Go?;20894;31230;41266;0;TRUE
+1905;Where Should Land Art Go?;20894;31231;41267;0;TRUE
+1906;Where Should Land Art Go?;20894;31232;41267;0;TRUE
+1907;Where Should Land Art Go?;20894;31233;41268;0;TRUE
+1908;Where Should Land Art Go?;20894;31234;41269;0;TRUE
+1909;Where Should Land Art Go?;20894;31235;41270;60397;TRUE
+1910;Where Should Land Art Go?;20894;30489;41271;60398;TRUE
+1911;Where Should Land Art Go?;20894;31236;41272;0;TRUE
+1912;Where Should Land Art Go?;20894;31237;41272;0;TRUE
+1913;Where Should Land Art Go?;20894;31238;41273;60399;TRUE
+1914;Where Should Land Art Go?;20894;31238;41274;0;TRUE
+1915;Where Should Land Art Go?;20894;30492;41275;0;TRUE
+1916;Where Should Land Art Go?;20894;30492;41276;0;TRUE
+1917;Where Should Land Art Go?;20894;31239;41277;0;TRUE
+1918;Where Should Land Art Go?;20894;31240;41278;0;TRUE
+1919;Where Should Land Art Go?;20894;31241;41279;0;TRUE
+1920;Where Should Land Art Go?;20894;31242;41279;0;TRUE
+1921;Where Should Land Art Go?;20894;31243;41280;0;TRUE
+1922;Where Should Land Art Go?;20894;31244;41281;60400;TRUE
+1923;Where Should Land Art Go?;20894;31245;41282;60401;TRUE
+1924;Where Should Land Art Go?;20894;30613;41283;60402;TRUE
+1925;Where Should Land Art Go?;20894;31246;41284;0;TRUE
+1926;Where Should Land Art Go?;20894;31247;41285;0;TRUE
+1927;Where Should Land Art Go?;20894;31248;41286;0;TRUE
+1928;Where Should Land Art Go?;20894;31249;41287;0;TRUE
+1929;Where Should Land Art Go?;20894;31250;41288;0;TRUE
+1930;Where Should Land Art Go?;20894;31251;41289;0;TRUE
+1931;Where Should Land Art Go?;20894;31252;41290;0;TRUE
+1932;Where Should Land Art Go?;20894;31253;41291;0;TRUE
+1933;Where Should Land Art Go?;20894;31254;41292;0;TRUE
+1934;Patriarchal Puzzle: State Formation in Mesopotamia and Mesoamerica;20895;0;0;0;TRUE
+1935;Goddess Mounds, Arena;20896;0;0;0;FALSE
+1936;La Madre/The Mother;20897;0;0;0;TRUE
+1937;untitled;21711;0;0;0;FALSE
+1938;Soy Espejo/I Am Mirror;20898;0;0;0;TRUE
+1939;"""I Had to Break with All That…By Going to Fight""";20899;0;0;0;TRUE
+1940;Glass of Milk Spilled Under a Blue Sky;20900;0;0;0;TRUE
+1941;Like a Trophy of Love;20901;0;0;0;TRUE
+1942;Flying Carpet/Symbol of Peace/Object Obtained by Happening with Holy Character;20902;0;0;0;FALSE
+1943;The Hazards of Infant Formula;20903;0;0;0;TRUE
+1944;Ask a Stupid Question;20904;0;0;0;TRUE
+1945;"""Re-Raw Recovery"" Competition";20905;0;0;0;TRUE
+1946;Earth Museum;20906;0;0;0;FALSE
+1947;Logbook for Disgrace;20907;0;0;0;TRUE
+1948;Death Drawings/Hunting in the Suburbs;20908;0;0;0;FALSE
+1949;Furs: Who Really Pays?;20909;0;0;0;TRUE
+1950;From Desert Notes;20910;0;0;0;FALSE
+1951;Crucified Coyote;20911;0;0;0;FALSE
+1952;Factory Farming;20912;0;0;0;TRUE
+1953;The Rat Patrol;20913;0;0;0;FALSE
+1954;About;20914;0;0;0;TRUE
+1955;Towards a New Language, Consciousness and Political Theory: The Utopian Novels of Dorothy Bryant, Mary Staton and Marge Piercy;20915;31255;41293;60403;TRUE
+1956;Towards a New Language, Consciousness and Political Theory: The Utopian Novels of Dorothy Bryant, Mary Staton and Marge Piercy;20915;31256;41294;0;TRUE
+1957;Towards a New Language, Consciousness and Political Theory: The Utopian Novels of Dorothy Bryant, Mary Staton and Marge Piercy;20915;31257;41295;0;TRUE
+1958;Towards a New Language, Consciousness and Political Theory: The Utopian Novels of Dorothy Bryant, Mary Staton and Marge Piercy;20915;31258;41296;0;TRUE
+1959;Towards a New Language, Consciousness and Political Theory: The Utopian Novels of Dorothy Bryant, Mary Staton and Marge Piercy;20915;31259;41297;0;TRUE
+1960;Towards a New Language, Consciousness and Political Theory: The Utopian Novels of Dorothy Bryant, Mary Staton and Marge Piercy;20915;31260;41298;0;TRUE
+1961;Towards a New Language, Consciousness and Political Theory: The Utopian Novels of Dorothy Bryant, Mary Staton and Marge Piercy;20915;31261;41299;0;TRUE
+1962;Towards a New Language, Consciousness and Political Theory: The Utopian Novels of Dorothy Bryant, Mary Staton and Marge Piercy;20915;31262;41300;;TRUE
+1963;Female Symbol;20916;0;0;0;FALSE
+1964;Up from the Earth;20917;0;0;0;FALSE
+1965;Collage;20918;0;0;0;FALSE
+1966;Wall Exposure No. 1;21712;0;0;0;FALSE
+1967;Untitled;21713;0;0;0;FALSE
+1968;Good Prospects;21714;0;0;0;FALSE
+1969;Leaf Fountain /3/8 Phyllotaxy;21715;0;0;0;FALSE
+1970;Forest;21716;0;0;0;FALSE
+1971;Toy Cars;21717;0;0;0;FALSE
+1972;Walk-Through;21718;0;0;0;FALSE
+1973;Garden Web;21719;0;0;0;FALSE
+1974;Cumulative Piece;21720;0;0;0;FALSE
+1975;Hick's Mandala;21721;0;0;0;FALSE
+1976;The Society Page;21568;0;0;0;TRUE
+1977;untitled, 1974;21587;0;0;0;FALSE
+1978;Farringdon Road, London. Dec. 1979.;21588;0;0;0;FALSE
+1979;Careful honey, he´s anti-choice;21569;0;0;0;FALSE
+1980;VULNERABLE;21570;0;0;0;FALSE
+1981;Color photographs made at a well baby clinic;21589;0;0;0;FALSE
+1982;MOTHER (Madame Willi Posey) 1949, in a fashion pose wearing her own creations.;21590;0;0;0;FALSE
+1983;BEING MY OWN WOMAN;21571;0;0;0;FALSE
+1984;Room dedicated to Teruo (baby), 1981 Kenkeleba House nyc;21591;0;0;0;FALSE
+1985;Legal Kissing License;21592;0;0;0;FALSE
+1986;Excursion Thru Adversity;21593;0;0;0;FALSE
+1987;untitled, 1981;21594;0;0;0;FALSE
+1988;PRAIRIE WINGS;21573;0;0;0;FALSE
+1989;Coming Soon Daisy´s Christian Cullid Lady;21595;0;0;0;FALSE
+1990;Don´t Talk Down To Me.;21596;0;0;0;FALSE
+1991;MEDIUM 1;21578;0;0;0;FALSE
+1992;Everyone Always Said She Was A Sucker For Happy Endings;21597;0;0;0;FALSE
+1993;The Waiting Game;21598;0;0;0;FALSE
+1994;PRAVDA NITSI;21599;0;0;0;FALSE
+1995;untitled;21600;0;0;0;FALSE
+1996;untitled;21601;0;0;0;FALSE
+1997;pies and cakes;21602;0;0;0;FALSE 
+1998;untitled;21603;0;0;0;FALSE 
+1999;Wildlife of L.A. ;21604;0;0;0;FALSE 
+2000;untitled;21605;0;0;0;FALSE 
+2001;Question:;21579;0;0;0;FALSE
+2002;After the wedding;21606;0;0;0;FALSE 
+2003;postscripts from the patriarchy;21576;0;0;0;FALSE
+2004;Joon Journey by Indigo;21607;0;0;0;FALSE 
+2005;Dear Abby;21608;0;0;0;FALSE 
+2006;Can You Find Your Way Through The Maze?;21609;0;0;0;FALSE 
+2007;starfish regenerations: ;21580;0;0;0;FALSE
+2008;untitled;21610;0;0;0;FALSE 
+2009;keep hold wrap swaddle bundle tie protect;21611;0;0;0;FALSE 
+2010;Letters to the Editor;21142;0;0;0;TRUE
+2011;(fragment);21577;0;0;0;FALSE
+2012;ISSUE 15 EDITORIAL STATEMENT (From Taped Conversation, October 21, 1982);21581;0;0;0;TRUE
+2013;The Origins of Racism;20920;30022;40011;0;TRUE
+2014;The Origins of Racism;20920;30023;40012;0;TRUE
+2015;The Origins of Racism;20920;30024;40013;0;TRUE
+2016;The Origins of Racism;20920;30025;40014;0;TRUE
+2017;The Origins of Racism;20920;30026;40015;0;TRUE
+2018;The Origins of Racism;20920;30027;40016;0;TRUE
+2019;The Origins of Racism;20920;30028;40017;0;TRUE
+2020;The Origins of Racism;20920;30029;40018;0;TRUE
+2021;The Origins of Racism;20920;30030;40019;0;TRUE
+2022;The Origins of Racism;20920;30031;40020;0;TRUE
+2023;Untitled, 1981;20032;0;0;0;FALSE
+2024;Ki-ko-e-ma-su Ka (Can you hear me?);20921;0;0;0;FALSE
+2025;The Ambiguous Journey of a Woman in Search of Culture;20922;0;0;0;TRUE
+2026;Commemorative Stamp Series (1979-80);20923;0;0;0;FALSE 
+2027;Testimony of a Girl;20924;0;0;0;TRUE
+2028;Moving Along …;20925;0;0;0;FALSE
+2029;Death and Defense: Guatemalan Women Part 1: Interview…;20926;0;0;0;TRUE
+2030;Death and Defense: Guatemalan Women Part 2: Interview…;20927;0;0;0;TRUE
+2031;Alaide Foppa de Solorzano Disappeared in Guatemala City on Dec. 9, 1980;20928;0;0;0;FALSE 
+2032;Mistaken Identity;20929;0;0;0;FALSE
+2033;Sister Outsiders;20930;0;0;0;TRUE
+2034;Girls in Patterson, N.J. 1980;20932;0;0;0;
+2035;Some Do's and Don'ts for Black Women Artists;20933;0;0;0;TRUE
+2036;Self-Portrait, 1982;20934;0;0;0;FALSE
+2037;Choosing the Feather;20935;0;0;0;TRUE
+2038;Arte precario, 1966;20936;0;0;0;FALSE
+2039;Growing Up Negro, Soon to be Black;20937;0;0;0;TRUE
+2040;Looking Backward In Order to Look Forward. Memories of a Racist Girlhood;20938;0;0;0;TRUE
+2041;Letter to Angela;20939;0;0;0;FALSE
+2042;Race? Sex? Class? Prejudice in the Workplace;20941;0;0;0;TRUE
+2043;Untitled. 1982.;21612;0;0;0;FALSE
+2044;Love Story;20944;0;0;0;TRUE
+2045;A Victory Song;20945;0;0;0;FALSE
+2046;Plain English;20946;0;0;0;FALSE
+2047;untitled;21613;0;0;0;FALSE
+2048;Some Personal Notes on Racism Among the Women;20947;0;0;0;TRUE
+2049;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30064;40064;0;TRUE
+2050;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30057;40057;60000;TRUE
+2051;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30067;40067;60002;TRUE
+2052;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30068;40068;0;TRUE
+2053;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30069;40069;0;TRUE
+2054;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30070;40070;0;TRUE
+2055;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30026;40015;0;TRUE
+2056;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30071;40071;60007;TRUE
+2057;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30072;40072;0;TRUE
+2058;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30073;40073;0;TRUE
+2059;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30074;40074;60011;TRUE
+2060;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30075;40074;60011;TRUE
+2061;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30076;40075;0;TRUE
+2062;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30077;40076;0;TRUE
+2063;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30067;40077;60000;TRUE
+2064;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30078;40078;60015;TRUE
+2065;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30079;40079;0;TRUE
+2066;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30080;40080;0;TRUE
+2067;Object into Subject: Some Thoughts on the Work of Black Women Artists;20948;30081;40081;60017;TRUE
+2068;Is it True What they Say About Colored Pussy?;20954;0;0;0;TRUE
+2069;Silueta Series;20630;0;0;0;FALSE 
+2070;Black Dreams;20955;0;0;0;TRUE
+2071;BlackAndWhite Snapshots;20956;0;0;0;FALSE 
+2072;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30101;40102;60030;TRUE
+2073;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30102;40103;60031;TRUE
+2074;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30103;40104;0;TRUE
+2075;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30104;40104;0;TRUE
+2076;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30105;40105;0;TRUE
+2077;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30106;40106;0;TRUE
+2078;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30107;40106;0;TRUE
+2079;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30108;40107;0;TRUE
+2080;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30109;40107;0;TRUE
+2081;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30110;40108;0;TRUE
+2082;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30111;40109;0;TRUE
+2083;Sex, Color, and Class in Contemporary Puerto Rican Women Authors;20957;30112;40109;0;TRUE
+2084;untitled;21614;0;0;0;FALSE 
+2085;Matsuda´s Wife;21615;0;0;0;TRUE
+2086;A Woman in the World;20963;0;0;0;TRUE
+2087;On Becoming a Feminist Writer;20964;0;0;0;TRUE
+2088;Siftings;20965;0;0;0;FALSE 
+2089;An American Black Woman Artist in a Japanese Garden;20966;0;0;0;TRUE
+2090;Wrath Over Racism and Rape;20967;0;0;0;TRUE
+2091;If the Present Looks Like the Past, What Does the Future Look Like?;20968;0;0;0;TRUE
+2092;Dialogue;20961;0;0;0;FALSE 
+2093;Toys-R-Us;20962;0;0;0;FALSE 
+2094;For the White Person who Wants to Know How to Be My Friend;20970;0;0;0;FALSE 
+2095;The Suburb Dreams of Evil in Newark, NJ;20971;0;0;0;FALSE
+2096;Asian-American Women: Identity and Role in the Women's Movement;20973;0;0;0;TRUE
+2097;The Forest and the Trees;20976;0;0;0;TRUE
+2098;What did you learn in School?;20978;0;0;0;FALSE 
+2099;Ghost Dance Series;20979;0;0;0;FALSE 
+2100;Statement to the Racism Workshop;20980;0;0;0;TRUE
+2101;Face-to-Face, Day-to-Day Racism CR;20981;0;0;0;TRUE
+2102;Boston Women Demonstrate Against Budget Cuts;20982;0;0;0;FALSE 
+2103;Boston Women Demonstrate against Murders of Black Women;20983;0;0;0;FALSE 
+2104;Teaching about Racism in the Classroom and in the Community;20984;30113;40110;0;TRUE
+2105;Teaching about Racism in the Classroom and in the Community;20984;30114;40111;0;TRUE
+2106;Teaching about Racism in the Classroom and in the Community;20984;30115;40112;60032;TRUE
+2107;Teaching about Racism in the Classroom and in the Community;20984;30116;40113;0;TRUE
+2108;Teaching about Racism in the Classroom and in the Community;20984;30117;40114;0;TRUE
+2109;Teaching about Racism in the Classroom and in the Community;20984;30118;40115;60033;TRUE
+2110;Teaching about Racism in the Classroom and in the Community;20984;30119;40116;60034;TRUE
+2111;Teaching about Racism in the Classroom and in the Community;20984;30120;40116;60034;TRUE
+2112;Teaching about Racism in the Classroom and in the Community;20984;30121;40116;60034;TRUE
+2113;Teaching about Racism in the Classroom and in the Community;20984;30122;40116;60034;TRUE
+2114;Teaching about Racism in the Classroom and in the Community;20984;30123;40117;0;TRUE
+2115;Teaching about Racism in the Classroom and in the Community;20984;30124;40117;0;TRUE
+2116;Edtitorial Collective Statement;21643;0;0;0;TRUE
+2117;Nicaragua Journal;20986;0;0;0;TRUE
+2118;Three-Minute Heroes;20989;30241;40240;60081;TRUE
+2119;Three-Minute Heroes;20989;30242;40241;0;TRUE
+2120;Three-Minute Heroes;20989;30241;40242;60082;TRUE
+2121;Girls and Boys;20990;0;0;0;FALSE 
+2122;Female Stereotypes in the Love Songs on MTV;21644;0;0;0;FALSE 
+2123;the correct screen-to-viewer ratio;21645;0;0;0;FALSE 
+2124;Diva Under Glass;20991;30243;40243;0;TRUE
+2125;Diva Under Glass;20991;30244;40244;0;TRUE
+2126;Diva Under Glass;20991;30245;40244;0;TRUE
+2127;Diva Under Glass;20991;30246;40245;0;TRUE
+2128;Born In Flames;20992;0;0;0;TRUE
+2129;Red Hot Video Firebombings;20993;0;0;0;FALSE
+2130;Occupational Hazards;20994;0;0;0;FALSE 
+2131;$11,000 is NOT ENOUGH;20995;0;0;0;TRUE
+2132;Men used to masturbate to our ads;21646;0;0;0;FALSE 
+2133;Clit Tapes;20996;0;0;0;TRUE
+2134;Ladies Home Channels;20997;30247;40246;0;TRUE
+2135;Ladies Home Channels;20997;30248;40247;0;TRUE
+2136;Horror Movie;20998;0;0;0;FALSE 
+2137;"""When one alien touch was all it took...""";21647;0;0;0;FALSE 
+2138;Frauen und Film and Feminist Culture in West Germany;20999;30249;40248;60083;TRUE
+2139;Frauen und Film and Feminist Culture in West Germany;20999;30250;40249;60084;TRUE
+2140;Frauen und Film and Feminist Culture in West Germany;20999;30251;40250;60084;TRUE
+2141;Frauen und Film and Feminist Culture in West Germany;20999;30252;40251;60085;TRUE
+2142;Frauen und Film and Feminist Culture in West Germany;20999;30252;40252;60086;TRUE
+2143;Frauen und Film and Feminist Culture in West Germany;20999;30253;40253;0;TRUE
+2144;Loose Threads: Excerpts from Catholic Girl in a Calvinized World;21000;0;0;0;TRUE
+2145;Video Art and the Marketplace OR Mt Life as a Video Disk;21001;0;0;0;TRUE
+2146;Lois Weber's Sacred Duty;21002;30253;40253;0;TRUE
+2147;Lois Weber's Sacred Duty;21002;30254;40254;60087;TRUE
+2148;Lois Weber's Sacred Duty;21002;30255;40255;60088;TRUE
+2149;Lois Weber's Sacred Duty;21002;30256;40256;60089;TRUE
+2150;Lois Weber's Sacred Duty;21002;30257;40257;60090;TRUE
+2151;Lois Weber's Sacred Duty;21002;30258;40258;60091;TRUE
+2152;Lois Weber's Sacred Duty;21002;30259;40259;60092;TRUE
+2153;Lois Weber's Sacred Duty;21002;30268;40260;60093;TRUE
+2154;Lois Weber's Sacred Duty;21002;30260;40261;60094;TRUE
+2155;Lois Weber's Sacred Duty;21002;30261;40276;60097;TRUE
+2156;Lois Weber's Sacred Duty;21002;30262;40277;60094;TRUE
+2157;Lois Weber's Sacred Duty;21002;30263;40278;60098;TRUE
+2158;Lois Weber's Sacred Duty;21002;30264;40279;60099;TRUE
+2159;Lois Weber's Sacred Duty;21002;30265;40280;60100;TRUE
+2160;Lois Weber's Sacred Duty;21002;30266;40281;60101;TRUE
+2161;Lois Weber's Sacred Duty;21002;30267;40282;60102;TRUE
+2162;Gently Down the Stream;21003;0;0;0;FALSE 
+2163;The Women Behind the Camera;21004;0;0;0;TRUE
+2164;Black Hairpiece;21005;0;0;0;FALSE 
+2165;"Narrative is Narrative; So What is New?";21006;30279;40283;0;TRUE
+2166;"Narrative is Narrative; So What is New?";21006;30280;40284;60103;TRUE
+2167;"Narrative is Narrative; So What is New?";21006;30281;40285;60104;TRUE
+2168;"Narrative is Narrative; So What is New?";21006;30282;40285;60104;TRUE
+2169;"Narrative is Narrative; So What is New?";21006;30283;40286;60105;TRUE
+2170;"Narrative is Narrative; So What is New?";21006;30284;40287;0;TRUE
+2171;Couleurs mechaniques;21007;0;0;0;FALSE 
+2172;Adynata;21008;0;0;0;FALSE 
+2173;C Girls;21009;0;0;0;FALSE 
+2174;Neither Personal Nor Best;21010;0;0;0;TRUE
+2175;Reinventing Our Image: Eleven Black Women Filmmakers;21011;0;0;0;TRUE
+2176;Her Image Fades As Her Voice Rises;21012;30285;40288;60106;TRUE
+2177;Her Image Fades As Her Voice Rises;21012;30286;40289;0;TRUE
+2178;Her Image Fades As Her Voice Rises;21012;30259;40290;0;TRUE
+2179;Her Image Fades As Her Voice Rises;21012;30259;40291;60092;TRUE
+2180;Her Image Fades As Her Voice Rises;21012;30285;40292;60106;TRUE
+2181;Her Image Fades As Her Voice Rises;21012;30287;40293;0;TRUE
+2182;Her Image Fades As Her Voice Rises;21012;30288;40294;0;TRUE
+2183;Her Image Fades As Her Voice Rises;21012;30289;40295;60107;TRUE
+2184;On the Way Back from the Movies;21013;0;0;0;FALSE 
+2185;A TV Movie;21014;0;0;0;FALSE 
+2186;The SP'ITTING IMAGE;21015;0;0;0;TRUE
+2187;If I Ever Stop Believing…;21016;0;0;0;TRUE
+2188;If I Ever Stop Believing…;21016;0;0;0;TRUE
+2189;From Pathos to Politics;21017;0;0;0;FALSE 
+2190;From Pathos to Politics;21017;0;0;0;FALSE 
+2191;A Personal Decade;21018;0;0;0;TRUE
+2192;The Cinema;21019;0;0;0;FALSE 
+2193;"Clara Bow (The ""IT"" Girl)";21020;0;0;0;FALSE 
+2194;Fragments of a Filmscript: In Our Own Image;21021;0;0;0;FALSE 
+2195;"The Case of the Missing Mother: Maternal Issues in Vidor's ""Stella Dallas""";21022;0;0;0;TRUE
+2196;Native Vision;21023;0;0;0;TRUE
+2197;Light Reading;21024;0;0;0;FALSE 
+2198;Women's Media Resource Guide;21025;0;0;0;TRUE
+2199;Using the Public Library;21026;0;0;0;FALSE 
+2200;Noise From the Dark. Light Breath;21027;0;0;0;FALSE 
+2201;Conversations on Performance;21028;0;0;0;FALSE 
+2202;Vigil Part II;21029;0;0;0;TRUE
+2203;The Whale Concerts;21030;0;0;0;FALSE 
+2204;Interview with Meredith Monk;21031;0;0;0;TRUE
+2205;16 Millimeter Earings [film];21032;0;0;0;FALSE 
+2206;Public Dreams;21033;0;0;0;FALSE 
+2207;A Parade for Spring;21034;0;0;0;FALSE 
+2208;In Rehearsal with Pina Bausch;21035;0;0;0;TRUE
+2209;Meryl Tankard in Pina Bausch's Kontakthof;21036;0;0;0;FALSE
+2210;Jo-Ann Endicott in Pina Bausch's Kontakthof;21037;0;0;0;FALSE
+2211;Script for a Woman in Prison Performance;21038;0;0;0;TRUE
+2212;Who Are You?;21039;0;0;0;FALSE
+2213;Death of a Miner;21040;0;0;0;FALSE
+2214;Artemesia Study #1;21041;0;0;0;FALSE
+2215;"""Vesuvius,"" Volcano Series #28";21042;0;0;0;FALSE
+2216;Political Performance Art: a discussion by…;21043;0;0;0;TRUE
+2217;The Waitress Guide to Food Protection In The Event of a Nuclear Attack;21044;0;0;0;FALSE 
+2218;They're Juggling Our Genes!;21045;0;0;0;FALSE 
+2219;Xipaltomal;21046;0;0;0;FALSE 
+2220;Invisible Performance Workshop;21047;0;0;0;FALSE 
+2221;All Work, All Play, Who Pays?;21048;0;0;0;TRUE
+2222;The Soiree of O;21049;0;0;0;FALSE
+2223;Sidelights;21050;0;0;0;TRUE
+2224;"Donna from ""Live Show""";21051;0;0;0;FALSE
+2225;T.V.;21052;0;0;0;FALSE 
+2226;Women in Research;21053;30678;40678;60212;TRUE
+2227;Women in Research;21053;30679;40679;60213;TRUE
+2228;Women in Research;21053;30679;40680;0;TRUE
+2229;Women in Research;21053;30680;40681;60214;TRUE
+2230;Women in Research;21053;30681;40682;0;TRUE
+2231;Women in Research;21053;30682;40683;60215;TRUE
+2232;Fresh Blood--A Dream Morphology;21054;0;0;0;FALSE 
+2233;Refrigerator Madness (Not the Movie) (Not About Drugs);21055;0;0;0;FALSE 
+2234;Out/In The World;21056;0;0;0;TRUE
+2235;Crayon Bondage;21057;0;0;0;TRUE
+2236;At the Foot of the Mountain: Ashes, Ashes, We All Fall Down;21058;0;0;0;FALSE 
+2237;Theater as Community Ritual: An Interview with Terry Wolverton;21059;0;0;0;TRUE
+2238;Lilith and the Hired Help;21060;0;0;0;TRUE
+2239;To Dance: With Performance in Mind;21061;0;0;0;FALSE 
+2240;Devil's Dream;21062;0;0;0;FALSE 
+2241;Make Art of Your Daily Life;21063;0;0;0;FALSE 
+2242;Having Fun in the Dark;21064;0;0;0;FALSE 
+2243;The Daughters Cycle;21065;0;0;0;FALSE 
+2244;The Future of Illsusionism;21066;0;0;0;TRUE
+2245;Some Kind of Dance;21067;0;0;0;FALSE 
+2246;The Blue Period of the Neo-Expressionist Post Avant-Garde;21068;0;0;0;TRUE
+2247;Barbie N' Barbie;21069;0;0;0;FALSE 
+2248;Junk Love;21070;0;0;0;FALSE 
+2249;"""Money Apron"" from The Fine Art of Waitressing";21071;0;0;0;FALSE 
+2250;Saga of the Wet Hens;21073;0;0;0;FALSE 
+2251;Trick or Drink;21074;0;0;0;TRUE
+2252;"Judith Ren-Lay as ""Ivy Mouse""";21075;0;0;0;FALSE 
+2253;Narratives: A Dramatic Event;21076;0;0;0;TRUE
+2254;Hair: A Narrative;21077;0;0;0;FALSE 
+2255;Ritual (Detail #1);21078;0;0;0;FALSE 
+2256;Ritual (Detail #2);21079;0;0;0;FALSE 
+2257;The Continuing Saga of Scarlot Harlot;21080;0;0;0;FALSE 
+2258;Harpies Complex;21081;0;0;0;TRUE
+2259;Nudes in Repose;21082;0;0;0;FALSE 
+2260;On Jane Chambers: An Interview with Beth Allen and Jere Jacob;21083;0;0;0;TRUE
+2261;Split Britches, A NY Theater Company with Fire in their Pockets;21084;0;0;0;FALSE 
+2262;Dance Instructions for a Young Girl;21085;0;0;0;FALSE 
+2263;Chicken Soup;21086;0;0;0;FALSE 
+2264;Kudiyattam: An Ancient Acting Tradition for Women;21087;0;0;0;TRUE
+2265;Hearing and Seeing: Linda Mussman and Ann Wilson on creating Nonnarrative Theater;21088;0;0;0;TRUE
+2266;Notebook;21655;0;0;0;FALSE 
+2267;In My Hands;21089;0;0;0;FALSE 
+2268;The Graphic Ordering of Desire;21090;30683;40684;0;TRUE
+2269;The Graphic Ordering of Desire;21090;30684;40684;0;TRUE
+2270;The Graphic Ordering of Desire;21090;30685;40685;0;TRUE
+2271;The Graphic Ordering of Desire;21090;30686;40685;0;TRUE
+2272;The Graphic Ordering of Desire;21090;30687;40685;0;TRUE
+2273;The Graphic Ordering of Desire;21090;30688;40686;0;TRUE
+2274;The Graphic Ordering of Desire;21090;30689;40687;60216;TRUE
+2275;The Graphic Ordering of Desire;21090;30690;40688;0;TRUE
+2276;The Graphic Ordering of Desire;21090;30691;40689;60217;TRUE
+2277;The Graphic Ordering of Desire;21090;30684;40690;60218;TRUE
+2278;The Graphic Ordering of Desire;21090;30692;40690;60218;TRUE
+2279;The Graphic Ordering of Desire;21090;30693;40691;0;TRUE
+2280;The Graphic Ordering of Desire;21090;30694;40692;60219;TRUE
+2281;The Graphic Ordering of Desire;21090;30695;40693;60220;TRUE
+2282;The Graphic Ordering of Desire;21090;30695;40694;0;TRUE
+2283;The Graphic Ordering of Desire;21090;30696;40695;0;TRUE
+2284;The Graphic Ordering of Desire;21090;30697;40696;0;TRUE
+2285;Tango Fatale;21091;0;0;0;TRUE
+2286;Sorry I find it So Difficult to Write;21092;0;0;0;FALSE 
+2287;Nancine, Lili & Chloe;21093;0;0;0;TRUE
+2288;Who's Afraid of Aunt Jemima? Quilt and Book;21094;0;0;0;TRUE
+2289;Plain Talk;21095;0;0;0;TRUE
+2290;Not a Nice Jewish Girl: The Return of the Repressed;21096;0;0;0;TRUE
+2291;Messages from the Catholic Church;21098;0;0;0;TRUE
+2292;Me and the TV Stars;21099;0;0;0;FALSE 
+2293;Mammies;21100;0;0;0;FALSE 
+2294;Motherlove;21101;0;0;0;FALSE 
+2295;War, Women, and Lipstick: Fan Mags in the Forties;21102;30758;40757;60239;TRUE
+2296;War, Women, and Lipstick: Fan Mags in the Forties;21102;30759;40758;0;TRUE
+2297;War, Women, and Lipstick: Fan Mags in the Forties;21102;30760;40759;60240;TRUE
+2298;War, Women, and Lipstick: Fan Mags in the Forties;21102;30761;40760;0;TRUE
+2299;War, Women, and Lipstick: Fan Mags in the Forties;21102;30762;40761;60241;TRUE
+2300;War, Women, and Lipstick: Fan Mags in the Forties;21102;30763;40762;0;TRUE
+2301;War, Women, and Lipstick: Fan Mags in the Forties;21102;30764;40763;0;TRUE
+2302;War, Women, and Lipstick: Fan Mags in the Forties;21102;30765;40764;60242;TRUE
+2303;War, Women, and Lipstick: Fan Mags in the Forties;21102;30766;40765;0;TRUE
+2304;War, Women, and Lipstick: Fan Mags in the Forties;21102;30767;40765;0;TRUE
+2305;War, Women, and Lipstick: Fan Mags in the Forties;21102;30768;40766;60243;TRUE
+2306;War, Women, and Lipstick: Fan Mags in the Forties;21102;30769;40767;60244;TRUE
+2307;War, Women, and Lipstick: Fan Mags in the Forties;21102;30770;40768;0;TRUE
+2308;War, Women, and Lipstick: Fan Mags in the Forties;21102;30770;40769;60245;TRUE
+2309;War, Women, and Lipstick: Fan Mags in the Forties;21102;30771;40770;60246;TRUE
+2310;War, Women, and Lipstick: Fan Mags in the Forties;21102;30772;40771;0;TRUE
+2311;War, Women, and Lipstick: Fan Mags in the Forties;21102;30773;40772;60247;TRUE
+2312;My Mother's Body;21103;0;0;0;FALSE
+2313;WORLD'S GREATEST MOM;21104;0;0;0;FALSE 
+2314;From A Series of Delightful Hate Poems;21105;0;0;0;FALSE 
+2315;#1 DAUGHTER;21106;0;0;0;FALSE 
+2316;Woman in a Sawmill, 1966;21107;0;0;0;TRUE
+2317;ETYMOGRAPHY;21108;0;0;0;FALSE 
+2318;Her Intestinal Bypass Surgery;21109;0;0;0;TRUE
+2319;Portrait from Totonicapan;21110;0;0;0;FALSE 
+2320;March 6, 1982;21111;0;0;0;FALSE 
+2321;Matagalpa, Nicaraugua;21112;0;0;0;FALSE 
+2322;One Mother of a Mountain;21113;0;0;0;TRUE
+2323;PLEISTOCENE;21114;0;0;0;FALSE 
+2324;Spirit Lake #1;21115;0;0;0;FALSE 
+2325;Spirit Lake #2;21116;0;0;0;FALSE 
+2326;Of My Mother's Mother's Mother;21117;0;0;0;FALSE 
+2327;Story of Elza;21118;0;0;0;TRUE
+2328;Objects on My Dresser;21119;0;0;0;FALSE 
+2329;From the BARBIE CALENDER;21120;0;0;0;FALSE 
+2330;Manna;21121;0;0;0;TRUE
+2331;Artifact, Commerce, Texas;21122;0;0;0;FALSE 
+2332;Terror Tales;21123;0;0;0;FALSE 
+2333;Wild Beauties;21124;0;0;0;TRUE
+2334;Monotype;21125;0;0;0;FALSE 
+2335;My Mother, Anna Podolsky;21126;0;0;0;FALSE 
+2336;The Class Struggles of the Cosmo Girl and the Ms. Woman;21127;0;0;0;TRUE
+2337;La Secretaria (The Secretary);21128;0;0;0;TRUE
+2338;Don't Fall in Love With a Dreamer;21129;0;0;0;FALSE 
+2339;Eureka!;21130;0;0;0;FALSE 
+2340;Mobility: A Game of Chance and Ambition;21131;0;0;0;FALSE 
+2341;Ya' Got Class, REAL CLASS;21132;0;0;0;TRUE
+2342;Four Women, Vermont;21133;0;0;0;FALSE 
+2343;My Mother as a Tired Woman;21134;0;0;0;FALSE
+2344;Let´s All Kiss Mommy Goodbye - I Can´t Please I Can´t;21135;0;0;0;FALSE 
+2345;Too Much Armour, Too Little Brains;21136;0;0;0;FALSE 
+2346;Male Sexual Curbs Endorsed…;21137;0;0;0;FALSE 
+2347;On The Picket-Reception Line;21139;0;0;0;FALSE 
+2348;Nancy Reagan at the Inauguration;21140;0;0;0;FALSE 
+2349;Ladies Against Women. Petition to protect the unconceived;21657;0;0;0;FALSE 
+2350;California;21659;0;0;0;FALSE 
+2351;Lost Atlantis Discovered…;21143;0;0;0;TRUE
+2352;Art World Treasure Dead at 96;21144;0;0;0;TRUE
+2353;"""Daily Horoscope:"" Look to the Stars";21145;0;0;0;FALSE 
+2354;Best Bets: New Fall TV Shows;21146;0;0;0;FALSE 
+2355;Mimi Sheraton's Food Times;21148;0;0;0;FALSE 
+2356;Looks at Books;21149;0;0;0;FALSE 
+2357;Fashions;21150;0;0;0;FALSE 
+2358;Consumer Expressionism;21660;0;0;0;FALSE 
+2359;Handy Hints;21661;0;0;0;FALSE 
+2360;Demonstrating the ease of condom usage;21662;0;0;0;FALSE 
+2361;untitled;21663;0;0;0;FALSE 
+2362;an idea whose time has come: mariemekko sperm print sheets;21664;0;0;0;FALSE 
+2363;Poem: Because I could not stop for death;21665;0;0;0;FALSE 
+2364;Tenth annual Sylvia Plath Bake-Off;21666;0;0;0;FALSE 
+2365;T.V. Glide (and) Poem;21151;0;0;0;FALSE 
+2366;I woke up today;21667;0;0;0;FALSE 
+2367;untitled;21668;0;0;0;FALSE 
+2368;untitled;21669;0;0;0;FALSE 
+2369;untitled;21670;0;0;0;FALSE 
+2370;AmerCraft Magazine;21671;0;0;0;FALSE 
+2371;Let´s Restore Shame to Sex;21672;0;0;0;FALSE 
+2372;untitled;21673;0;0;0;FALSE 
+2373;untitled;21674;0;0;0;FALSE 
+2374;Bikini;21153;0;0;0;TRUE
+2375;untitled;21675;0;0;0;FALSE
+2376;untitled;21676;0;0;0;FALSE 
+2377;untitled;21677;0;0;0;FALSE 
+2378;I keep wondering;21678;0;0;0;FALSE 
+2379;Love Novellas;21154;0;0;0;FALSE 
+2380;The Redneck Song;21155;0;0;0;FALSE 
+2381;Central America, Will the Real Culprit Please Stand Up;21159;0;0;0;TRUE
+2382;Question 1: What Led to Your Activism;21160;0;0;0;FALSE 
+2383;One Summer at Seneca…;21161;0;0;0;TRUE
+2384;La Muerte Se Confundira Con Tus Suenos;21162;0;0;0;FALSE 
+2385;Gas Orphans;21163;0;0;0;FALSE 
+2386;UNTITLED;21679;0;0;0;FALSE 
+2387;Our Father Who Drowns the Birds;21164;0;0;0;FALSE 
+2388;First Strike for Peace;21165;0;0;0;TRUE
+2389;Clown and Gunship;21166;0;0;0;FALSE 
+2390;Nuclear Power;21167;0;0;0;FALSE 
+2391;Something is Clouding Your Future;21168;0;0;0;FALSE 
+2392;Question 2: How Have Your Political Ideas Evolved?;21169;0;0;0;FALSE 
+2393;If We Could See You;21170;0;0;0;FALSE 
+2394;The New York Eight;21171;0;0;0;TRUE
+2395;Assessing the Facts: Bhopal;21172;0;0;0;FALSE 
+2396;Direct Action Against Sexism in Advertising;21173;0;0;0;TRUE
+2397;from Role Models and Realities;21174;0;0;0;FALSE 
+2398;Doan Ket Dance Collective;21175;0;0;0;TRUE
+2399;Question 3: What Books and/or Traditions have influenced you? Who are your role models?;21176;0;0;0;FALSE 
+2400;Speak Up: Jabberwocky…;21177;0;0;0;TRUE
+2401;UNTITLED, b/w ohoto, 8 X 10;21680;0;0;0;FALSE 
+2402;Lillian Wald: At Home on Henry Street;21178;0;0;0;TRUE
+2403;Following Her Death;21179;0;0;0;FALSE 
+2404;Question 4: Has Your Attitude Changed Towards Nonactivists?;21180;0;0;0;FALSE 
+2405;Reliable Sources;21181;0;0;0;TRUE
+2406;Speak Up: Feminist Tax Resistance;21182;0;0;0;TRUE
+2407;Sisters in Support of Sisters in South Africa;21183;0;0;0;TRUE
+2408;Caroline Motsoaledi;21184;0;0;0;FALSE 
+2409;No Two Are Alike;21185;0;0;0;FALSE 
+2410;Art Against Apartheid;21186;0;0;0;TRUE
+2411;Africa;21187;0;0;0;FALSE 
+2412;Natural Hazards (from Susanna and the Elders);21188;0;0;0;FALSE 
+2413;Conscience of the Art World;21681;0;0;0;FALSE 
+2414;Question 5: Whan Have You Been Most Effective;21189;0;0;0;FALSE 
+2415;Hindsight (and detail);21190;0;0;0;FALSE 
+2416;Belfast Control Zone: An Interview with Suzanne Bunting;21191;0;0;0;TRUE
+2417;Black Sandino;21192;0;0;0;FALSE 
+2418;June Beer's Story;21193;0;0;0;TRUE
+2419;Question 6: What are your greates pleasures in activism? What is your criteria for Success?;21194;0;0;0;FALSE 
+2420;Optimism/Pessimism Constructing a Life;21195;0;0;0;TRUE
+2421;Peace by Piece;21196;30905;40907;0;TRUE
+2422;Peace by Piece;21196;30906;40908;0;TRUE
+2423;Peace by Piece;21196;30907;40909;0;TRUE
+2424;Peace by Piece;21196;30908;40909;0;TRUE
+2425;Peace by Piece;21196;30906;40910;60281;TRUE
+2426;Peace by Piece;21196;30909;40911;60282;TRUE
+2427;Peace by Piece;21196;30910;40912;0;TRUE
+2428;Peace by Piece;21196;30911;40913;0;TRUE
+2429;Peace by Piece;21196;30189;40914;0;TRUE
+2430;Peace by Piece;21196;30912;40915;0;TRUE
+2431;Peace by Piece;21196;30913;40916;0;TRUE
+2432;Peace by Piece;21196;30914;40916;0;TRUE
+2433;Peace by Piece;21196;30199;40917;0;TRUE
+2434;Peace by Piece;21196;30915;40918;0;TRUE
+2435;Peace by Piece;21196;30916;40919;0;TRUE
+2436;Peace by Piece;21196;30917;40919;0;TRUE
+2437;Peace by Piece;21196;30918;40919;0;TRUE
+2438;Peace by Piece;21196;30919;40919;0;TRUE
+2439;Peace by Piece;21196;30920;40920;0;TRUE
+2440;Peace by Piece;21196;30921;40920;0;TRUE
+2441;Peace by Piece;21196;30922;40921;60283;TRUE
+2442;Peace by Piece;21196;30923;40922;0;TRUE
+2443;Peace by Piece;21196;30007;40033;0;TRUE
+2444;Peace by Piece;21196;30924;40923;0;TRUE
+2445;Peace by Piece;21196;30925;40924;0;TRUE
+2446;Peace by Piece;21196;30926;40925;60284;TRUE
+2447;Peace by Piece;21196;30927;40926;60285;TRUE
+2448;Peace by Piece;21196;30928;40927;0;TRUE
+2449;Peace by Piece;21196;30906;40908;0;TRUE
+2450;Peace by Piece;21196;30196;40928;0;TRUE
+2451;Peace by Piece;21196;30929;40929;0;TRUE
+2452;Women's Peace Camps and Resources;21197;0;0;0;FALSE 
+2453;Skulls in Neat Rows;21198;0;0;0;FALSE 
+2454;A Politic to Public Art;21199;0;0;0;TRUE
+2455;White Standard;21200;0;0;0;FALSE 
+2456;Question 7: What Particular frustrations have you experienced in your politica activities and how have you dealth with them? Have you experienced burnout? What brought you back?;21201;0;0;0;FALSE 
+2457;Speak Up: Interviews: Stephanie Woolhandler and Flo Kennedy;21202;0;0;0;TRUE
+2458;Guatemala/Ravena;21203;0;0;0;FALSE
+2459;Limbo Zombies;21204;0;0;0;FALSE
+2460;An Interview with Kathy Goldman: In the Midst of Plenty;21205;0;0;0;TRUE
+2461;Bag Woman/Subway;21206;0;0;0;FALSE 
+2462;Don't Turn Back;21207;0;0;0;FALSE 
+2463;Citizens Relax;21208;0;0;0;FALSE 
+2464;The American Way;21209;0;0;0;FALSE 
+2465;Intellectuals and Political Action;21210;0;0;0;TRUE
+2466;from The Survival Series;21211;0;0;0;FALSE 
+2467;Speak Up: Fighting Gentrification;21212;0;0;0;TRUE
+2468;Question 8: What misunderstandings or cross-purposes have arisen in your group due to racial, sexual, class, religious, or age differences?;21213;0;0;0;FALSE 
+2469;An Interview by Holly Metz: Anonymous Witness;21214;0;0;0;TRUE
+2470;The Shadow Project;21215;0;0;0;TRUE
+2471;untitled;21682;0;0;0;FALSE 
+2472;untitled;21683;0;0;0;FALSE 
+2473;Bomb Victim #17;21216;0;0;0;FALSE 
+2474;Ground Zero;21217;0;0;0;FALSE 
+2475;TOO;21218;0;0;0;FALSE 
+2476;Question 9: What do you find ironic in the everyday contradictions of activism?;21219;0;0;0;FALSE 
+2477;Food For Thought;21221;0;0;0;TRUE
+2478;Growing Up Fat in America;21222;0;0;0;FALSE 
+2479;A.B. Cockless Talkbook(Cock Au Vin);21223;0;0;0;FALSE 
+2480;Here She Comes, Myth California;21224;0;0;0;FALSE 
+2481;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30930;40930;0;TRUE
+2482;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30931;40931;60286;TRUE
+2483;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30932;40932;0;TRUE
+2484;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30933;40933;0;TRUE
+2485;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30934;40934;0;TRUE
+2486;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30935;40935;0;TRUE
+2487;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30935;40936;0;TRUE
+2488;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30936;40937;0;TRUE
+2489;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30937;40938;60287;TRUE
+2490;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30938;40939;60288;TRUE
+2491;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30939;40940;0;TRUE
+2492;Being Women, Eat Crumbs: Thinking About Food Prohibitions;21225;30940;40941;0;TRUE
+2493;Untitled Drawing(Your Hunger is My Starvation);21226;0;0;0;FALSE 
+2494;untitled;21684;0;0;0;FALSE 
+2495;The Commercial Kitchens of Peru;21227;0;0;0;FALSE 
+2496;La Quebradita;21228;0;0;0;FALSE 
+2497;untiteld;21685;0;0;0;FALSE 
+2498;The Farm;21229;0;0;0;TRUE
+2499;An Only Pleasure;21230;0;0;0;TRUE
+2500;untitled (Acrylic on Paper);21686;0;0;0;TRUE
+2501;Queen Kaahumanu;21231;0;0;0;TRUE
+2502;Bullets;21232;0;0;0;FALSE 
+2503;Untitled Photograph;21233;0;0;0;FALSE 
+2504;Toilet Brag;21234;0;0;0;FALSE 
+2505;Formerly Fat;21235;0;0;0;FALSE 
+2506;Personal Growth;21236;0;0;0;TRUE
+2507;for The Fit and Flab Diaries;21237;0;0;0;FALSE 
+2508;D*R*I*N*K;21238;0;0;0;FALSE 
+2509;Excerpts by Sandra Segal from: Woman's Body & Other Natural Resources;21239;0;0;0;FALSE 
+2510;The Fragmentation of Need: Women, Food, & Marketing;21240;0;0;0;TRUE
+2511;Home Ecchh;21241;0;0;0;FALSE 
+2512;Everyone Loves Grandma's Sugar Cookies;21242;0;0;0;FALSE 
+2513;untitled;21687;0;0;0;FALSE 
+2514;Pie Crust Failure;21243;0;0;0;FALSE 
+2515;I Want To Make Breakfast For You;21244;0;0;0;FALSE 
+2516;Appetites;21245;0;0;0;FALSE 
+2517;Miracle of the Peaches;21246;0;0;0;FALSE 
+2518;NAME THAT DAME: Who Are These Famous Food Women?;21247;0;0;0;FALSE 
+2519;Maya and the Crabs;21249;0;0;0;FALSE 
+2520;The Sexual Politics of Meat;21250;30961;40965;0;TRUE
+2521;The Sexual Politics of Meat;21250;30962;40965;0;TRUE
+2522;The Sexual Politics of Meat;21250;30963;40966;0;TRUE
+2523;The Sexual Politics of Meat;21250;30964;40966;0;TRUE
+2524;The Sexual Politics of Meat;21250;30965;40967;60300;TRUE
+2525;The Sexual Politics of Meat;21250;30966;40968;0;TRUE
+2526;The Sexual Politics of Meat;21250;30967;40968;0;TRUE
+2527;The Sexual Politics of Meat;21250;30968;40969;0;TRUE
+2528;The Sexual Politics of Meat;21250;30933;40933;0;TRUE
+2529;The Sexual Politics of Meat;21250;30938;40970;60288;TRUE
+2530;The Sexual Politics of Meat;21250;30969;40971;0;TRUE
+2531;The Sexual Politics of Meat;21250;30970;40972;0;TRUE
+2532;The Sexual Politics of Meat;21250;30971;40973;0;TRUE
+2533;The Sexual Politics of Meat;21250;30972;40974;0;TRUE
+2534;The Sexual Politics of Meat;21250;30973;40975;0;TRUE
+2535;The Sexual Politics of Meat;21250;30974;40976;0;TRUE
+2536;The Sexual Politics of Meat;21250;30975;40976;0;TRUE
+2537;The Sexual Politics of Meat;21250;30976;40977;0;TRUE
+2538;The Sexual Politics of Meat;21250;30396;40978;60301;TRUE
+2539;The Sexual Politics of Meat;21250;30977;40979;0;TRUE
+2540;The Sexual Politics of Meat;21250;30978;40980;0;TRUE
+2541;The Sexual Politics of Meat;21250;30979;40981;0;TRUE
+2542;The Sexual Politics of Meat;21250;30980;40981;0;TRUE
+2543;The Sexual Politics of Meat;21250;30981;40982;0;TRUE
+2544;The Sexual Politics of Meat;21250;30982;40983;60302;TRUE
+2545;Meat Eater with Cupid;21251;0;0;0;FALSE 
+2546;Beef Eater;21252;0;0;0;FALSE 
+2547;untitled;21688;0;0;0;FALSE 
+2548;Conundrum;21253;0;0;0;FALSE 
+2549;The Pound of Flesh Project;21254;0;0;0;TRUE
+2550;Because of You, There's a Song in My Heart;21255;0;0;0;FALSE 
+2551;The Goddess Baubo;21256;0;0;0;FALSE 
+2552;Clean Plate Club;21257;0;0;0;FALSE 
+2553;The Menu For Love;21258;0;0;0;TRUE
+2554;Holy Family Holidays: Perfect Bar-b-que;21259;0;0;0;FALSE 
+2555;Holy Family Holidays: Heavenly Birthday;21260;0;0;0;FALSE
+2556;Our Lady of Constant Calorie Coutning;21261;0;0;0;FALSE 
+2557;The Most Ordinary Moment;21262;0;0;0;FALSE 
+2558;Pet;21263;0;0;0;FALSE 
+2559;Our Lady of Heavenly Coffee;21264;0;0;0;FALSE 
+2560;The Oldest Accusation: Notes on My Collage;21265;0;0;0;TRUE
+2561;Woman Eats Man;21266;0;0;0;FALSE 
+2562;Poems by Aisha Eshe;21267;0;0;0;FALSE 
+2563;untitled, b&w photograph;21689;0;0;0;FALSE 
+2564;DON’T TOUCH IT'S hot;21268;0;0;0;FALSE 
+2565;Monsters;21269;0;0;0;TRUE
+2566;Grandma's Thanksgiving;21270;0;0;0;FALSE 
+2567;In The Kitchen;21271;0;0;0;FALSE 
+2568;Soph's Despair Over Too Much Spice;21272;0;0;0;FALSE 
+2569;Soup Spill;21274;0;0;0;FALSE 
+2570;Pteryptus;21275;0;0;0;FALSE 
+2571;Some Things About the Politics of Size;21276;0;0;0;FALSE 
+2572;untitled (Drawing);21690;0;0;0;FALSE 
+2573;untitled (Drawing);21691;0;0;0;FALSE 
+2574;Around the Fish;21277;0;0;0;FALSE 
+2575;For My Mother;21278;0;0;0;FALSE 
+2576;Why I Overeat;21279;0;0;0;FALSE 
+2577;Mmmm Good;21280;0;0;0;FALSE 
+2578;Inspirational Vegetables & Morally Superior Products;21281;0;0;0;FALSE 
+2579;Inspirational Vegetables;21282;0;0;0;FALSE 
+2580;Born-Again Chicken;21283;0;0;0;FALSE 
+2581;Equal Opportunity Sauce;21284;0;0;0;FALSE 
+2582;Nuclear Food;21285;0;0;0;TRUE
+2583;Nuclear Food, xerox collage;21692;0;0;0;FALSE 
+2584;Corn Is Our Mother: The Hopi's Spiritual Connection to their staple…;21286;0;0;0;TRUE
+2585;Women's Special Relation to Corn;21287;0;0;0;FALSE 
+2586;The Women Who Feed the World: Village Women and Third World Politics;21288;0;0;0;TRUE
+2587;Africa's Food Crisis: Proce of Ignoring Village Women?;21289;0;0;0;TRUE
+2588;Advocate For Women;21291;0;0;0;TRUE
+2589;Working at Development;21292;0;0;0;TRUE
+2590;A Jakarta Household;21293;0;0;0;TRUE
+2591;Thinking Points;21294;0;0;0;FALSE 
+2592;Community Wide Project Changes Women's Lives;21295;0;0;0;TRUE
+2593;Food Fight;21296;0;0;0;FALSE 
+2594;Food- Politics- Power: A Feminist Perspective;21297;0;0;0;TRUE
+2595;from The Anarchistic Eye;21299;0;0;0;FALSE 
+2596;Looking Into Community Arts;21300;0;0;0;TRUE
+2597;Sea Gull with Sea Spirit;21301;0;0;0;FALSE 
+2598;Family Gathering at Christmas Time;21302;0;0;0;FALSE 
+2599;Dona Carmen stands before the alter in her garden…;21303;0;0;0;FALSE 
+2600;Kea Tawana's Ark of Newark;21304;0;0;0;TRUE
+2601;The Docklands Community Poster Project;21305;0;0;0;TRUE
+2602;The Paris Project and the Art of Lesbian Relationships;21306;0;0;0;TRUE
+2603;untitled;21693;0;0;0;FALSE 
+2604;untitled;21694;0;0;0;FALSE 
+2605;untitled;21695;0;0;0;FALSE 
+2606;untitled;21696;0;0;0;FALSE 
+2607;Interview with Trinh T. Minh-ha;21307;0;0;0;TRUE
+2608;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31035;41047;0;TRUE
+2609;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31036;41048;0;TRUE
+2610;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31037;41049;0;TRUE
+2611;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31038;41050;0;TRUE
+2612;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31039;41051;60314;TRUE
+2613;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31040;41052;0;TRUE
+2614;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31041;41053;0;TRUE
+2615;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31042;41054;0;TRUE
+2616;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31043;41055;60315;TRUE
+2617;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31044;41056;60315;TRUE
+2618;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;31045;41057;0;TRUE
+2619;Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music;21308;30941;40942;0;TRUE
+2620;from Spray it Loud and Louder than Words;21309;0;0;0;FALSE 
+2621;Story Cloth, 1985;21310;0;0;0;TRUE
+2622;Community and the Allowance of Difference;21311;0;0;0;TRUE
+2623;untitled;21697;0;0;0;FALSE 
+2624;The Importance of Being Visionary…;21312;31046;41062;0;TRUE
+2625;The Importance of Being Visionary…;21312;31047;41063;60316;TRUE
+2626;The Importance of Being Visionary…;21312;31048;41064;60316;TRUE
+2627;The Importance of Being Visionary…;21312;31049;41065;0;TRUE
+2628;The Importance of Being Visionary…;21312;31050;41066;0;TRUE
+2629;The Importance of Being Visionary…;21312;31056;41067;0;TRUE
+2630;The Women's Circus Trip to Nicaragua;21314;0;0;0;TRUE
+2631;Arpilleras of Chile: Using Art as a Teaching Tool;21315;0;0;0;TRUE
+2632;Irish Women: A Daily Struggle;21316;0;0;0;TRUE
+2633;The Postcard Project: An Interview with Performance Artist Cheri Gaulke;21317;0;0;0;TRUE
+2634;Tough Times;21318;0;0;0;TRUE
+2635;Young Artists' Painting Workshop Mural;21319;0;0;0;FALSE 
+2636;At the Pow Wow;21320;0;0;0;FALSE 
+2637;Bumpass Cove Tapestry (Photo of:);21321;0;0;0;FALSE 
+2638;Reclamation Art;21322;0;0;0;TRUE
+2639;The Urban Gardner;21323;0;0;0;TRUE
+2640;Garden Sculpture;21324;0;0;0;FALSE 
+2641;Temple of the Vestigial Virgins…;21325;0;0;0;TRUE
+2642;Crystal Talking;21326;0;0;0;TRUE
+2643;The Gracie Challenge;21327;0;0;0;TRUE
+2644;Pictures of Ourselves;21328;0;0;0;TRUE
+2645;Strange Dread;21329;0;0;0;FALSE 
+2646;"from series ""Groups""";21330;0;0;0;FALSE 
+2647;First We Create the Nightmare-- Then We Build the Prison;21331;31104;41122;0;TRUE
+2648;First We Create the Nightmare-- Then We Build the Prison;21331;30005;41123;0;TRUE
+2649;First We Create the Nightmare-- Then We Build the Prison;21331;31105;41124;0;TRUE
+2650;First We Create the Nightmare-- Then We Build the Prison;21331;30191;41125;0;TRUE
+2651;First We Create the Nightmare-- Then We Build the Prison;21331;31106;41126;60344;TRUE
+2652;Daughter Speaking;21332;0;0;0;FALSE 
+2653;Will the Real Criminal Please Stand Up?;21333;0;0;0;FALSE 
+2654;My New Daddy;21334;0;0;0;FALSE 
+2655;The Fire Inside;21335;0;0;0;FALSE 
+2656;"from ""Urban Vision"" Project";21336;0;0;0;FALSE 
+2657;Synthesizing: Art, Nature, and Technology;21337;0;0;0;TRUE
+2658;From: Working Ties;21338;0;0;0;FALSE 
+2659;On Cultural Democracy;21339;0;0;0;TRUE
+2660;Rehearsals;21340;0;0;0;FALSE 
+2661;Photos of Women at Livingston College;21341;0;0;0;FALSE 
+2662;After Delores;21342;0;0;0;TRUE
+2663;A Slower Step;21343;0;0;0;TRUE
+2664;About Windows on White;21344;0;0;0;TRUE
+2665;Imagine You Can Dance;21345;0;0;0;FALSE 
+2666;She's Her Own Walkman;21346;0;0;0;FALSE 
+2667;Fence;21347;0;0;0;FALSE 
+2668;The Mural;21348;0;0;0;TRUE
+2669;The Stobie Pole;21349;0;0;0;TRUE
+2670;Making Activist Art;21350;0;0;0;TRUE
+2671;Untitled Sculpture;21352;0;0;0;FALSE 
+2672;Bird(s) Watching;21353;0;0;0;TRUE
+2673;Civic Minded Landscaping;21354;0;0;0;TRUE
+2674;Reaching 50 (The Process of Aging II);21355;0;0;0;TRUE
+2675;Extremeities;21356;0;0;0;FALSE 
+2676;Untitled (Cartoon);21357;0;0;0;FALSE 
+2677;Rented Rooms;21358;0;0;0;FALSE 
+2678;Change of Address;21359;0;0;0;FALSE 
+2679;"Installation and Set for the Performance ""Private Places""";21360;0;0;0;FALSE 
+2680;Gentle Events;21361;0;0;0;FALSE 
+2681;Fore River;21362;0;0;0;FALSE 
+2682;"""Right Now is Always the Best Age";21363;0;0;0;TRUE
+2683;Me Waxing;21364;0;0;0;FALSE 
+2684;Self-Portrait as Nike--Winged Victory;21365;0;0;0;FALSE 
+2685;The Graduation;21366;0;0;0;FALSE 
+2686;Life's Everyday Transformations;21367;0;0;0;FALSE 
+2687;Momma's Death;21368;0;0;0;FALSE 
+2688;Lost Childhood;21369;0;0;0;FALSE 
+2689;Fear Sucks;21370;0;0;0;TRUE
+2690;You, Me, and Willa;21371;0;0;0;FALSE 
+2691;When Eva Boa Went Crazy;21372;0;0;0;TRUE
+2692;So Help Me Hannah Series: Portrait of the Artist with Her Mother;21373;0;0;0;FALSE 
+2693;Living With Lupus;21374;0;0;0;TRUE
+2694;Mykonos;21375;0;0;0;FALSE 
+2695;"Geraldine Page in the film ""Table for One""";21376;0;0;0;FALSE 
+2696;Whispering;21377;0;0;0;TRUE
+2697;The Crystal Quilt;21378;0;0;0;TRUE
+2698;Where's Mother?;21379;0;0;0;TRUE
+2699;From: Family Series #2;21380;0;0;0;FALSE 
+2700;From: Family Series #16;21381;0;0;0;FALSE 
+2701;Seasons of Mist;21382;0;0;0;TRUE
+2702;They're Leaving Him Behind;21383;0;0;0;FALSE 
+2703;Death of an Old Crone;21384;0;0;0;FALSE 
+2704;After Death;21385;0;0;0;FALSE 
+2705;Elena Was Born;21386;0;0;0;FALSE 
+2706;Baby Contest;21387;0;0;0;FALSE 
+2707;Before Roe v. Wade: Working at New York's First Legal Abortion Clinic;21388;0;0;0;TRUE
+2708;No Longer Afraid;21389;0;0;0;FALSE 
+2709;Metamorphisis;21390;0;0;0;FALSE 
+2710;The Theater of Life From Behind New York Walls;21391;0;0;0;FALSE 
+2711;Michaelangelo Sky;21392;0;0;0;TRUE
+2712;Yaro, Aged 10, Just After Her Bath…;21393;0;0;0;FALSE 
+2713;It's Not So Good To Be Born a Girl/ Sometimes;21394;0;0;0;TRUE
+2714;"""Dirty Pictures""";21395;0;0;0;FALSE 
+2715;The Forest of Wild Grass;21396;0;0;0;FALSE 
+2716;Mother and Daughter;21397;0;0;0;FALSE 
+2717;Some of My Stories;21398;0;0;0;TRUE
+2718;Private Parties;21399;0;0;0;TRUE
+2719;Sock Relations;21400;0;0;0;FALSE 
+2720;The Empty Nest Syndrome (or Sing a Song of Solitude);21401;0;0;0;FALSE 
+2721;45 in the Washroom Mirror;21402;0;0;0;FALSE 
+2722;The Jewish-American Princess;21403;0;0;0;TRUE
+2723;UNTITLED;21722;0;0;0;FALSE 
+2724;Old Ladies;21404;0;0;0;FALSE 
+2725;Coming of Age: Words Where it Counts;21405;0;0;0;TRUE
+2726;Meeting Gran;21406;0;0;0;TRUE
+2727;Freida;21407;0;0;0;FALSE 
+2728;On Common Ground;21408;0;0;0;TRUE
+2729;From Israel to Hiroshima;21409;0;0;0;FALSE 
+2730;Acceptable In Your Sight;21410;0;0;0;TRUE
+2731;Genesis;21411;0;0;0;FALSE 
+2732;Headless Woman;21412;0;0;0;FALSE 
+2733;Pink Clay;21413;0;0;0;TRUE
+2734;Roads;21414;0;0;0;FALSE 
+2735;Mirror Image;21415;0;0;0;FALSE 
+2736;Terms of Entrapment;21416;0;0;0;FALSE 
+2737;Blood and Milk;21417;0;0;0;FALSE 
+2738;As The Process Advances: WOMEN Emerginf Within a Revolutionary Society;21418;0;0;0;TRUE
+2739;Wonder Calavera After Posada;21419;0;0;0;FALSE 
+2740;Revolution;21420;0;0;0;FALSE 
+2741;Olive, Distressed;21421;0;0;0;TRUE
+2742;Wine For Lunch;21422;0;0;0;TRUE
+2743;Big Secrets;21423;0;0;0;FALSE 
+2744;UNTITLED;21723;0;0;0;FALSE 
+2745;UNTITLED;21724;0;0;0;FALSE 
+2746;Two Women II;21725;0;0;0;FALSE 
+2747;Two Women IV;21726;0;0;0;FALSE 
+2748;Cunts/Quilts/Consciouseness;21727;0;0;0;TRUE
+2749;Self-Portrait;21728;0;0;0;FALSE 
+2750;North American Candle Snuffer;21729;0;0;0;FALSE 
+2751;Echo II;21730;0;0;0;FALSE 
+2752;Family Jewels;21731;0;0;0;FALSE 
+2753;Stone Alignments/Solstice Cairns;21732;0;0;0;FALSE 
+2754;Leaf Scroll;21733;0;0;0;FALSE 
+2755;Earth Birth;21734;0;0;0;FALSE 
+2756;"""Mama´s Best Friend"" Irene at 13";21735;0;0;0;FALSE 
+2757;Grade A;21736;0;0;0;FALSE 
+2758;A Carriage Ride;21737;0;0;0;FALSE 
+2759;Silver Bones;21738;0;0;0;FALSE 
+2760;Butterflies;21739;0;0;0;FALSE 
+2761;Steel Wool Peignoir;21740;0;0;0;FALSE 
+2762;Conservatory;21741;0;0;0;FALSE 
+2763;Gladys Apron;21742;0;0;0;FALSE 
+2764;Mixed Metaphore;21743;0;0;0;FALSE 
+2765;Untitled (My Hero!);21744;0;0;0;FALSE 
+2766;Madhouse Madhouse;21745;0;0;0;FALSE 
+2767;From Liberation to Lack;21746;31263;41301;0;TRUE
+2768;From Liberation to Lack;21746;31264;41302;0;TRUE
+2769;From Liberation to Lack;21746;31265;41303;60404;TRUE
+2770;From Liberation to Lack;21746;31097;41110;0;TRUE
+2771;From Liberation to Lack;21746;31098;41110;0;TRUE
+2772;From Liberation to Lack;21746;31266;41304;0;TRUE
+2773;From Liberation to Lack;21746;31267;41304;0;TRUE
+2774;From Liberation to Lack;21746;31265;41305;0;TRUE
+2775;From Liberation to Lack;21746;31268;41306;0;TRUE
+2776;From Liberation to Lack;21746;31269;41307;0;TRUE
+2777;From Liberation to Lack;21746;31270;41308;0;TRUE
+2778;From Liberation to Lack;21746;30857;41309;60405;TRUE
+2779;Untitled film still;21747;0;0;0;FALSE 
+2780;"""Document 6"" from Postpartum Document";21748;0;0;0;FALSE 
+2781;Henry Ford Hospital;21749;0;0;0;FALSE 
+2782;Wild Life;21750;0;0;0;FALSE 
+2783;Nature Study;21751;0;0;0;FALSE 
+2784;The History of Art [ongoing series];21752;0;0;0;FALSE 
+2785;Negotiating the Feminist Divide;21753;31271;41310;0;TRUE
+2786;Negotiating the Feminist Divide;21753;31272;41311;0;TRUE
+2787;Negotiating the Feminist Divide;21753;31266;41304;0;TRUE
+2788;Negotiating the Feminist Divide;21753;31267;41304;0;TRUE
+2789;Negotiating the Feminist Divide;21753;31273;41312;0;TRUE
+2790;Negotiating the Feminist Divide;21753;31264;41302;0;TRUE
+2791;What is Feminist Art;21754;0;0;0;FALSE 
+2792;Both Sides Now [ A Reprise];21755;0;0;0;TRUE
+2793;Is God Punishing Us?;21756;0;0;0;FALSE 
+2794;Curb Your Animal Instinct;21757;0;0;0;FALSE 
+2795;Race;21758;0;0;0;FALSE 
+2796;Untitled Installation;21759;0;0;0;FALSE 
+2797;Humanitarian Aid;21760;0;0;0;FALSE 
+2798;The Advantages of Being a Woman Artist;21761;0;0;0;FALSE 
+2799;Sharings;21762;0;0;0;TRUE
+2800;Historias. Women Tinsmiths of New Mexico;21763;0;0;0;TRUE
+2801;Kindergarten Class--Graduation 1970;21426;0;0;0;FALSE 
+2802;The Art of Education;21427;0;0;0;FALSE 
+2803;Blind History;21428;0;0;0;FALSE 
+2804;On Failure and Anonymity;21429;0;0;0;TRUE
+2805;Why do they crave the experience?;21430;0;0;0;FALSE 
+2806;The Spinning of the Top;21431;0;0;0;FALSE 
+2807;untitled;21764;0;0;0;FALSE 
+2808;The Wonderful Pig of Knowledge;21432;0;0;0;FALSE 
+2809;No Potato Chips;21433;0;0;0;FALSE 
+2810;Fifth Grade;21434;0;0;0;FALSE 
+2811;Classroom, n.d.;21435;0;0;0;FALSE 
+2812;Seize the Time;21436;0;0;0;TRUE
+2813;From the Cameoseries;21437;0;0;0;FALSE 
+2814;A Manual for Survival;21438;0;0;0;FALSE 
+2815;Elementary School Class in the Gaza Strip;21439;0;0;0;FALSE 
+2816;Country Window and Broken Window;21440;0;0;0;FALSE 
+2817;Windows;21441;0;0;0;FALSE 
+2818;Question Marks;21442;0;0;0;FALSE 
+2819;Dress;21443;0;0;0;FALSE 
+2820;Sewing Class;21444;0;0;0;FALSE 
+2821;Father and General;21445;0;0;0;FALSE 
+2822;Children's Lives as Curriculum;21446;0;0;0;TRUE
+2823;Brother and Sister;21447;0;0;0;FALSE 
+2824;White Dress I;21448;0;0;0;FALSE 
+2825;Statue Pointing;21449;0;0;0;FALSE 
+2826;Mother and Child;21450;0;0;0;FALSE 
+2827;White Dress II;21451;0;0;0;FALSE 
+2828;I'm Tired of Being Angry;21452;0;0;0;FALSE 
+2829;Love Story;21765;0;0;0;FALSE 
+2830;Kids Playing at the Gramercy Boys' Club…;21453;0;0;0;FALSE 
+2831;On Being An American Black Student;21454;0;0;0;TRUE
+2832;Predominant Ideology;21455;0;0;0;FALSE 
+2833;Chinatown;21456;0;0;0;FALSE 
+2834;Welcome to You See;21457;0;0;0;FALSE 
+2835;Learn to Earn;21458;0;0;0;FALSE 
+2836;Dear Professor Vile;21459;0;0;0;FALSE 
+2837;What They Write About in Other Countries;21460;0;0;0;TRUE
+2838;The Offering;21461;0;0;0;FALSE 
+2839;I Met a Man Who Knows He Knows;21462;0;0;0;FALSE 
+2840;The Beginning of an Extraordinary Friendship;21463;0;0;0;FALSE 
+2841;The Brat from Beverly Hills;21465;0;0;0;FALSE 
+2842;Untitled I;21464;0;0;0;FALSE 
+2843;untitled, 1989, photograph;21766;0;0;0;FALSE 
+2844;Signs/Signals;21466;0;0;0;FALSE 
+2845;Bone By Bone…;21467;0;0;0;TRUE
+2846;Women's Wheel;21468;0;0;0;FALSE 
+2847;Tracy;21469;0;0;0;FALSE 
+2848;Women, Art, and Cross-Cultural Issues;21470;0;0;0;TRUE
+2849;Aesthetic Questions;21471;0;0;0;TRUE
+2850;African America: Images, Ideas, and Realities;21472;0;0;0;TRUE
+2851;New York City School System;21473;0;0;0;FALSE 
+2852;Untitled;21767;0;0;0;FALSE 
+2853;How to Make an Excellent Teacher;21474;0;0;0;FALSE 
+2854;From So Help Me Hannah;21476;0;0;0;FALSE 
+2855;An Open-Trench-Coat Poem for Dirty Boys;21477;0;0;0;FALSE 
+2856;Other Nature;21478;0;0;0;FALSE 
+2857;Rap Sheet;21479;0;0;0;FALSE 
+2858;People of Color at White Elitist Colleges;21480;0;0;0;TRUE
+2859;They Lied;21481;0;0;0;FALSE 
+2860;Brainhouse;21482;0;0;0;FALSE 
+2861;Toward a Synthetic Art Education;21483;0;0;0;TRUE
+2862;The Library;21484;0;0;0;FALSE 
+2863;The Reception: On Learning and Criticism;21485;0;0;0;TRUE
+2864;From A Timely Existence;21486;0;0;0;FALSE 
+2865;Critics;21487;0;0;0;FALSE 
+2866;Beating The Odds;21488;0;0;0;FALSE 
+2867;Socrates (detail);21489;0;0;0;FALSE 
+2868;The Interview:…;21490;0;0;0;FALSE 
+2869;Classroom #3;21491;0;0;0;FALSE 
+2870;Educating The Body;21492;0;0;0;TRUE
+2871;Classroom #4;21493;0;0;0;FALSE 
+2872;Learning to Play;21494;0;0;0;TRUE
+2873;The Final Call;21495;0;0;0;FALSE 
+2874;Dangerous Discussions;21496;0;0;0;TRUE
+2875;Dominican Republic;21497;0;0;0;FALSE 
+2876;Domincan Republic (2);21498;0;0;0;FALSE 
+2877;untitled;21768;0;0;0;FALSE 
+2878;Fences;21500;0;0;0;FALSE 
+2879;Staying Horrified;21501;0;0;0;TRUE
+2880;Classroom;21502;0;0;0;FALSE 
+2881;Beehive;21503;0;0;0;FALSE 
+2882;untitled;21769;0;0;0;FALSE 
+2883;Madhouse Madhouse;21504;0;0;0;FALSE 
+2884;The Secret;21505;0;0;0;FALSE 
+2885;From the Russian Editors of IdiomA;21506;0;0;0;TRUE
+2886;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31274;41313;0;TRUE
+2887;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31275;41314;60406;TRUE
+2888;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31276;41315;60407;TRUE
+2889;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31266;41304;0;TRUE
+2890;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31267;41304;0;TRUE
+2891;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31267;41316;60408;TRUE
+2892;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31277;41317;0;TRUE
+2893;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31278;41318;60409;TRUE
+2894;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31267;41319;0;TRUE
+2895;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31279;41320;60410;TRUE
+2896;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31280;41321;60411;TRUE
+2897;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31281;41322;0;TRUE
+2898;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31282;41323;60407;TRUE
+2899;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31283;41324;0;TRUE
+2900;Reflections of Resistance: Women Artists on Both Sides of the Mir;21509;31284;41325;60412;TRUE
+2901;Park;21510;0;0;0;FALSE 
+2902;Planting Potatoes;21511;0;0;0;FALSE 
+2903;work uniform designs for actors at the Free Studio…;21512;0;0;0;FALSE 
+2904;Portrait of the General Secretary of the Communist Party, Felix Dzerzhinsky;21514;0;0;0;FALSE 
+2905;Worker and Collective Farmworker;21515;0;0;0;FALSE 
+2906;Women's Classes at the St. Petersburg Drawing School for Auditors;21516;0;0;0;FALSE 
+2907;The Near and the Far;21518;0;0;0;FALSE 
+2908;Entrance to Jerusalem;21519;0;0;0;FALSE 
+2909;set design for Queen of Spades;21520;0;0;0;FALSE 
+2910;Woman Reading;21521;0;0;0;FALSE 
+2911;After Running;21523;0;0;0;FALSE 
+2912;Circus Girl;21524;0;0;0;FALSE 
+2913;Women Construction Workers at the Moldavin Hydro Power Station;21525;0;0;0;FALSE 
+2914;Portaits of Civil War Heroes and Contemporary Leaders;21526;0;0;0;FALSE 
+2915;Runes;21527;0;0;0;FALSE 
+2916;Walking People;21528;0;0;0;FALSE 
+2917;Constellations;21529;0;0;0;FALSE 
+2918;Self-portrait;21770;0;0;0;FALSE 
+2919;The Red Fish;21530;0;0;0;FALSE 
+2920;Illustration for libretto Thoughs on Opanas After the Poem by Edward Bagritsky;21531;0;0;0;FALSE 
+2921;Forest Ritual;21533;0;0;0;FALSE 
+2922;model with work;21534;0;0;0;FALSE 
+2923;diptych;21535;0;0;0;FALSE 
+2924;M.K.K.M.;21536;0;0;0;FALSE 
+2925;untitled;21771;0;0;0;FALSE 
+2926;Rest in Peace;21537;0;0;0;FALSE 
+2927;Ikisos;21538;0;0;0;FALSE 
+2928;Detail Iksisos;21539;0;0;0;FALSE 
+2929;Prekrasnoye (The Sublime or Red Square);21540;0;0;0;FALSE 
+2930;Why Have There Been No Great Women Artists? (Excerpts);21548;30308;41326;60272;TRUE
+2931;Around b: Power and the Magic of Writing;21549;0;0;0;TRUE
+2932;Twins, or Kiss on the Cheeks;21550;0;0;0;FALSE 
+2933;cover for book by Lef Khrutsky…;21551;0;0;0;FALSE 
+2934;untitled collage;21552;0;0;0;FALSE 
+2935;Patriotic Alphabet;21553;0;0;0;FALSE 
+2936;American Agricultural Techniques at Work…;21554;0;0;0;FALSE 
+2937;Self-Portrait After Titan;21555;0;0;0;FALSE 
+2938;The Childhood of Napoleon;21556;0;0;0;FALSE 
+2939;The Alexeev Family;21557;0;0;0;FALSE 
+2940;Old Folk from the Nprthern Village;21558;0;0;0;FALSE 
+2941;(translated quotes);21559;0;0;0;FALSE 
+2942;The First Feminist Art Exhibitions in the U.S.S.R.;21560;0;0;0;TRUE
+2943;untitled artwork;21772;0;0;0;FALSE 
+2944;untitled artwork;21773;0;0;0;FALSE 
+2945;untitled artwork;21774;0;0;0;FALSE 
+2946;untitled artwork;21775;0;0;0;FALSE 
+2947;untitled artwork;21776;0;0;0;FALSE 
+2948;untitled artwork;21777;0;0;0;FALSE 
+2949;untitled artwork;21778;0;0;0;FALSE 
+2950;untitled artwork;21779;0;0;0;FALSE 
+2951;untitled artwork;21780;0;0;0;FALSE 
+2952;Dealing with Gender: Two Shows;21561;0;0;0;TRUE
+2953;Woman Worker;21562;0;0;0;TRUE
+2954;The Revolt of the Daughters;21563;0;0;0;TRUE
+2955;Rodion Raskolnikov from Dostoyevsky's Crime and Punishment;21564;0;0;0;FALSE 
+2956;Portrait of Dostoyevsky;21565;0;0;0;FALSE 
+2957;A Conversation with Aleksandra Korsakova (1904-1990);21566;0;0;0;TRUE
+2958;Femininity & Power: Participants' Statements;21567;0;0;0;FALSE 
+2959;Conversations about us and the Spirits;21781;0;0;0;TRUE
+2960;Dream Being, 1991, clay;21782;0;0;0;FALSE 
+2961;Desasosiego;21783;0;0;0;FALSE 
+2962;Mere Effigies of Shells and Men...;21784;0;0;0;FALSE 
+2963;Potato Spirit;21785;0;0;0;FALSE 
+2964;Cartas de Corazón;21786;0;0;0;FALSE 
+2965;The Origins of Intercultural Performance in the West;21787;0;0;0;TRUE
+2966;La Cabrona Anaconda;21788;0;0;0;FALSE 
+2967;Regression 500;21789;0;0;0;TRUE
+2968;True Statements;21790;0;0;0;FALSE 
+2969;Sensuality and Pleasure;21791;0;0;0;TRUE
+2970;Tú y Yo;21792;0;0;0;FALSE 
+2971;Megalopolis: Contemporary Urban Sensibilities;21793;0;0;0;TRUE
+2972;untitled;21794;0;0;0;FALSE 
+2973;Legs, 1992;21795;0;0;0;FALSE 
+2974;Mom;21796;0;0;0;TRUE
+2975;Nine Voices. Hearing from the Next Generation;21797;0;0;0;TRUE
+2976;We, the colonized ones;21798;0;0;0;FALSE 
+2977;Latinos, Hispanics... What Next? - Some reflections on the politics of identitiy in the US;21799;31285;41327;60413;TRUE
+2978;Latinos, Hispanics... What Next? - Some reflections on the politics of identitiy in the US;21799;31286;41328;60414;TRUE
+2979;Latinos, Hispanics... What Next? - Some reflections on the politics of identitiy in the US;21799;31287;41329;60415;TRUE
+2980;Latinos, Hispanics... What Next? - Some reflections on the politics of identitiy in the US;21799;31288;41330;60416;TRUE
+2981;The Country The Body;21800;0;0;0;FALSE 
+2982;Venus Envy Chapter One (or, The First Holy Communion - Moments Before the End);21801;0;0;0;FALSE 
+2983;from the Codice de corazón sagrado series;21802;0;0;0;FALSE 
+2984;The Way Around;21803;0;0;0;FALSE 
+2985;Woman & Child, n.d.;21804;0;0;0;FALSE 
+2986;Without Boundaries;21805;0;0;0;FALSE 
+2987;Path to the Memory: 1492-1992;21806;0;0;0;FALSE 
+2988;Positive Spin: Latina Artists Respond to Ghettoization;21807;0;0;0;FALSE 
+2989;Nomad;21808;0;0;0;FALSE 
+2990;Study for Paintings No. 8;21809;0;0;0;FALSE 
+2991;Oración: Valentine´s Day/Day of the dead series;21810;0;0;0;FALSE 
+2992;The tree of life;21811;0;0;0;FALSE 
+2993;La ponkalavera güera;21812;0;0;0;FALSE 
+2994;Sun Mad;21813;0;0;0;FALSE 
+2995;Images - Latin Style;21817;0;0;0;FALSE 
+2996;Adam - 1999 & Fast Forward;21818;0;0;0;FALSE 
+2997;La Barca de oro (ShivAni series);21819;0;0;0;FALSE 
+2998;Mas Soy Latina Americana;21820;0;0;0;FALSE 
+2999;untitled;21821;0;0;0;FALSE 
+3000;The Bride;21822;0;0;0;FALSE 
+3001;Brincando el Charco: Fragments of a Script;21823;0;0;0;FALSE 
+3002;Two Men Urinating;21824;0;0;0;FALSE 
+3003;Orphans I: Men and Prostitutes;21825;0;0;0;FALSE 
+3004;"Agamenón-Kinsuk se ahogó en el Lágo Dos Bocas (""Agamemnon-Kinsuk Drowning in Dos Bocas Lake"")";21826;0;0;0;FALSE 
+3005;Mascando Inglés (Chewing English);21827;0;0;0;FALSE 
+3006;Resistance and Affirmation in African Diaspora Latin Communities;21828;31289;41331;0;FALSE 
+3007;Resistance and Affirmation in African Diaspora Latin Communities;21828;31289;41332;0;FALSE 
+3008;Resistance and Affirmation in African Diaspora Latin Communities;21828;31290;41333;0;FALSE 
+3009;BLACK WHITE;21829;0;0;0;FALSE 
+3010;neither here nor there... yet;21830;0;0;0;TRUE
+3011;searching sharing;21831;0;0;0;TRUE
+3012;Vistas Latinas;21832;0;0;0;TRUE
+3013;Letting La Llorona Go Or Re/reading History´s Tender Mercies;21833;0;0;0;TRUE
